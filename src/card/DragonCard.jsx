@@ -39,9 +39,21 @@ const DragonCard = ({ data }) => {
         <div className="left-column">
           <div className="cost">{costToIcons(data)}</div>
           <div className="habitats">
-            <div className={data["Crimson Cavern"] ? "crimson-habitat" : "empty-habitat"} />
-            <div className={data["Golden Grotto"] ? "golden-habitat" : "empty-habitat"} />
-            <div className={data["Amethyst Abyss"] ? "amethyst-habitat" : "empty-habitat"} />
+            <div
+              className={
+                data["Crimson Cavern"] ? "crimson-habitat" : "empty-habitat"
+              }
+            />
+            <div
+              className={
+                data["Golden Grotto"] ? "golden-habitat" : "empty-habitat"
+              }
+            />
+            <div
+              className={
+                data["Amethyst Abyss"] ? "amethyst-habitat" : "empty-habitat"
+              }
+            />
           </div>
           <div className="number">{data.number}</div>
         </div>
@@ -52,17 +64,17 @@ const DragonCard = ({ data }) => {
           </div>
           <div className="size">{data.size.toUpperCase()}</div>
           <div className="eggs">
-          {Array(Number(data.capacity)).fill(0).map(
-            (_, index) => (
-              <img
-                className="egg-icon"
-                key={index}
-                src={EggCapacity}
-                alt="Egg"
-              />
-            )
-          )}
-        </div>
+            {Array(Number(data.capacity))
+              .fill(0)
+              .map((_, index) => (
+                <img
+                  className="egg-icon"
+                  key={index}
+                  src={EggCapacity}
+                  alt="Egg"
+                />
+              ))}
+          </div>
           <img
             className="personality"
             src={require(`../assets/icons/${data.personality}.svg`)}
@@ -72,7 +84,18 @@ const DragonCard = ({ data }) => {
       </div>
       <div className="lower-container">
         <div className="ability">
-          <div>{renderImagesInText(data.ability)}</div>
+          {data.size === "Hatchling" ? (
+            <div>{renderImagesInText(data.ability)}</div>
+          ) : (
+            <>
+              <img
+                className="ability-icon"
+                src={require(`../assets/icons/${data.abilityType}.svg`)}
+                alt={data.abilityType}
+              />
+              <div>{renderImagesInText(data.ability)}</div>
+            </>
+          )}
         </div>
       </div>
     </div>

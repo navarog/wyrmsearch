@@ -12,10 +12,11 @@
     flex: 0.19;
     font-size: 7cqw;
     text-align: center;
+    padding: 0 15cqw;
 }
 
 .middle-container {
-    flex: 0.5;
+    flex: 0.52;
     display: flex;
     justify-content: space-between;
 }
@@ -102,11 +103,6 @@
     z-index: -1;
 }
 
-.lower-container {
-    flex: 0.31;
-    font-size: 6cqw;
-}
-
 .VP {
     position: relative;
     width: 30%;
@@ -151,6 +147,62 @@
 
 .egg-icon {
     width: 8cqw;
+}
+
+.lower-container {
+    flex: 0.29;
+    font-size: 7cqw;
+    padding: 2cqw 6cqw 2cqw 6cqw;
+    line-height: 1em;
+    display: flex;
+}
+
+.ability {
+    display: flex;
+    font-family: "Acumin Pro Condensed", sans-serif;
+}
+
+.ability-icon {
+    width: 12cqw;
+    height: 12cqw;
+    margin-right: 2cqw;
+}
+
+.highlight-aggressive {
+    color: white;
+    background: linear-gradient(0deg, transparent 15%, #f07422 15%, #f07422 85%, transparent 85%);
+}
+
+.highlight-playful {
+    color: white;
+    background: linear-gradient(0deg, transparent 15%, #df579f 15%, #df579f 85%, transparent 85%);
+}
+
+.highlight-helpful {
+    color: white;
+    background: linear-gradient(0deg, transparent 15%, #84c665 15%, #84c665 85%, transparent 85%);
+}
+
+.highlight-shy {
+    color: white;
+    background: linear-gradient(0deg, transparent 15%, #81cbf1 15%, #81cbf1 85%, transparent 85%);
+}
+
+.vp-span {
+    position: relative;
+    font-weight: 600;
+    padding-left: 0.3em;
+    padding-right: 0.2em;
+}
+
+.vp-span .text-icon {
+    position: absolute;
+    top: 0.1em;
+    left: -0.12em;
+    width: 1.2em;
+    height: 1.2em;
+    margin-bottom: -0.1em;
+    z-index: -1;
 }
 
 .card {
