@@ -1,0 +1,12 @@
+.text-icon {
+    height: 1.1em;
+    width: auto;
+}
+
+
+.card {
+    display: flex;
+    flex-direction: column;
+    aspect-ratio: 57 / 87;
+}
+  
