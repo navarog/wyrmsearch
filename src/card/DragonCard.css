@@ -11,6 +11,7 @@
     align-items: center;
     flex: 0.19;
     font-size: 7cqw;
+    text-align: center;
 }
 
 .middle-container {
@@ -29,10 +30,10 @@
     display: flex;
     background-image: linear-gradient(90deg, #46342f,     #46342f 60%, #ffffff00);
     height: 12cqw;
-    justify-content: end;
+    justify-content: flex-end;
     align-items: center;
     gap: 2cqw;
-    padding-left: 8cqw;
+    padding-left: 12cqw;
     padding-right: 2cqw;
 }
 
@@ -40,6 +41,44 @@
     max-height: 70%;
     min-height: 50%;
     max-width: 8cqw;
+}
+
+.habitats {
+    margin-top: 2cqw;
+    display: flex;
+    flex-direction: column;
+    gap: 1cqw;
+    height: 31cqw;
+}
+
+.habitats > * {
+    height: 9cqw;
+    width: 12cqw;
+    border: 1px solid black;
+    border-left: 0px;
+    border-top-right-radius: 2cqw;
+    border-bottom-right-radius: 2cqw;
+} 
+
+.crimson-habitat {
+    background-color: #b25553;
+}
+
+
+.golden-habitat {
+    background-color: #f1c749;
+}
+
+
+.amethyst-habitat {
+    background-color: #a47d9f;
+}
+
+.number {
+    font-size: 5cqw;
+    font-family: "Acumin Pro Condensed", sans-serif;
+    text-align: end;
+    width: 12cqw;
 }
 
 .right-column {
@@ -98,6 +137,20 @@
     margin-left: auto;
     margin-right: auto;
     line-height: 0.8em;
+}
+
+.eggs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2cqw;
+    width: 22cqw;
+    margin: 2cqw auto 0 auto;
+    flex-wrap: wrap;
+}
+
+.egg-icon {
+    width: 8cqw;
 }
 
 .card {

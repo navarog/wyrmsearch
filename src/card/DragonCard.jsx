@@ -1,6 +1,7 @@
 import "./DragonCard.css";
 import { renderImagesInText } from "./Card";
 import VP from "../assets/icons/VP.svg";
+import EggCapacity from "../assets/icons/EggCapacity.svg";
 
 function costToIcons(data) {
   const costFields = ["Coin", "Meat", "Gold", "Crystal", "Egg", "Milk"];
@@ -37,6 +38,12 @@ const DragonCard = ({ data }) => {
       <div className="middle-container">
         <div className="left-column">
           <div className="cost">{costToIcons(data)}</div>
+          <div className="habitats">
+            <div className={data["Crimson Cavern"] ? "crimson-habitat" : "empty-habitat"} />
+            <div className={data["Golden Grotto"] ? "golden-habitat" : "empty-habitat"} />
+            <div className={data["Amethyst Abyss"] ? "amethyst-habitat" : "empty-habitat"} />
+          </div>
+          <div className="number">{data.number}</div>
         </div>
         <div className="right-column">
           <div className="VP">
@@ -44,6 +51,18 @@ const DragonCard = ({ data }) => {
             <div className="VP-value">{data.VP}</div>
           </div>
           <div className="size">{data.size.toUpperCase()}</div>
+          <div className="eggs">
+          {Array(Number(data.capacity)).fill(0).map(
+            (_, index) => (
+              <img
+                className="egg-icon"
+                key={index}
+                src={EggCapacity}
+                alt="Egg"
+              />
+            )
+          )}
+        </div>
           <img
             className="personality"
             src={require(`../assets/icons/${data.personality}.svg`)}
