@@ -1,20 +1,63 @@
 import "./DragonCard.css";
-import {renderImagesInText} from "./Card";
+import { renderImagesInText } from "./Card";
+import VP from "../assets/icons/VP.svg";
+
+function costToIcons(data) {
+  const costFields = ["Coin", "Meat", "Gold", "Crystal", "Egg", "Milk"];
+  const finalCost = [];
+  costFields.forEach((field) => {
+    for (let i = 0; i < data[field]; i++) {
+      finalCost.push(field);
+    }
+  });
+  if (finalCost.length === 0) {
+    finalCost.push("NoResourceCost");
+  }
+  return finalCost.map((part, index) => {
+    return (
+      <img
+        className="cost-icon"
+        key={index}
+        src={require(`../assets/icons/${part}.svg`)}
+        alt={part}
+      />
+    );
+  });
+}
 
 const DragonCard = ({ data }) => {
-    return (
-        <div className="card">
-          <div className="name">
-            {data.name.toUpperCase()}
-          </div>
-          <div className="middle-container"></div>
-          <div className="lower-container">
-            <div className="ability">
-              <div>{renderImagesInText(data.ability)}</div>
-            </div>
-          </div>
+  return (
+    <div className="card">
+      <img
+        className="lines-image"
+        src={require(`../assets/DragonLines.png`)}
+        alt="lines"
+      />
+      <div className="upper-container">{data.name.toUpperCase()}</div>
+      <div className="middle-container">
+        <div className="left-column">
+          <div className="cost">{costToIcons(data)}</div>
         </div>
-      );
+        <div className="right-column">
+          <div className="VP">
+            <img src={VP} alt="VP" />
+            <div className="VP-value">{data.VP}</div>
+          </div>
+          <div className="size">{data.size.toUpperCase()}</div>
+          <img
+            className="personality"
+            src={require(`../assets/icons/${data.personality}.svg`)}
+            alt={data.personality}
+          />
+        </div>
+      </div>
+      <div className="lower-container">
+        <div className="ability">
+          <div>{renderImagesInText(data.ability)}</div>
+        </div>
+      </div>
+    </div>
+  );
 };
 
 export default DragonCard;

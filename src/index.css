@@ -1,6 +1,21 @@
+@font-face {
+  font-family: "Acumin Pro";
+  src: url("assets/fonts/Acumin\ Pro\ Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "Acumin Pro Condensed";
+  src: url("assets/fonts/Acumin\ Pro\ Condensed.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
 body {
   margin: 0;
-  font-family: "Amarante", sans-serif;
+  font-family: "Acumin Pro", Helvetica, sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
@@ -13,9 +28,4 @@ body {
   background-position: center calc(50% - 90px);
   background-repeat: no-repeat;
   background-size: max(103vw, 130vh);
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
 }
