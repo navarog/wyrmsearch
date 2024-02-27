@@ -60,7 +60,7 @@ function renderImagesInText(text, splitSentences = false) {
     }
     return part.split(/\*(.*?)\*/).map((part, index) => {
       return index % 2 === 0 ? (
-        highlightText(part)
+        <span key={index}>{highlightText(part)}</span>
       ) : (
         <strong key={index}>{part}</strong>
       );

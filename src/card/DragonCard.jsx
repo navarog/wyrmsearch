@@ -85,7 +85,33 @@ const DragonCard = ({ data }) => {
       <div className="lower-container">
         <div className="ability">
           {data.size === "Hatchling" ? (
-            <div>{renderImagesInText(data.ability)}</div>
+            <div>
+              {data.ability
+                .trim()
+                .split(".")
+                .map(
+                  (sentence, index) =>
+                    sentence && (
+                      <div key={index}>
+                        {index > 0 && (
+                          <div key={index} className="divider"></div>
+                        )}
+                         <div className="ability-hatchling" key={index}>
+                        {data.abilityType.split(", ").length > index && (
+                          <img
+                            className="hatchling-ability-icon"
+                            src={require(`../assets/icons/${
+                              data.abilityType.split(", ")[index]
+                            }.svg`)}
+                            alt={data.abilityType}
+                          />
+                        )}
+                        <div className="hatchling-ability-text">{renderImagesInText(sentence + ".")}</div>
+                        </div>
+                      </div>
+                    )
+                )}
+            </div>
           ) : (
             <>
               <img

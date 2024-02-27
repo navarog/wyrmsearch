@@ -360,7 +360,7 @@
     "type":"Dragon",
     "number":18,
     "name":"Keening Amphiptere",
-    "ability":"Tuck [DragonCard] from your hand here. Each [DragonCard] tucked under this dragon is worth 1 [VP-1] at game end. When the 3rd [DragonCard] is tucked, also gain [DragonGuild][DragonGuild].",
+    "ability":"Tuck [DragonCard] from your hand here. Each [DragonCard] tucked under this dragon is worth [VP-1] at game end. When the 3rd [DragonCard] is tucked, also gain [DragonGuild][DragonGuild].",
     "abilityType":"Adventurer, EndGame",
     "VP":2,
     "size":"Hatchling",
