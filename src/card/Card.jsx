@@ -44,8 +44,8 @@ function renderImagesInText(text, splitSentences = false) {
       if (part.startsWith("VP")) {
         return (
           <span key={index} className="vp-span">
-            <img className="text-icon" key={index} src={VP} alt="VP" />
             {part.replace("VP-", "")}
+            <img className="text-icon" key={index} src={VP} alt="VP" />
           </span>
         );
       }
