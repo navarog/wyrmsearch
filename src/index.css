@@ -24,7 +24,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-image: url(assets/background.jpg);
   background-attachment: fixed;
-  background-position: center calc(50% - 90px);
+  background-position: center;
   background-repeat: no-repeat;
-  background-size: max(103vw, 130vh);
+  background-size: cover;
 }
