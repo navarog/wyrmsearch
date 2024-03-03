@@ -193,22 +193,22 @@
 
 .highlight-aggressive {
     color: white;
-    background: linear-gradient(0deg, transparent 15%, #f07422 15%, #f07422 85%, transparent 85%);
+    background: linear-gradient(0deg, transparent 20%, #f07422 20%, #f07422 93%, transparent 93%);
 }
 
 .highlight-playful {
     color: white;
-    background: linear-gradient(0deg, transparent 15%, #df579f 15%, #df579f 85%, transparent 85%);
+    background: linear-gradient(0deg, transparent 20%, #df579f 20%, #df579f 93%, transparent 93%);
 }
 
 .highlight-helpful {
     color: white;
-    background: linear-gradient(0deg, transparent 15%, #84c665 15%, #84c665 85%, transparent 85%);
+    background: linear-gradient(0deg, transparent 20%, #84c665 20%, #84c665 93%, transparent 93%);
 }
 
 .highlight-shy {
     color: white;
-    background: linear-gradient(0deg, transparent 15%, #81cbf1 15%, #81cbf1 85%, transparent 85%);
+    background: linear-gradient(0deg, transparent 20%, #81cbf1 20%, #81cbf1 93%, transparent 93%);
 }
 
 .vp-span {
