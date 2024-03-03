@@ -88,15 +88,15 @@ const DragonCard = ({ data }) => {
             <div>
               {data.ability
                 .trim()
-                .split(".")
+                .split(/([^.]+\.?)/)
                 .map(
                   (sentence, index) =>
                     sentence && (
                       <div key={index}>
                         {index > 0 && (
-                          <div key={index} className="divider"></div>
+                          <div className="divider"></div>
                         )}
-                         <div className="ability-hatchling" key={index}>
+                         <div className="ability-hatchling">
                         {data.abilityType.split(", ").length > index && (
                           <img
                             className="hatchling-ability-icon"
@@ -106,7 +106,7 @@ const DragonCard = ({ data }) => {
                             alt={data.abilityType}
                           />
                         )}
-                        <div className="hatchling-ability-text">{renderImagesInText(sentence + ".")}</div>
+                        <div className="hatchling-ability-text">{renderImagesInText(sentence)}</div>
                         </div>
                       </div>
                     )
