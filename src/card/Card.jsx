@@ -6,20 +6,11 @@ function highlightText(
   text,
   highlights = ["AGGRESSIVE", "PLAYFUL", "HELPFUL", "SHY"]
 ) {
-  let parts = [text];
-  let newParts = [];
-  for (const highlight of highlights) {
-    for (const part of parts) {
-      const splits = part.split(new RegExp(`(${highlight})`, "gi"));
-      newParts.push(splits);
-    }
-    parts = newParts.flat();
-    newParts = [];
-  }
+  let parts = text.split(new RegExp(`(${highlights.join("|")})`, "gi"));
   return (
     <>
       {parts.map((part, index) => {
-        if (index % 2 === 1) {
+        if (highlights.includes(part)) {
           return (
             <span key={index} className={`highlight-${part.toLowerCase()}`}>
               {part}
