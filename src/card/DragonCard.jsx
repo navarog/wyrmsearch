@@ -89,6 +89,7 @@ const DragonCard = ({ data }) => {
               {data.ability
                 .trim()
                 .split(/([^.]+\.?)/)
+                .filter(Boolean)
                 .map(
                   (sentence, index) =>
                     sentence && (
