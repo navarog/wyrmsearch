@@ -1,0 +1,50 @@
+.cave-card {
+  container-type: inline-size;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  aspect-ratio: 1 / 1;
+  border: 1px solid black;
+  border-radius: 1cqw;
+  background-color: white;
+  background: linear-gradient(0, #000000ff, #00000000 45%), url("../assets/cave-card-background.jpg");
+  background-size: cover;
+  width: 90%;
+  padding: 5%;
+  
+
+  .text-icon {
+    height: 1.1em;
+    margin-bottom: -0.1em;
+    -webkit-filter: drop-shadow(0 0 0.18em black);
+    filter: drop-shadow(0 0 0.18em black);
+  }
+
+  .text-icon + .text-icon {
+    margin-left: 0.3em;
+  }
+
+  .number {
+    color: white;
+    text-align: end;
+    margin-bottom: auto;
+    font-size: 7cqw;
+  }
+
+  .container {
+    display: flex;
+    align-items: center;
+    padding: 5cqw;
+    padding-right: 8cqw;
+    font-size: 7.5cqw;
+    color: white;
+    text-shadow: 0px 0px 0.18em black;
+    line-height: 1.1em;
+    gap: 5cqw;
+
+
+    .ability-icon {
+      height: 12cqw;;
+    }
+  }
+}

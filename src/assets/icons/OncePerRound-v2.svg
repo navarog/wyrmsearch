@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45.21877 54.08622">
+  <defs>
+    <style>
+      .a {
+        fill: #fff;
+      }
+
+      .b, .c {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .b {
+        stroke-width: 2.43161px;
+      }
+
+      .c {
+        stroke-width: 1.82371px;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <path class="a" d="M28.34656,13.97017A18.96195,18.96195,0,1,0,47.30851,32.93212H28.268Z" transform="translate(-5.73707 -1.45532)"/>
+      <path class="b" d="M28.34646,54.32573A21.39358,21.39358,0,1,1,49.74,32.93216,21.4177,21.4177,0,0,1,28.34646,54.32573Z" transform="translate(-5.73707 -1.45532)"/>
+    </g>
+    <polyline class="a" points="27.661 10.781 27.661 6.103 17.558 6.103 17.558 10.781"/>
+    <rect class="c" x="13.34862" y="0.91186" width="18.52154" height="5.19164"/>
+  </g>
+</svg>

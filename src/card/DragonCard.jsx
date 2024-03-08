@@ -1,5 +1,5 @@
 import "./DragonCard.css";
-import { renderImagesInText } from "./Card";
+import { renderText } from "./Card";
 import VP from "../assets/icons/VP.svg";
 import EggCapacity from "../assets/icons/EggCapacity.svg";
 
@@ -28,7 +28,7 @@ function costToIcons(data) {
 
 const DragonCard = ({ data }) => {
   return (
-    <div className="card">
+    <div className="dragon-card">
       <img
         className="lines-image"
         src={require(`../assets/DragonLines.png`)}
@@ -107,7 +107,7 @@ const DragonCard = ({ data }) => {
                             alt={data.abilityType}
                           />
                         )}
-                        <div className="hatchling-ability-text">{renderImagesInText(sentence)}</div>
+                        <div className="hatchling-ability-text">{renderText(sentence)}</div>
                         </div>
                       </div>
                     )
@@ -120,7 +120,7 @@ const DragonCard = ({ data }) => {
                 src={require(`../assets/icons/${data.abilityType}.svg`)}
                 alt={data.abilityType}
               />
-              <div>{renderImagesInText(data.ability)}</div>
+              <div>{renderText(data.ability)}</div>
             </>
           )}
         </div>

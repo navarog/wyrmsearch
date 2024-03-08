@@ -1,12 +1,13 @@
 import React from "react";
 import DragonCard from "./DragonCard";
+import CaveCard from "./CaveCard";
 import VP from "../assets/icons/VP.svg";
 
 function highlightText(
   text,
   highlights = ["AGGRESSIVE", "PLAYFUL", "HELPFUL", "SHY"]
 ) {
-  let parts = text.split(new RegExp(`(${highlights.join("|")})`, "gi"));
+  let parts = text.split(new RegExp(`(${highlights.join("|")})`, "gi")).filter(Boolean);
   return (
     <>
       {parts.map((part, index) => {
@@ -24,14 +25,15 @@ function highlightText(
   );
 }
 
-function renderImagesInText(text, splitSentences = false) {
+function renderText(text) {
   if (!text) {
     return text;
   }
 
-  const parts = text.split(/\[(.*?)\]/g);
+  const parts = text.split(/(\[.*?\])|(\*.*?\*)/g).filter(Boolean);
   return parts.map((part, index) => {
-    if (index % 2 === 1) {
+    if (part.match(/^\[.*?\]$/)) {
+      part = part.slice(1, -1);
       if (part.startsWith("VP")) {
         return (
           <span key={index} className="vp-span">
@@ -49,13 +51,13 @@ function renderImagesInText(text, splitSentences = false) {
         />
       );
     }
-    return part.split(/\*(.*?)\*/).map((part, index) => {
-      return index % 2 === 0 ? (
-        <span key={index}>{highlightText(part)}</span>
-      ) : (
-        <strong key={index}>{part}</strong>
-      );
-    });
+
+    if (part.match(/^\*.*?\*$/)) {
+      part = part.slice(1, -1);
+      return <strong key={index}>{part}</strong>
+    }
+
+    return <span key={index}>{highlightText(part)}</span>;
   });
 }
 
@@ -63,7 +65,11 @@ const Card = ({ data }) => {
   if (data.type === "Dragon") {
     return DragonCard({ data });
   }
+
+  if (data.type === "Cave") {
+    return CaveCard({ data });
+  }
 };
 
-export { renderImagesInText };
+export { renderText };
 export default Card;

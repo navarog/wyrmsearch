@@ -1,9 +1,31 @@
-.text-icon {
+.dragon-card {
+  container-type: inline-size;
+  display: flex;
+  flex-direction: column;
+  aspect-ratio: 57 / 87;
+  border: 1px solid black;
+  border-radius: 1cqw;
+  background-color: white;
+  background-image: url("../assets/dragon-card-background.png");
+  background-size: cover;
+  width: 100%;
+
+  .lines-image {
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+  }
+
+  .text-icon {
     height: 1.1em;
     margin-bottom: -0.1em;
-}
+  }
 
-.upper-container {
+  .text-icon + .text-icon {
+    margin-left: 0.1em;
+  }
+
+  .upper-container {
     font-family: "Amarante", sans-serif;
     font-weight: 600;
     display: flex;
@@ -13,231 +35,238 @@
     font-size: 7cqw;
     text-align: center;
     padding: 0 15cqw;
-}
+  }
 
-.middle-container {
+  .middle-container {
     flex: 0.515;
     display: flex;
     justify-content: space-between;
-}
+    .left-column {
+      display: flex;
+      flex-direction: column;
+      flex: 0.2;
 
-.left-column {
-    display: flex;
-    flex-direction: column;
-    flex: 0.2;
-}
+      .cost {
+        display: flex;
+        background-image: linear-gradient(
+          90deg,
+          #46342f,
+          #46342f 60%,
+          #ffffff00
+        );
+        height: 12cqw;
+        justify-content: flex-end;
+        align-items: center;
+        gap: 2cqw;
+        padding-left: 12cqw;
+        padding-right: 2cqw;
 
-.cost {
-    display: flex;
-    background-image: linear-gradient(90deg, #46342f,     #46342f 60%, #ffffff00);
-    height: 12cqw;
-    justify-content: flex-end;
-    align-items: center;
-    gap: 2cqw;
-    padding-left: 12cqw;
-    padding-right: 2cqw;
-}
+        .cost-icon {
+          max-height: 70%;
+          min-height: 50%;
+          max-width: 8cqw;
+        }
+      }
 
-.cost-icon {
-    max-height: 70%;
-    min-height: 50%;
-    max-width: 8cqw;
-}
+      .habitats {
+        margin-top: 2cqw;
+        display: flex;
+        flex-direction: column;
+        gap: 1cqw;
+        height: 31cqw;
 
-.habitats {
-    margin-top: 2cqw;
-    display: flex;
-    flex-direction: column;
-    gap: 1cqw;
-    height: 31cqw;
-}
+        .crimson-habitat {
+          background-color: #b25553;
+        }
 
-.habitats > * {
-    height: 9cqw;
-    width: 12cqw;
-    border: 1px solid black;
-    border-left: 0px;
-    border-top-right-radius: 2cqw;
-    border-bottom-right-radius: 2cqw;
-} 
+        .golden-habitat {
+          background-color: #f1c749;
+        }
 
-.crimson-habitat {
-    background-color: #b25553;
-}
+        .amethyst-habitat {
+          background-color: #a47d9f;
+        }
+      }
 
+      .habitats > * {
+        height: 9cqw;
+        width: 12cqw;
+        border: 1px solid black;
+        border-left: 0px;
+        border-top-right-radius: 2cqw;
+        border-bottom-right-radius: 2cqw;
+      }
 
-.golden-habitat {
-    background-color: #f1c749;
-}
+      .number {
+        font-size: 5cqw;
+        font-family: "Acumin Pro Condensed", sans-serif;
+        text-align: end;
+        width: 12cqw;
+      }
+    }
 
+    .right-column {
+      display: flex;
+      flex-direction: column;
+      flex: 0.4;
+      min-width: 40cqw;
+      overflow: hidden;
 
-.amethyst-habitat {
-    background-color: #a47d9f;
-}
+      .VP {
+        position: relative;
+        width: 30%;
+        margin-left: auto;
+        margin-right: auto;
 
-.number {
-    font-size: 5cqw;
-    font-family: "Acumin Pro Condensed", sans-serif;
-    text-align: end;
-    width: 12cqw;
-}
+        .VP-value {
+          position: absolute;
+          top: -3%;
+          left: 3%;
+          width: 100%;
+          height: 100%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          font-size: 8cqw;
+          font-family: "Acumin Pro Condensed", sans-serif;
+          font-weight: bolder;
+          text-shadow: 0px 0px 0.18em white;
+        }
+      }
 
-.right-column {
-    display: flex;
-    flex-direction: column;
-    flex: 0.4;
-    min-width: 40cqw;
-    overflow: hidden;
-}
+      .size {
+        font-size: 6cqw;
+        font-weight: 600;
+        font-family: "Acumin Pro Condensed", sans-serif;
+        width: min-content;
+        margin-left: auto;
+        margin-right: auto;
+        line-height: 0.8em;
+      }
 
-.personality {
-    margin-top: auto;
-    width: 110%;
-    height: auto;
-    z-index: -2;
-}
+      .eggs {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 2cqw;
+        width: 22cqw;
+        margin: 2cqw auto 0 auto;
+        flex-wrap: wrap;
 
-.lines-image {
-    width: 100%;
-    position: absolute;
-    z-index: -1;
-}
+        .egg-icon {
+          width: 8cqw;
+        }
+      }
 
-.VP {
-    position: relative;
-    width: 30%;
-    margin-left: auto;
-    margin-right: auto;
-}
+      .personality {
+        margin-top: auto;
+        width: 110%;
+        height: auto;
+        z-index: -2;
+      }
+    }
+  }
 
-.VP-value {
-    position: absolute;
-    top: -5%;
-    left: 4%;
-    width: 100%;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 7.5cqw;
-    font-weight: 600;
-    font-family: "Acumin Pro Condensed", sans-serif;
-    -webkit-text-stroke: 0.005em white;
-}
-
-.size {
-    font-size: 6cqw;
-    font-weight: 600;
-    font-family: "Acumin Pro Condensed", sans-serif;
-    width: min-content;
-    margin-left: auto;
-    margin-right: auto;
-    line-height: 0.8em;
-}
-
-.eggs {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 2cqw;
-    width: 22cqw;
-    margin: 2cqw auto 0 auto;
-    flex-wrap: wrap;
-}
-
-.egg-icon {
-    width: 8cqw;
-}
-
-.lower-container {
+  .lower-container {
     flex: 0.295;
     font-size: 6.1cqw;
     padding: 1.8cqw 6cqw 1.8cqw 6cqw;
     line-height: 1em;
     display: flex;
-}
 
-.ability {
-    display: flex;
-    font-family: "Acumin Pro Condensed", sans-serif;
-}
+    .ability {
+      display: flex;
+      font-family: "Acumin Pro Condensed", sans-serif;
+      .ability-icon {
+        width: 12cqw;
+        height: 12cqw;
+        margin-right: 2cqw;
+      }
 
-.ability-icon {
-    width: 12cqw;
-    height: 12cqw;
-    margin-right: 2cqw;
-}
+      .ability-hatchling {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
 
-.ability-hatchling {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-}
+        .hatchling-ability-icon {
+          width: 8cqw;
+          height: 8cqw;
+          margin-right: 2cqw;
+          align-self: center;
+        }
 
-.divider {
-    width: 100%;
-    height: 0px;
-    border-top: 1px dotted #444444;
-    margin: 0.5cqw 0;
-}
+        .hatchling-ability-text {
+          flex: 1;
+        }
+      }
 
-.hatchling-ability-icon {
-    width: 8cqw;
-    height: 8cqw;
-    margin-right: 2cqw;
-}
+      .divider {
+        width: 100%;
+        height: 0px;
+        border-top: 1px dotted #444444;
+        margin: 0.5cqw 0;
+      }
 
-.hatchling-ability-text {
-    flex: 1;
-}
+      .highlight-aggressive {
+        color: white;
+        background: linear-gradient(
+          0deg,
+          transparent 20%,
+          #f07422 20%,
+          #f07422 93%,
+          transparent 93%
+        );
+      }
 
-.highlight-aggressive {
-    color: white;
-    background: linear-gradient(0deg, transparent 20%, #f07422 20%, #f07422 93%, transparent 93%);
-}
+      .highlight-playful {
+        color: white;
+        background: linear-gradient(
+          0deg,
+          transparent 20%,
+          #df579f 20%,
+          #df579f 93%,
+          transparent 93%
+        );
+      }
 
-.highlight-playful {
-    color: white;
-    background: linear-gradient(0deg, transparent 20%, #df579f 20%, #df579f 93%, transparent 93%);
-}
+      .highlight-helpful {
+        color: white;
+        background: linear-gradient(
+          0deg,
+          transparent 20%,
+          #84c665 20%,
+          #84c665 93%,
+          transparent 93%
+        );
+      }
 
-.highlight-helpful {
-    color: white;
-    background: linear-gradient(0deg, transparent 20%, #84c665 20%, #84c665 93%, transparent 93%);
-}
+      .highlight-shy {
+        color: white;
+        background: linear-gradient(
+          0deg,
+          transparent 20%,
+          #81cbf1 20%,
+          #81cbf1 93%,
+          transparent 93%
+        );
+      }
 
-.highlight-shy {
-    color: white;
-    background: linear-gradient(0deg, transparent 20%, #81cbf1 20%, #81cbf1 93%, transparent 93%);
-}
+      .vp-span {
+        position: relative;
+        font-weight: 600;
+        padding-left: 0.4em;
+        padding-right: 0.3em;
+      }
 
-.vp-span {
-    position: relative;
-    font-weight: 600;
-    padding-left: 0.4em;
-    padding-right: 0.3em;
+      .vp-span .text-icon {
+        position: absolute;
+        bottom: 0.0em;
+        right: -0.1em;
+        width: 1.2em;
+        height: 1.2em;
+        margin-bottom: 0em;
+        z-index: -1;
+      }
+    }
+  }
 }
-
-.vp-span .text-icon {
-    position: absolute;
-    top: 0.13em;
-    left: -0.03em;
-    width: 1.2em;
-    height: 1.2em;
-    margin-bottom: -0.1em;
-    z-index: -1;
-}
-
-.card {
-    container-type: inline-size;
-    display: flex;
-    flex-direction: column;
-    aspect-ratio: 57 / 87;
-    border: 1px solid black;
-    border-radius: 1cqw;
-    background-color: white;
-    background-image: url("../assets/card-background.png");
-    background-size: cover;
-    width: 100%;
-}
-  

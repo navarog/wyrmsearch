@@ -1,22 +1,29 @@
 @font-face {
   font-family: "Acumin Pro Condensed";
-  src: url("assets/fonts/Acumin\ Pro\ Condensed.ttf");
-  font-weight: bold;
+  src: url("assets/fonts/Acumin\ Pro\ Condensed\ Regular.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Acumin Pro Condensed";
+  src: url("assets/fonts/Acumin\ Pro\ Condensed\ SemiBold.ttf");
+  font-weight: bolder;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Acumin Pro Condensed";
   src: url("assets/fonts/Acumin\ Pro\ Condensed \Light.otf");
-  font-weight: normal;
+  font-weight: lighter;
   font-style: normal;
 }
 
 body {
   margin: 0;
-  font-family: "Acumin Pro", Helvetica, sans-serif;
+  font-family: "Acumin Pro Condensed", Helvetica, sans-serif;
   font-optical-sizing: auto;
-  font-weight: 400;
+  font-weight: normal;
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
