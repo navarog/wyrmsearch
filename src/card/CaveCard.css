@@ -14,7 +14,7 @@
   
 
   .text-icon {
-    height: 1.1em;
+    height: 1.2em;
     margin-bottom: -0.1em;
     -webkit-filter: drop-shadow(0 0 0.18em black);
     filter: drop-shadow(0 0 0.18em black);
@@ -35,8 +35,8 @@
     display: flex;
     align-items: center;
     padding: 5cqw;
-    padding-right: 8cqw;
-    font-size: 7.5cqw;
+    padding-right: 5cqw;
+    font-size: 7.9cqw;
     color: white;
     text-shadow: 0px 0px 0.18em black;
     line-height: 1.1em;

@@ -27,6 +27,7 @@ input::placeholder {
   grid-template-columns: repeat(auto-fill, minmax(max(150px, 15%), 1fr));
   justify-items: center;
   justify-content: space-between;
+  align-items: flex-end;
   gap: min(60px, 3vw);
   max-width: 1400px;
   margin-left: auto;

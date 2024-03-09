@@ -37,36 +37,32 @@
     padding: 0 15cqw;
   }
 
+  .cost {
+    display: flex;
+    background-image: linear-gradient(90deg, #46342f, #46342f 60%, #ffffff00);
+    height: 12cqw;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 2cqw;
+    padding-left: 12cqw;
+    padding-right: 2cqw;
+
+    .cost-icon {
+      max-height: 70%;
+      min-height: 50%;
+      max-width: 8cqw;
+    }
+  }
+
   .middle-container {
     flex: 0.515;
     display: flex;
     justify-content: space-between;
+
     .left-column {
       display: flex;
       flex-direction: column;
       flex: 0.2;
-
-      .cost {
-        display: flex;
-        background-image: linear-gradient(
-          90deg,
-          #46342f,
-          #46342f 60%,
-          #ffffff00
-        );
-        height: 12cqw;
-        justify-content: flex-end;
-        align-items: center;
-        gap: 2cqw;
-        padding-left: 12cqw;
-        padding-right: 2cqw;
-
-        .cost-icon {
-          max-height: 70%;
-          min-height: 50%;
-          max-width: 8cqw;
-        }
-      }
 
       .habitats {
         margin-top: 2cqw;
@@ -260,7 +256,7 @@
 
       .vp-span .text-icon {
         position: absolute;
-        bottom: 0.0em;
+        bottom: 0em;
         right: -0.1em;
         width: 1.2em;
         height: 1.2em;
