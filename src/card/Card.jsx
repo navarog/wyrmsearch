@@ -25,7 +25,7 @@ function highlightText(
   );
 }
 
-function renderText(text) {
+export function renderText(text) {
   if (!text) {
     return text;
   }
@@ -71,5 +71,4 @@ const Card = ({ data }) => {
   }
 };
 
-export { renderText };
 export default Card;

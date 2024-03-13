@@ -1,11 +1,3 @@
-.search-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100%;
-  padding-bottom: 20px;
-}
-
 input {
   width: 100%;
   padding: 10px;
@@ -35,16 +27,6 @@ input::placeholder {
 }
 
 @media (min-width: 700px) {
-  .search-container {
-      min-height: 30vh;
-  }
-
-  input {
-      width: 50%;
-      min-width: 500px;
-      max-width: 1000px;
-  }
-
   .cards-container {
       padding: 0 100px;
   }

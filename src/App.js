@@ -1,56 +1,45 @@
-import React, { useState } from "react";
+import React, { useReducer, useState, useMemo } from "react";
+import InfiniteScroll from "react-infinite-scroll-component";
 import "./App.css";
 import cards from "./assets/cards.json";
 import Card from "./card/Card";
-import FlexSearch from "flexsearch"
+import Search, { handleSearch } from "./search/Search";
 
-const cardIndex = FlexSearch.Document({
-  tokenize: "full",
-  document: {
-    id: "id",
-    index: ["name", "ability", "number"],
-  },
-});
-
-import("./assets/cards.json").then((cards) => {
-  cards.default.forEach((card) => cardIndex.add(card))
-});
-
+const DISPLAYED_CARDS_INCREMENT = 30;
 
 function App() {
-  const [searchValue, setSearchValue] = useState("");
-  const [displayedCards, setDisplayedCards] = useState(cards);
-  
-  const handleSearch = (event) => {
-    const value = event.target.value;
-    setSearchValue(value);
-    if (!value) {
-      setDisplayedCards(cards);
-      return;
-    }
-    const filteredList = cardIndex.search(value, { enrich: true }).reduce((acc, item) => [...acc, ...item.result], []);
-    const sortedList = [...new Set(filteredList)].sort((a, b) => a - b);
-    setDisplayedCards(sortedList.map((id) => cards[id]));
-  };
+  const [cardState, triggerSearch] = useReducer(handleSearch, {
+    allCards: cards,
+    filteredCardIds: cards.map((card) => card.id),
+  });
+
+  const [displayedCardsCount, setDisplayedCardsCount] = useState(
+    DISPLAYED_CARDS_INCREMENT
+  );
+
+  const displayedCardIds = useMemo(
+    () => cardState.filteredCardIds.slice(0, displayedCardsCount),
+    [cardState.filteredCardIds, displayedCardsCount]
+  );
+
+  function displayMoreCards() {
+    setDisplayedCardsCount(displayedCardsCount + DISPLAYED_CARDS_INCREMENT);
+  }
 
   return (
     <div className="App">
-      <div className="search-container">
-      <input
-        type="text"
-        value={searchValue}
-        onChange={handleSearch}
-        placeholder="Search the cards..."
-      />
-      </div>
-      <div className="cards-container">
-        {displayedCards.map((item) => (
-          <Card
-            key={item.id}
-            data={item}
-          />
-        ))}
-      </div>
+      <Search cardState={cardState} triggerSearch={triggerSearch} />
+      <InfiniteScroll
+        dataLength={displayedCardIds.length}
+        next={displayMoreCards}
+        hasMore={displayedCardIds.length < cardState.filteredCardIds.length}
+      >
+        <div className="cards-container">
+          {displayedCardIds.map((id) => (
+            <Card key={id} data={cardState.allCards[id]} />
+          ))}
+        </div>
+      </InfiniteScroll>
     </div>
   );
 }
