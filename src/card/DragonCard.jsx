@@ -27,13 +27,9 @@ function costToIcons(data) {
 }
 
 const DragonCard = ({ data }) => {
+  const backgroundImage = require(`../assets/card-backgrounds/dragon-card-background-${data.personality.toLowerCase()}.png`);
   return (
-    <div className="dragon-card">
-      <img
-        className="lines-image"
-        src={require(`../assets/DragonLines.png`)}
-        alt="lines"
-      />
+    <div className="dragon-card" style={{ backgroundImage: `url("${backgroundImage}`}}>
       <div className="upper-container">{data.name.toUpperCase()}</div>
       <div className="middle-container">
         <div className="left-column">
@@ -75,11 +71,6 @@ const DragonCard = ({ data }) => {
                 />
               ))}
           </div>
-          <img
-            className="personality"
-            src={require(`../assets/icons/${data.personality}.svg`)}
-            alt={data.personality}
-          />
         </div>
       </div>
       <div className="lower-container">

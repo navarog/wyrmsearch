@@ -7,7 +7,7 @@
   border: 1px solid black;
   border-radius: 1cqw;
   background-color: white;
-  background: linear-gradient(0, #000000ff, #00000000 45%), url("../assets/cave-card-background.jpg");
+  background: linear-gradient(0, #000000ff, #00000000 45%), url("../assets/card-backgrounds/cave-card-background.jpg");
   background-size: cover;
   width: 90%;
   padding: 5%;

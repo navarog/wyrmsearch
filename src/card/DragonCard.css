@@ -6,15 +6,8 @@
   border: 1px solid black;
   border-radius: 1cqw;
   background-color: white;
-  background-image: url("../assets/dragon-card-background.png");
   background-size: cover;
   width: 100%;
-
-  .lines-image {
-    width: 100%;
-    position: absolute;
-    z-index: -1;
-  }
 
   .text-icon {
     height: 1.1em;
@@ -152,13 +145,6 @@
         .egg-icon {
           width: 8cqw;
         }
-      }
-
-      .personality {
-        margin-top: auto;
-        width: 110%;
-        height: auto;
-        z-index: -2;
       }
     }
   }
