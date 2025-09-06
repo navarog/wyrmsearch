@@ -18,6 +18,7 @@
     "Amethyst Abyss":null,
     "Egg":1.0,
     "Milk":1.0,
+    "expansion":"base",
     "id":0
   },
   {
@@ -39,6 +40,7 @@
     "Amethyst Abyss":null,
     "Egg":1.0,
     "Milk":3.0,
+    "expansion":"base",
     "id":1
   },
   {
@@ -60,6 +62,7 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":3.0,
+    "expansion":"base",
     "id":2
   },
   {
@@ -81,6 +84,7 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":2.0,
+    "expansion":"base",
     "id":3
   },
   {
@@ -102,6 +106,7 @@
     "Amethyst Abyss":null,
     "Egg":1.0,
     "Milk":3.0,
+    "expansion":"base",
     "id":4
   },
   {
@@ -123,6 +128,7 @@
     "Amethyst Abyss":null,
     "Egg":1.0,
     "Milk":3.0,
+    "expansion":"base",
     "id":5
   },
   {
@@ -144,6 +150,7 @@
     "Amethyst Abyss":null,
     "Egg":1.0,
     "Milk":3.0,
+    "expansion":"base",
     "id":6
   },
   {
@@ -165,6 +172,7 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":3.0,
+    "expansion":"base",
     "id":7
   },
   {
@@ -186,6 +194,7 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":1.0,
+    "expansion":"base",
     "id":8
   },
   {
@@ -207,6 +216,7 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":1.0,
+    "expansion":"base",
     "id":9
   },
   {
@@ -228,6 +238,7 @@
     "Amethyst Abyss":null,
     "Egg":1.0,
     "Milk":1.0,
+    "expansion":"base",
     "id":10
   },
   {
@@ -249,6 +260,7 @@
     "Amethyst Abyss":null,
     "Egg":1.0,
     "Milk":3.0,
+    "expansion":"base",
     "id":11
   },
   {
@@ -270,6 +282,7 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":1.0,
+    "expansion":"base",
     "id":12
   },
   {
@@ -291,6 +304,7 @@
     "Amethyst Abyss":null,
     "Egg":1.0,
     "Milk":2.0,
+    "expansion":"base",
     "id":13
   },
   {
@@ -312,6 +326,7 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":1.0,
+    "expansion":"base",
     "id":14
   },
   {
@@ -333,13 +348,14 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":1.0,
+    "expansion":"base",
     "id":15
   },
   {
     "type":"Dragon",
     "number":17,
     "name":"Common Grass Lindworm",
-    "ability":"Cache [Milk] from your supply here. Each [Milk] on this dragon is worth + [VP-1] at game end. When the 3rd [Milk] is cached, also gain [DragonCard][DragonCard].",
+    "ability":"Cache [Milk] from your supply here. Each [Milk] on this dragon is worth [VP-1] at game end. When the 3rd [Milk] is cached, also gain [DragonCard][DragonCard].",
     "abilityType":"Adventurer, EndGame",
     "VP":1.0,
     "size":"Hatchling",
@@ -354,6 +370,7 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":1.0,
+    "expansion":"base",
     "id":16
   },
   {
@@ -375,6 +392,7 @@
     "Amethyst Abyss":null,
     "Egg":1.0,
     "Milk":2.0,
+    "expansion":"base",
     "id":17
   },
   {
@@ -396,6 +414,7 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":2.0,
+    "expansion":"base",
     "id":18
   },
   {
@@ -417,6 +436,7 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":1.0,
+    "expansion":"base",
     "id":19
   },
   {
@@ -438,6 +458,7 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":2.0,
+    "expansion":"base",
     "id":20
   },
   {
@@ -459,6 +480,7 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":2.0,
+    "expansion":"base",
     "id":21
   },
   {
@@ -480,6 +502,7 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":1.0,
+    "expansion":"base",
     "id":22
   },
   {
@@ -501,6 +524,7 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":2.0,
+    "expansion":"base",
     "id":23
   },
   {
@@ -522,6 +546,7 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":3.0,
+    "expansion":"base",
     "id":24
   },
   {
@@ -543,6 +568,7 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":1.0,
+    "expansion":"base",
     "id":25
   },
   {
@@ -564,6 +590,7 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":2.0,
+    "expansion":"base",
     "id":26
   },
   {
@@ -585,13 +612,14 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":3.0,
+    "expansion":"base",
     "id":27
   },
   {
     "type":"Dragon",
     "number":29,
     "name":"Singeing Remora",
-    "ability":"Cache [Meat] from your supply here. Each [Meat] on this dragon is worth + [VP-1] at game end. When the 3rd [Meat] is cached, also gain [Coin].",
+    "ability":"Cache [Meat] from your supply here. Each [Meat] on this dragon is worth [VP-1] at game end. When the 3rd [Meat] is cached, also gain [Coin].",
     "abilityType":"Adventurer, EndGame",
     "VP":2.0,
     "size":"Hatchling",
@@ -606,6 +634,7 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":2.0,
+    "expansion":"base",
     "id":28
   },
   {
@@ -627,6 +656,7 @@
     "Amethyst Abyss":null,
     "Egg":1.0,
     "Milk":3.0,
+    "expansion":"base",
     "id":29
   },
   {
@@ -648,6 +678,7 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":2.0,
+    "expansion":"base",
     "id":30
   },
   {
@@ -669,6 +700,7 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":3.0,
+    "expansion":"base",
     "id":31
   },
   {
@@ -690,6 +722,7 @@
     "Amethyst Abyss":null,
     "Egg":1.0,
     "Milk":3.0,
+    "expansion":"base",
     "id":32
   },
   {
@@ -711,6 +744,7 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":2.0,
+    "expansion":"base",
     "id":33
   },
   {
@@ -732,6 +766,7 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":3.0,
+    "expansion":"base",
     "id":34
   },
   {
@@ -753,6 +788,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":35
   },
   {
@@ -774,6 +810,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":36
   },
   {
@@ -795,6 +832,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":37
   },
   {
@@ -816,6 +854,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":38
   },
   {
@@ -837,6 +876,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":39
   },
   {
@@ -858,6 +898,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":40
   },
   {
@@ -879,6 +920,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":41
   },
   {
@@ -900,6 +942,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":42
   },
   {
@@ -921,6 +964,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":43
   },
   {
@@ -942,6 +986,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":44
   },
   {
@@ -963,6 +1008,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":45
   },
   {
@@ -984,6 +1030,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":46
   },
   {
@@ -1005,6 +1052,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":47
   },
   {
@@ -1026,6 +1074,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":48
   },
   {
@@ -1047,6 +1096,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":49
   },
   {
@@ -1068,6 +1118,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":50
   },
   {
@@ -1089,6 +1140,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":51
   },
   {
@@ -1110,6 +1162,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":52
   },
   {
@@ -1131,6 +1184,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":53
   },
   {
@@ -1152,6 +1206,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":54
   },
   {
@@ -1173,6 +1228,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":55
   },
   {
@@ -1194,6 +1250,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":56
   },
   {
@@ -1215,6 +1272,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":57
   },
   {
@@ -1236,6 +1294,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":58
   },
   {
@@ -1257,6 +1316,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":59
   },
   {
@@ -1278,6 +1338,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":60
   },
   {
@@ -1299,6 +1360,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":61
   },
   {
@@ -1320,6 +1382,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":62
   },
   {
@@ -1341,6 +1404,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":63
   },
   {
@@ -1362,6 +1426,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":64
   },
   {
@@ -1383,6 +1448,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":65
   },
   {
@@ -1404,6 +1470,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":66
   },
   {
@@ -1425,6 +1492,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":67
   },
   {
@@ -1446,6 +1514,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":68
   },
   {
@@ -1467,6 +1536,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":69
   },
   {
@@ -1488,6 +1558,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":70
   },
   {
@@ -1509,6 +1580,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":71
   },
   {
@@ -1530,6 +1602,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":72
   },
   {
@@ -1551,6 +1624,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":73
   },
   {
@@ -1572,6 +1646,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":74
   },
   {
@@ -1593,6 +1668,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":75
   },
   {
@@ -1614,6 +1690,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":76
   },
   {
@@ -1635,6 +1712,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":77
   },
   {
@@ -1656,6 +1734,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":78
   },
   {
@@ -1677,6 +1756,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":79
   },
   {
@@ -1698,6 +1778,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":80
   },
   {
@@ -1719,6 +1800,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":81
   },
   {
@@ -1740,6 +1822,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":82
   },
   {
@@ -1761,6 +1844,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":83
   },
   {
@@ -1782,6 +1866,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":84
   },
   {
@@ -1803,6 +1888,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":85
   },
   {
@@ -1824,6 +1910,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":86
   },
   {
@@ -1845,6 +1932,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":87
   },
   {
@@ -1866,6 +1954,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":88
   },
   {
@@ -1887,6 +1976,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":89
   },
   {
@@ -1908,6 +1998,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":90
   },
   {
@@ -1929,6 +2020,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":91
   },
   {
@@ -1950,6 +2042,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":92
   },
   {
@@ -1971,6 +2064,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":93
   },
   {
@@ -1992,6 +2086,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":94
   },
   {
@@ -2013,6 +2108,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":95
   },
   {
@@ -2034,6 +2130,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":96
   },
   {
@@ -2055,6 +2152,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":97
   },
   {
@@ -2076,6 +2174,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":98
   },
   {
@@ -2097,6 +2196,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":99
   },
   {
@@ -2118,6 +2218,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":100
   },
   {
@@ -2139,6 +2240,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":101
   },
   {
@@ -2160,6 +2262,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":102
   },
   {
@@ -2181,6 +2284,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":103
   },
   {
@@ -2202,6 +2306,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":104
   },
   {
@@ -2223,6 +2328,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":105
   },
   {
@@ -2244,6 +2350,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":106
   },
   {
@@ -2265,6 +2372,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":107
   },
   {
@@ -2286,6 +2394,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":108
   },
   {
@@ -2307,6 +2416,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":109
   },
   {
@@ -2328,6 +2438,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":110
   },
   {
@@ -2349,6 +2460,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":111
   },
   {
@@ -2370,6 +2482,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":112
   },
   {
@@ -2391,6 +2504,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":113
   },
   {
@@ -2412,6 +2526,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":114
   },
   {
@@ -2433,6 +2548,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":115
   },
   {
@@ -2454,6 +2570,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":116
   },
   {
@@ -2475,13 +2592,14 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":117
   },
   {
     "type":"Dragon",
     "number":119,
     "name":"Chameleon Coatl",
-    "ability":"Gain [VP-2] for each *medium* dragon on your player mat (max [VP-8]).",
+    "ability":"Gain + [VP-3] for each *medium* dragon on your player mat (max [VP-12]).",
     "abilityType":"EndGame",
     "VP":6.0,
     "size":"Medium",
@@ -2496,6 +2614,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":118
   },
   {
@@ -2517,6 +2636,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":119
   },
   {
@@ -2538,6 +2658,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":120
   },
   {
@@ -2559,6 +2680,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":121
   },
   {
@@ -2580,13 +2702,14 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":122
   },
   {
     "type":"Dragon",
     "number":124,
     "name":"Mosaic Guardian",
-    "ability":"Gain [VP-2] for each *large* dragon on your player mat (max [VP-8]).",
+    "ability":"Gain [VP-3] for each *large* dragon on your player mat (max [VP-12]).",
     "abilityType":"EndGame",
     "VP":6.0,
     "size":"Large",
@@ -2601,6 +2724,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":123
   },
   {
@@ -2622,6 +2746,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":124
   },
   {
@@ -2643,6 +2768,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":125
   },
   {
@@ -2664,6 +2790,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":126
   },
   {
@@ -2685,13 +2812,14 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":127
   },
   {
     "type":"Dragon",
     "number":129,
     "name":"Red-Crested Gryphdragon",
-    "ability":"Gain [VP-3] for each PLAYFUL dragon in an orthogonally adjacent space.",
+    "ability":"Gain +[VP-3] for each PLAYFUL dragon in an orthogonally adjacent space.",
     "abilityType":"EndGame",
     "VP":6.0,
     "size":"Medium",
@@ -2706,6 +2834,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":128
   },
   {
@@ -2727,13 +2856,14 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":129
   },
   {
     "type":"Dragon",
     "number":131,
     "name":"Titanic Coatl",
-    "ability":"Gain [VP-4] for each *set* of dragon sizes on your player mat (1 *set*=1 of each: *hatchling*, *small*, *medium*, *large*).",
+    "ability":"Gain [VP-6] for each *set* of dragon sizes on your player mat (1 *set*=1 of each: *hatchling*, *small*, *medium*, *large*).",
     "abilityType":"EndGame",
     "VP":7.0,
     "size":"Large",
@@ -2748,13 +2878,14 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":130
   },
   {
     "type":"Dragon",
     "number":132,
     "name":"Lilliputian Fae",
-    "ability":"Gain [VP-2] for each small dragon on your player mat (max [VP-8]).",
+    "ability":"Gain +[VP-3] for each small dragon on your player mat (max [VP-12]).",
     "abilityType":"EndGame",
     "VP":6.0,
     "size":"Small",
@@ -2769,6 +2900,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":131
   },
   {
@@ -2790,13 +2922,14 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":132
   },
   {
     "type":"Dragon",
     "number":134,
     "name":"Customary Grazer",
-    "ability":"Gain [VP-3] for each *hatchling* on your player mat (max [VP-9]).",
+    "ability":"Gain +[VP-4] for each *hatchling* on your player mat (max [VP-12]).",
     "abilityType":"EndGame",
     "VP":6.0,
     "size":"Large",
@@ -2811,6 +2944,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":133
   },
   {
@@ -2832,6 +2966,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":134
   },
   {
@@ -2853,6 +2988,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":135
   },
   {
@@ -2874,6 +3010,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":136
   },
   {
@@ -2895,6 +3032,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":137
   },
   {
@@ -2916,6 +3054,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":138
   },
   {
@@ -2937,6 +3076,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":139
   },
   {
@@ -2958,6 +3098,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":140
   },
   {
@@ -2979,6 +3120,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":141
   },
   {
@@ -3000,6 +3142,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":142
   },
   {
@@ -3021,6 +3164,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":143
   },
   {
@@ -3042,6 +3186,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":144
   },
   {
@@ -3063,6 +3208,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":145
   },
   {
@@ -3084,6 +3230,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":146
   },
   {
@@ -3105,6 +3252,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":147
   },
   {
@@ -3126,6 +3274,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":148
   },
   {
@@ -3147,6 +3296,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":149
   },
   {
@@ -3168,6 +3318,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":150
   },
   {
@@ -3189,6 +3340,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":151
   },
   {
@@ -3210,6 +3362,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":152
   },
   {
@@ -3231,6 +3384,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":153
   },
   {
@@ -3252,6 +3406,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":154
   },
   {
@@ -3273,6 +3428,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":155
   },
   {
@@ -3294,6 +3450,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":156
   },
   {
@@ -3315,6 +3472,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":157
   },
   {
@@ -3336,6 +3494,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":158
   },
   {
@@ -3357,6 +3516,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":159
   },
   {
@@ -3378,6 +3538,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":160
   },
   {
@@ -3399,6 +3560,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":161
   },
   {
@@ -3420,6 +3582,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":162
   },
   {
@@ -3441,6 +3604,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":163
   },
   {
@@ -3462,6 +3626,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":164
   },
   {
@@ -3483,6 +3648,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":165
   },
   {
@@ -3504,6 +3670,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":166
   },
   {
@@ -3525,6 +3692,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":167
   },
   {
@@ -3546,6 +3714,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":168
   },
   {
@@ -3567,6 +3736,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":169
   },
   {
@@ -3588,6 +3758,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":170
   },
   {
@@ -3609,6 +3780,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":171
   },
   {
@@ -3630,6 +3802,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":172
   },
   {
@@ -3651,6 +3824,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":173
   },
   {
@@ -3672,6 +3846,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":174
   },
   {
@@ -3693,6 +3868,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":175
   },
   {
@@ -3714,6 +3890,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":176
   },
   {
@@ -3735,6 +3912,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":177
   },
   {
@@ -3756,6 +3934,7 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":178
   },
   {
@@ -3777,6 +3956,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":179
   },
   {
@@ -3798,6 +3978,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":180
   },
   {
@@ -3819,6 +4000,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":181
   },
   {
@@ -3840,6 +4022,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":182
   },
   {
@@ -3861,6 +4044,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":183
   },
   {
@@ -3882,6 +4066,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":184
   },
   {
@@ -3903,6 +4088,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":185
   },
   {
@@ -3924,6 +4110,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":186
   },
   {
@@ -3945,6 +4132,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":187
   },
   {
@@ -3966,6 +4154,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":188
   },
   {
@@ -3987,6 +4176,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":189
   },
   {
@@ -4008,6 +4198,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":190
   },
   {
@@ -4029,6 +4220,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":191
   },
   {
@@ -4050,6 +4242,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":192
   },
   {
@@ -4071,6 +4264,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":193
   },
   {
@@ -4092,6 +4286,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":194
   },
   {
@@ -4113,6 +4308,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":195
   },
   {
@@ -4134,6 +4330,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":196
   },
   {
@@ -4155,6 +4352,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":197
   },
   {
@@ -4176,6 +4374,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":198
   },
   {
@@ -4197,6 +4396,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":199
   },
   {
@@ -4218,6 +4418,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":200
   },
   {
@@ -4239,6 +4440,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":201
   },
   {
@@ -4260,6 +4462,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":202
   },
   {
@@ -4281,6 +4484,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":203
   },
   {
@@ -4302,6 +4506,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":204
   },
   {
@@ -4323,6 +4528,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":205
   },
   {
@@ -4344,6 +4550,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":206
   },
   {
@@ -4365,6 +4572,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":207
   },
   {
@@ -4386,6 +4594,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":208
   },
   {
@@ -4407,6 +4616,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":209
   },
   {
@@ -4428,6 +4638,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":210
   },
   {
@@ -4449,6 +4660,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":211
   },
   {
@@ -4470,6 +4682,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":212
   },
   {
@@ -4491,6 +4704,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":213
   },
   {
@@ -4512,6 +4726,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":214
   },
   {
@@ -4533,6 +4748,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":215
   },
   {
@@ -4554,6 +4770,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":216
   },
   {
@@ -4575,6 +4792,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":217
   },
   {
@@ -4596,6 +4814,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":218
   },
   {
@@ -4617,6 +4836,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":219
   },
   {
@@ -4638,6 +4858,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":220
   },
   {
@@ -4659,6 +4880,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":221
   },
   {
@@ -4680,6 +4902,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":222
   },
   {
@@ -4701,6 +4924,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":223
   },
   {
@@ -4722,6 +4946,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":224
   },
   {
@@ -4743,6 +4968,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":225
   },
   {
@@ -4764,6 +4990,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":226
   },
   {
@@ -4785,6 +5012,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":227
   },
   {
@@ -4806,6 +5034,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":228
   },
   {
@@ -4827,6 +5056,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":229
   },
   {
@@ -4848,6 +5078,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":230
   },
   {
@@ -4869,13 +5100,14 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":231
   },
   {
     "type":"Cave",
     "number":50,
     "name":null,
-    "ability":"Gain 2 different benefits: [DragonCard]\/[DragonGuild]\/[CaveCard]\/[AnyResource]. Each opponent gains 1 benefit of their choice.",
+    "ability":"Gain 2 different benefits: [DragonCard]\/[CaveCard]\/[AnyResource]. Each opponent gains 1 benefit of their choice.",
     "abilityType":"WhenPlayed",
     "VP":null,
     "size":null,
@@ -4890,13 +5122,14 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":232
   },
   {
     "type":"Cave",
     "number":51,
     "name":null,
-    "ability":"Gain 2 different benefits: [DragonCard]\/[DragonGuild]\/[CaveCard]\/[AnyResource]. Each opponent gains 1 benefit of their choice.",
+    "ability":"Gain 2 different benefits: [DragonCard]\/[CaveCard]\/[AnyResource]. Each opponent gains 1 benefit of their choice.",
     "abilityType":"WhenPlayed",
     "VP":null,
     "size":null,
@@ -4911,6 +5144,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":233
   },
   {
@@ -4932,6 +5166,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":234
   },
   {
@@ -4953,6 +5188,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":235
   },
   {
@@ -4974,6 +5210,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":236
   },
   {
@@ -4995,6 +5232,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":237
   },
   {
@@ -5016,6 +5254,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":238
   },
   {
@@ -5037,6 +5276,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":239
   },
   {
@@ -5058,6 +5298,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":240
   },
   {
@@ -5079,6 +5320,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":241
   },
   {
@@ -5100,6 +5342,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":242
   },
   {
@@ -5121,6 +5364,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":243
   },
   {
@@ -5142,6 +5386,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":244
   },
   {
@@ -5163,6 +5408,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":245
   },
   {
@@ -5184,6 +5430,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":246
   },
   {
@@ -5205,6 +5452,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":247
   },
   {
@@ -5226,6 +5474,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":248
   },
   {
@@ -5247,6 +5496,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":249
   },
   {
@@ -5268,6 +5518,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":250
   },
   {
@@ -5289,6 +5540,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":251
   },
   {
@@ -5310,6 +5562,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":252
   },
   {
@@ -5331,6 +5584,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":253
   },
   {
@@ -5352,6 +5606,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":254
   },
   {
@@ -5373,6 +5628,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":255
   },
   {
@@ -5394,6 +5650,7 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":256
   },
   {
@@ -5415,6 +5672,2317 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
+    "expansion":"base",
     "id":257
+  },
+  {
+    "type":"Dragon",
+    "number":184,
+    "name":"Curious Feline Dragonette",
+    "ability":"[Milk][Meat]<br>Cache [AnyResource][AnyResource] from the general supply onto any dragon.",
+    "abilityType":"Adventurer",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Playful",
+    "Meat":2.0,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":1.0,
+    "expansion":"academy",
+    "id":258
+  },
+  {
+    "type":"Dragon",
+    "number":185,
+    "name":"Angelic Ridgedragon",
+    "ability":"[Meat][DragonCard]<br>Gain [Crystal][Milk].",
+    "abilityType":"Adventurer",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":1.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":259
+  },
+  {
+    "type":"Dragon",
+    "number":186,
+    "name":"Pugnacious Amphiptere",
+    "ability":"[DragonCard]<br>Gain [DragonCard]. You may tuck it here or under an orthogonally adjacent dragon.",
+    "abilityType":"WhenPlayed",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Aggressive",
+    "Meat":1.0,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":260
+  },
+  {
+    "type":"Dragon",
+    "number":187,
+    "name":"Sagacious Spitter",
+    "ability":"[Gold]<br>Gain [DragonGuild].",
+    "abilityType":"WhenPlayed",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Helpful",
+    "Meat":null,
+    "Gold":1.0,
+    "Crystal":1.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":261
+  },
+  {
+    "type":"Dragon",
+    "number":188,
+    "name":"Speckled Manta",
+    "ability":"[Egg][Milk]<br>Gain [Meat][Gold].",
+    "abilityType":"Adventurer",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Playful",
+    "Meat":null,
+    "Gold":1.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":262
+  },
+  {
+    "type":"Dragon",
+    "number":189,
+    "name":"Ambidextrous Falsekoi",
+    "ability":"[Milk][CaveCard]<br>Lay [Egg][Egg] here.",
+    "abilityType":"Adventurer",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":4.0,
+    "personality":"Helpful",
+    "Meat":1.0,
+    "Gold":null,
+    "Crystal":1.0,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":263
+  },
+  {
+    "type":"Dragon",
+    "number":190,
+    "name":"Jocular Wyvern",
+    "ability":"[CaveCard][DragonCard]<br>Lay [Egg][Egg] anywhere in this cave.",
+    "abilityType":"Adventurer",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":3.0,
+    "personality":"Playful",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":1.0,
+    "Milk":1.0,
+    "expansion":"academy",
+    "id":264
+  },
+  {
+    "type":"Dragon",
+    "number":191,
+    "name":"Agile Gryphdragon",
+    "ability":"[Milk][CaveCard]<br>Train any *fledgling* on your player mat up to 2x for free.",
+    "abilityType":"Adventurer",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":3.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":1.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":1.0,
+    "expansion":"academy",
+    "id":265
+  },
+  {
+    "type":"Dragon",
+    "number":192,
+    "name":"Northern Pane Dragon",
+    "ability":"[CaveCard][DragonCard]<br>Draw [DragonCard][CaveCard] from the deck.",
+    "abilityType":"Adventurer",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":3.0,
+    "personality":"Helpful",
+    "Meat":1.0,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":266
+  },
+  {
+    "type":"Dragon",
+    "number":193,
+    "name":"Gaudy Serpent",
+    "ability":"[DragonCard][Gold]<br>Tuck [DragonCard] from the deck under any dragon. If you tuck it here, gain [Gold].",
+    "abilityType":"Adventurer",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":2.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":1.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":267
+  },
+  {
+    "type":"Dragon",
+    "number":194,
+    "name":"Verdant Wisp",
+    "ability":"[Gold][DragonCard]<br>Discard [DragonCard] from your hand to gain [DragonGuild][DragonGuild].",
+    "abilityType":"Adventurer",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":2.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":2.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":1.0,
+    "expansion":"academy",
+    "id":268
+  },
+  {
+    "type":"Dragon",
+    "number":195,
+    "name":"Bullish Gryphdragon",
+    "ability":"[DragonCard]<br>Draw [DragonCard][DragonCard] from the deck. You may tuck 1 or both here.",
+    "abilityType":"Adventurer",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":2.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":269
+  },
+  {
+    "type":"Dragon",
+    "number":196,
+    "name":"Northwestern Auric Dragon",
+    "ability":"[Gold][Meat]<br>Gain [Coin].",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Playful",
+    "Meat":1.0,
+    "Gold":1.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":270
+  },
+  {
+    "type":"Dragon",
+    "number":197,
+    "name":"Acrobatic Horndragon",
+    "ability":"[CaveCard][DragonCard][Gold]<br>Either lay [Egg][Egg][Egg] or excavate 1 space for free with [CaveCard] from your hand.",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":1.0,
+    "Milk":1.0,
+    "expansion":"academy",
+    "id":271
+  },
+  {
+    "type":"Dragon",
+    "number":198,
+    "name":"Galvanic Wyrm",
+    "ability":"[Crystal][Meat]<br>Play [DragonCard] from your hand. Pay its printed costs.",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":2.0,
+    "personality":"Aggressive",
+    "Meat":1.0,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":272
+  },
+  {
+    "type":"Dragon",
+    "number":199,
+    "name":"Bitter Darkscale Wyrm",
+    "ability":"[DragonCard][Gold]<br>Gain [DragonCard][DragonCard][DragonCard]. Tuck up to 2 of them under any dragon.",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":1.0,
+    "Crystal":1.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":273
+  },
+  {
+    "type":"Dragon",
+    "number":200,
+    "name":"Directing Violet Lung Dragon",
+    "ability":"[Meat]<br>Gain [AnyResource][AnyResource]. Cache up to 2 of them onto any dragon.",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Playful",
+    "Meat":1.0,
+    "Gold":2.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":274
+  },
+  {
+    "type":"Dragon",
+    "number":201,
+    "name":"Ingenuous Spotted Dragonette",
+    "ability":"[Meat][Gold]<br>Gain [AnyResource] then cache up to 3 [AnyResource] from your supply onto any dragon.",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":1.0,
+    "Milk":1.0,
+    "expansion":"academy",
+    "id":275
+  },
+  {
+    "type":"Dragon",
+    "number":202,
+    "name":"Fawlcora",
+    "ability":"[Gold][DragonCard]<br>Gain [DragonGuild][DragonGuild].",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Helpful",
+    "Meat":null,
+    "Gold":1.0,
+    "Crystal":1.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":276
+  },
+  {
+    "type":"Dragon",
+    "number":203,
+    "name":"Enlightened Feydragon",
+    "ability":"[Crystal][CaveCard]<br>Pay [AnyResource] to gain [DragonGuild][DragonGuild][DragonGuild].",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Helpful",
+    "Meat":null,
+    "Gold":1.0,
+    "Crystal":null,
+    "Coin":1.0,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":277
+  },
+  {
+    "type":"Dragon",
+    "number":204,
+    "name":"Radiant Boreal Dragonette",
+    "ability":"[Crystal][Milk]<br>Gain [Meat][Milk][DragonCard]. You may cache\/tuck any or all of them here.",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Helpful",
+    "Meat":1.0,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":278
+  },
+  {
+    "type":"Dragon",
+    "number":205,
+    "name":"Capable Dragonette",
+    "ability":"[Coin]<br>Lay [Egg][Egg][Egg] here.",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":3.0,
+    "personality":"Helpful",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":2.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":279
+  },
+  {
+    "type":"Dragon",
+    "number":206,
+    "name":"Adroit Salientian Dragon",
+    "ability":"[Meat][Milk]<br>Lay [Egg][Egg].",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":4.0,
+    "personality":"Shy",
+    "Meat":1.0,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":280
+  },
+  {
+    "type":"Dragon",
+    "number":207,
+    "name":"Naryoon Marsh Dragon",
+    "ability":"[Egg][Crystal]<br>Lay [Egg] on each dragon in this column or each dragon in this row.",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":2.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":2.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":281
+  },
+  {
+    "type":"Dragon",
+    "number":208,
+    "name":"Zestful Feydragon",
+    "ability":"[Crystal][Gold][Milk]<br>Play [DragonCard] from your hand for free.",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":3.0,
+    "personality":"Playful",
+    "Meat":null,
+    "Gold":1.0,
+    "Crystal":null,
+    "Coin":1.0,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":282
+  },
+  {
+    "type":"Dragon",
+    "number":209,
+    "name":"Petite Crimson Gryphdragon",
+    "ability":"[Meat][Milk]<br>Gain +[VP-2] for each resource cached here (max [VP-12]).",
+    "abilityType":"EndGame",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":2.0,
+    "personality":"Helpful",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":1.0,
+    "Milk":2.0,
+    "expansion":"academy",
+    "id":283
+  },
+  {
+    "type":"Dragon",
+    "number":210,
+    "name":"Iridescent Lindworm",
+    "ability":"[DragonCard][CaveCard][Gold]<br>Gain +[VP-2] for each tucked card here (max [VP-12]).",
+    "abilityType":"EndGame",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":1.0,
+    "Milk":1.0,
+    "expansion":"academy",
+    "id":284
+  },
+  {
+    "type":"Dragon",
+    "number":211,
+    "name":"Amaranth Feathered Fae",
+    "ability":"[Crystal][Crystal]<br>Gain +[VP-1] for each [Egg] in this dragon's column.",
+    "abilityType":"EndGame",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":2.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":1.0,
+    "Milk":1.0,
+    "expansion":"academy",
+    "id":285
+  },
+  {
+    "type":"Dragon",
+    "number":212,
+    "name":"Kaleidoscopic Dragonette",
+    "ability":"[Milk][CaveCard][Milk]<br>Gain +[VP-1] for each [Egg] in this dragon's row.",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":1.0,
+    "Milk":1.0,
+    "expansion":"academy",
+    "id":286
+  },
+  {
+    "type":"Dragon",
+    "number":213,
+    "name":"Hovering Polychromatic Stripling",
+    "ability":"[Meat][Crystal][DragonCard][Coin]<br>Gain +[VP-3] for each dragon on your player mat that costs at least 1 [Meat] (max [VP-15]).",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":287
+  },
+  {
+    "type":"Dragon",
+    "number":214,
+    "name":"Barb-Scaled Beetlesmasher",
+    "ability":"[Meat][DragonCard][CaveCard]<br>Gain +[VP-2] for each AGGRESSIVE dragon on your player mat.",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":3.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":2.0,
+    "expansion":"academy",
+    "id":288
+  },
+  {
+    "type":"Dragon",
+    "number":215,
+    "name":"Guileless Dragonette",
+    "ability":"[CaveCard][DragonCard][CaveCard]<br>Gain +[VP-2] for each HELPFUL dragon on your player mat.",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":3.0,
+    "personality":"Helpful",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":2.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":289
+  },
+  {
+    "type":"Dragon",
+    "number":216,
+    "name":"Jejune Firedragon",
+    "ability":"[DragonCard][Gold]<br>Gain +[VP-2] for each PLAYFUL dragon on your player mat.",
+    "abilityType":"EndGame",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":2.0,
+    "personality":"Playful",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":2.0,
+    "expansion":"academy",
+    "id":290
+  },
+  {
+    "type":"Dragon",
+    "number":217,
+    "name":"Pygmy Feydragon",
+    "ability":"[Crystal][CaveCard][Crystal][CaveCard]<br>Gain +[VP-2] for each SHY dragon on your player mat.",
+    "abilityType":"EndGame",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":291
+  },
+  {
+    "type":"Dragon",
+    "number":218,
+    "name":"Precocious Amphiptere",
+    "ability":"[CaveCard][Crystal][Milk][Egg]<br>Gain +[VP-3] for each dragon on your player mat that costs an [Egg] (max [VP-15]).",
+    "abilityType":"EndGame",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":292
+  },
+  {
+    "type":"Dragon",
+    "number":219,
+    "name":"Blooming Sharpclaw",
+    "ability":"[Milk][Egg][DragonCard][Coin]<br>Gain +[VP-4] for each dragon on your player mat that costs at least 1 [Milk] (max [VP-16]).",
+    "abilityType":"EndGame",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":293
+  },
+  {
+    "type":"Dragon",
+    "number":220,
+    "name":"Prime Flighty Ridgedragon",
+    "ability":"[DragonCard][Milk][CaveCard]<br>Gain +[VP-3] for each *fledgling* on your player mat.",
+    "abilityType":"EndGame",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Playful",
+    "Meat":1.0,
+    "Gold":null,
+    "Crystal":1.0,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":294
+  },
+  {
+    "type":"Dragon",
+    "number":221,
+    "name":"Effervescent Gryphdragon",
+    "ability":"[DragonCard][CaveCard][Gold][Crystal]<br>Gain +[VP-3] for each adult dragon (small, medium, or large) in an orthogonally adjacent space.",
+    "abilityType":"EndGame",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Playful",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":295
+  },
+  {
+    "type":"Dragon",
+    "number":222,
+    "name":"Punk Dragonette",
+    "ability":"[Crystal][CaveCard][DragonCard][Coin]<br>Gain +[VP-3] for each dragon on your player mat that costs at least 1 [Crystal] (max [VP-15]).",
+    "abilityType":"EndGame",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Playful",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":296
+  },
+  {
+    "type":"Dragon",
+    "number":223,
+    "name":"Leopard Cobrette",
+    "ability":"[Gold][DragonCard][DragonCard][Coin]<br>Gain +[VP-3] for each dragon on your player mat that costs at least 1 [Gold] (max [VP-15]).",
+    "abilityType":"EndGame",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Helpful",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":297
+  },
+  {
+    "type":"Dragon",
+    "number":224,
+    "name":"Voracious Omnigobbler",
+    "ability":"Cache [Meat] from your supply here. Any time you cache [Meat] here, gain [DragonCard]. When the 3rd [Meat] is cached, cache 2 [AnyResource] from the general supply onto any dragon.",
+    "abilityType":"Adventurer",
+    "VP":7.0,
+    "size":"Hatchling",
+    "capacity":1.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":1.0,
+    "Milk":3.0,
+    "expansion":"academy",
+    "id":298
+  },
+  {
+    "type":"Dragon",
+    "number":225,
+    "name":"Famished Fae Dragonette",
+    "ability":"Cache [Meat] from your supply here. Any time you cache [Meat] here, train any *fledgling* 1x for free. When the 3rd [Meat] is cached, also gain [Coin].",
+    "abilityType":"Adventurer",
+    "VP":3.0,
+    "size":"Hatchling",
+    "capacity":1.0,
+    "personality":"Playful",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":1.0,
+    "Milk":2.0,
+    "expansion":"academy",
+    "id":299
+  },
+  {
+    "type":"Dragon",
+    "number":226,
+    "name":"Euphonious Fae",
+    "ability":"Tuck [DragonCard] from your hand here. Any time you tuck [DragonCard] here, gain [Milk] or [Meat]. When the 3rd [DragonCard] is tucked, also tuck 2 [Coin] from the deck under any dragon.",
+    "abilityType":"Adventurer",
+    "VP":2.0,
+    "size":"Hatchling",
+    "capacity":1.0,
+    "personality":"Helpful",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":1.0,
+    "Milk":1.0,
+    "expansion":"academy",
+    "id":300
+  },
+  {
+    "type":"Dragon",
+    "number":227,
+    "name":"Glassy-Eyed Shrubmuncher",
+    "ability":"Cache [Milk] from your supply here. Any time you cache [Milk] here, train any *fledgling* 1x for free. When the 3rd [Milk] is cached, also gain [Coin].",
+    "abilityType":"Adventurer",
+    "VP":3.0,
+    "size":"Hatchling",
+    "capacity":1.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":1.0,
+    "Milk":2.0,
+    "expansion":"academy",
+    "id":301
+  },
+  {
+    "type":"Dragon",
+    "number":228,
+    "name":"Clangorous Feydragon",
+    "ability":"Tuck [DragonCard] from your hand here. Any time you tuck [DragonCard] here, train any *fledgling* 1x for free. When the 3rd [DragonCard] is tucked, also gain [Coin].",
+    "abilityType":"Adventurer",
+    "VP":3.0,
+    "size":"Hatchling",
+    "capacity":1.0,
+    "personality":"Helpful",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":1.0,
+    "Milk":3.0,
+    "expansion":"academy",
+    "id":302
+  },
+  {
+    "type":"Dragon",
+    "number":229,
+    "name":"Charitable False Licheneater",
+    "ability":"Ignore this dragon's cost if it will be the 3rd or 4th dragon in its cave. Gain [Meat][Gold][Crystal]. All opponents gain 1 of their choice.",
+    "abilityType":"WhenPlayed",
+    "VP":3.0,
+    "size":"Small",
+    "capacity":1.0,
+    "personality":"Helpful",
+    "Meat":2.0,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":303
+  },
+  {
+    "type":"Dragon",
+    "number":230,
+    "name":"Imperious Wyvern",
+    "ability":"Discard [CaveCard] from your hand to gain its [WhenPlayed]benefit.",
+    "abilityType":"OncePerRound",
+    "VP":2.0,
+    "size":"Small",
+    "capacity":2.0,
+    "personality":"Helpful",
+    "Meat":1.0,
+    "Gold":1.0,
+    "Crystal":1.0,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":304
+  },
+  {
+    "type":"Dragon",
+    "number":231,
+    "name":"Crimson Tufted Lung Dragon",
+    "ability":"Fully train any *fledgling*. Do not pay any costs.",
+    "abilityType":"WhenPlayed",
+    "VP":5.0,
+    "size":"Small",
+    "capacity":1.0,
+    "personality":"Shy",
+    "Meat":2.0,
+    "Gold":1.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":305
+  },
+  {
+    "type":"Dragon",
+    "number":232,
+    "name":"Wandering Protean Dragon",
+    "ability":"Train all orthogonally adjacent *fledgling*s 1x for free.",
+    "abilityType":"Adventurer",
+    "VP":5.0,
+    "size":"Small",
+    "capacity":2.0,
+    "personality":"Playful",
+    "Meat":null,
+    "Gold":2.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":306
+  },
+  {
+    "type":"Dragon",
+    "number":233,
+    "name":"Gilded Whiskered Serpent",
+    "ability":"Ignore this dragon's cost if it is played orthogonally adjacent to a *fledgling*. Train any *fledgling* up to 2x for free.",
+    "abilityType":"WhenPlayed",
+    "VP":1.0,
+    "size":"Small",
+    "capacity":3.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":1.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":307
+  },
+  {
+    "type":"Dragon",
+    "number":234,
+    "name":"Relentless Spine Drake",
+    "ability":"Pay [CaveCard][CaveCard] to play a dragon from your hand or the display for free.",
+    "abilityType":"WhenPlayed",
+    "VP":2.0,
+    "size":"Small",
+    "capacity":2.0,
+    "personality":"Playful",
+    "Meat":null,
+    "Gold":2.0,
+    "Crystal":1.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":308
+  },
+  {
+    "type":"Dragon",
+    "number":235,
+    "name":"Diminutive Pegasus Dragon",
+    "ability":"Gain +[VP-8] if there are at least 2 hatchlings on your player mat.",
+    "abilityType":"EndGame",
+    "VP":5.0,
+    "size":"Small",
+    "capacity":3.0,
+    "personality":"Playful",
+    "Meat":1.0,
+    "Gold":1.0,
+    "Crystal":1.0,
+    "Coin":1.0,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":309
+  },
+  {
+    "type":"Dragon",
+    "number":236,
+    "name":"Obstinate Plumed Coatl",
+    "ability":"Ignore this dragon's cost if you have played at least 2 hatchlings. Gain [Milk][Milk]. All opponents gain [Milk].",
+    "abilityType":"WhenPlayed",
+    "VP":4.0,
+    "size":"Small",
+    "capacity":2.0,
+    "personality":"Helpful",
+    "Meat":1.0,
+    "Gold":null,
+    "Crystal":1.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":310
+  },
+  {
+    "type":"Dragon",
+    "number":237,
+    "name":"Merciful Sea Serpent",
+    "ability":"Either train any *fledgling* 1x for free, or lay 1 [Egg] for each fully trained *fledgling*.",
+    "abilityType":"OncePerRound",
+    "VP":5.0,
+    "size":"Small",
+    "capacity":1.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":3.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":311
+  },
+  {
+    "type":"Dragon",
+    "number":238,
+    "name":"Andean Coatl",
+    "ability":"Ignore this dragon's cost if it will be the 3rd or 4th dragon in its cave. Activate the [Adventurer] abilities on all orthogonally adjacent dragons.",
+    "abilityType":"Adventurer",
+    "VP":1.0,
+    "size":"Small",
+    "capacity":3.0,
+    "personality":"Playful",
+    "Meat":1.0,
+    "Gold":1.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":312
+  },
+  {
+    "type":"Dragon",
+    "number":239,
+    "name":"Southern Cavalier Wyvern",
+    "ability":"Cache up to 2 [AnyResource] from the general supply onto any orthogonally adjacent dragon.",
+    "abilityType":"Adventurer",
+    "VP":0.0,
+    "size":"Small",
+    "capacity":2.0,
+    "personality":"Playful",
+    "Meat":2.0,
+    "Gold":null,
+    "Crystal":1.0,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":313
+  },
+  {
+    "type":"Dragon",
+    "number":240,
+    "name":"Phlegmatic Firedragon",
+    "ability":"Ignore this dragon's cost if you have played at least 2 *fledgling*s. Train any *fledgling* 1x for free.",
+    "abilityType":"Adventurer",
+    "VP":1.0,
+    "size":"Small",
+    "capacity":1.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":1.0,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":314
+  },
+  {
+    "type":"Dragon",
+    "number":241,
+    "name":"Ancient Kasei Wyvern",
+    "ability":"Gain [DragonGuild] for each fully trained *fledgling* on your player mat.",
+    "abilityType":"Adventurer",
+    "VP":2.0,
+    "size":"Medium",
+    "capacity":2.0,
+    "personality":"Playful",
+    "Meat":1.0,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":1.0,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":315
+  },
+  {
+    "type":"Dragon",
+    "number":242,
+    "name":"Pliant Floral Rex",
+    "ability":"Pay [AnyResource] to train any *fledgling* 1x for free, then gain the item covered by the training token.",
+    "abilityType":"Adventurer",
+    "VP":3.0,
+    "size":"Medium",
+    "capacity":3.0,
+    "personality":"Shy",
+    "Meat":1.0,
+    "Gold":null,
+    "Crystal":2.0,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":316
+  },
+  {
+    "type":"Dragon",
+    "number":243,
+    "name":"Eastern Lupine Serpent",
+    "ability":"Activate any 2 [OncePerRound] abilities on dragons on your player mat.",
+    "abilityType":"WhenPlayed",
+    "VP":3.0,
+    "size":"Medium",
+    "capacity":1.0,
+    "personality":"Aggressive",
+    "Meat":2.0,
+    "Gold":null,
+    "Crystal":1.0,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":317
+  },
+  {
+    "type":"Dragon",
+    "number":244,
+    "name":"Rancorous Lindworm",
+    "ability":"Draw 3 [DragonCard] from the deck. You may tuck any or all of them here.",
+    "abilityType":"Adventurer",
+    "VP":5.0,
+    "size":"Medium",
+    "capacity":2.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":1.0,
+    "Crystal":2.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":318
+  },
+  {
+    "type":"Dragon",
+    "number":245,
+    "name":"Merciful Anteldragon",
+    "ability":"Reveal [DragonCard] from the deck. If it is a *fledgling*, tuck it here. Otherwise, discard it and lay [Egg] here.",
+    "abilityType":"Adventurer",
+    "VP":3.0,
+    "size":"Medium",
+    "capacity":4.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":2.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":319
+  },
+  {
+    "type":"Dragon",
+    "number":246,
+    "name":"Decimating Drakeeater",
+    "ability":"Pay [AnyResource][AnyResource] to draw 5 [DragonCard] from the deck. Keep 1 and tuck the other 4 here.",
+    "abilityType":"OncePerRound",
+    "VP":0.0,
+    "size":"Medium",
+    "capacity":2.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":1.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":320
+  },
+  {
+    "type":"Dragon",
+    "number":247,
+    "name":"Lively Tusked Lung Dragon",
+    "ability":"Draw 3 [DragonCard] from the deck. Play 1 for free and discard the other 2.",
+    "abilityType":"WhenPlayed",
+    "VP":6.0,
+    "size":"Medium",
+    "capacity":1.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":1.0,
+    "Crystal":2.0,
+    "Coin":1.0,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":321
+  },
+  {
+    "type":"Dragon",
+    "number":248,
+    "name":"Vivacious Amphiptere",
+    "ability":"Pay [Coin] to draw 3 [CaveCard] from the deck. Play 1 for free and keep the other 2.",
+    "abilityType":"WhenPlayed",
+    "VP":6.0,
+    "size":"Medium",
+    "capacity":2.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":3.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":322
+  },
+  {
+    "type":"Dragon",
+    "number":249,
+    "name":"Quarrelsome Firevern",
+    "ability":"Ignore this dragon's cost if you have played at least 2 other AGGRESSIVE dragons. Draw [DragonCard] from the deck for each AGGRESSIVE dragon in this cave. You may tuck up to 2 of them here.",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Medium",
+    "capacity":3.0,
+    "personality":"Aggressive",
+    "Meat":1.0,
+    "Gold":2.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":323
+  },
+  {
+    "type":"Dragon",
+    "number":250,
+    "name":"Archaic Striated Serpent",
+    "ability":"Gain +[VP-1] for each [FledglingArrow] on all of your *fledgling*s.",
+    "abilityType":"EndGame",
+    "VP":5.0,
+    "size":"Medium",
+    "capacity":1.0,
+    "personality":"Helpful",
+    "Meat":1.0,
+    "Gold":1.0,
+    "Crystal":1.0,
+    "Coin":1.0,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":324
+  },
+  {
+    "type":"Dragon",
+    "number":251,
+    "name":"Possessive Pseudodrake",
+    "ability":"Tuck 1 [DragonCard] from the deck here for each *fledgling* on your player mat.",
+    "abilityType":"Adventurer",
+    "VP":4.0,
+    "size":"Medium",
+    "capacity":2.0,
+    "personality":"Helpful",
+    "Meat":null,
+    "Gold":1.0,
+    "Crystal":2.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":325
+  },
+  {
+    "type":"Dragon",
+    "number":252,
+    "name":"Solicitous Coatl",
+    "ability":"Ignore this dragon's cost if you have played at least 2 other HELPFUL dragons. Cache [AnyResource] from the general supply onto each HELPFUL dragon in this cave.",
+    "abilityType":"Adventurer",
+    "VP":1.0,
+    "size":"Medium",
+    "capacity":2.0,
+    "personality":"Helpful",
+    "Meat":1.0,
+    "Gold":null,
+    "Crystal":2.0,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":326
+  },
+  {
+    "type":"Dragon",
+    "number":253,
+    "name":"Seraphic Celestialwing Coatl",
+    "ability":"Pay [AnyResource] to train any *fledgling* up to 2x for free.",
+    "abilityType":"WhenPlayed",
+    "VP":4.0,
+    "size":"Large",
+    "capacity":1.0,
+    "personality":"Helpful",
+    "Meat":1.0,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":327
+  },
+  {
+    "type":"Dragon",
+    "number":254,
+    "name":"Trixie Wyvern",
+    "ability":"Fully train any *fledgling* for free. If you do, also lay [Egg][Egg].",
+    "abilityType":"OncePerRound",
+    "VP":0.0,
+    "size":"Large",
+    "capacity":2.0,
+    "personality":"Playful",
+    "Meat":3.0,
+    "Gold":1.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":328
+  },
+  {
+    "type":"Dragon",
+    "number":255,
+    "name":"Serene Anteldragon",
+    "ability":"Lay [Egg] on each *fledgling* on your player mat.",
+    "abilityType":"OncePerRound",
+    "VP":3.0,
+    "size":"Large",
+    "capacity":2.0,
+    "personality":"Shy",
+    "Meat":1.0,
+    "Gold":1.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":329
+  },
+  {
+    "type":"Dragon",
+    "number":256,
+    "name":"Cyclopean Basilisk",
+    "ability":"Tuck up to 2 [DragonCard] from the deck under any orthogonally adjacent dragon.",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Large",
+    "capacity":3.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":2.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":330
+  },
+  {
+    "type":"Dragon",
+    "number":257,
+    "name":"Nettlesome Greatwyrm",
+    "ability":"Ignore this dragon's cost if it will be the 3rd or 4th dragon in its cave. Reveal [DragonCard] from the deck. If it is a *fledgling*, keep it and lay 1 [Egg] here. Otherwise, tuck it here.",
+    "abilityType":"Adventurer",
+    "VP":2.0,
+    "size":"Large",
+    "capacity":3.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":2.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":331
+  },
+  {
+    "type":"Dragon",
+    "number":258,
+    "name":"Mild Arboreal Wyvern",
+    "ability":"Train any *fledgling* 1x for free, then either gain the item covered by the training token or lay [Egg].",
+    "abilityType":"OncePerRound",
+    "VP":2.0,
+    "size":"Large",
+    "capacity":1.0,
+    "personality":"Helpful",
+    "Meat":null,
+    "Gold":2.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":332
+  },
+  {
+    "type":"Dragon",
+    "number":259,
+    "name":"Cacophonic Lung Dragon",
+    "ability":"Pay [CaveCard] to train any *fledgling* up to 2x for free.",
+    "abilityType":"WhenPlayed",
+    "VP":5.0,
+    "size":"Large",
+    "capacity":2.0,
+    "personality":"Playful",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":2.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":333
+  },
+  {
+    "type":"Dragon",
+    "number":260,
+    "name":"Regal Ice Dragon",
+    "ability":"Ignore this dragon's cost if it will complete a column or row of dragons. Gain [DragonGuild] if this dragon's column is full, and gain [DragonGuild] if this dragon's row is full.",
+    "abilityType":"OncePerRound",
+    "VP":0.0,
+    "size":"Large",
+    "capacity":1.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":2.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":334
+  },
+  {
+    "type":"Dragon",
+    "number":261,
+    "name":"Affable Glowtail",
+    "ability":"Lay [Egg][Egg] on each PLAYFUL dragon in this cave.",
+    "abilityType":"OncePerRound",
+    "VP":3.0,
+    "size":"Large",
+    "capacity":2.0,
+    "personality":"Playful",
+    "Meat":1.0,
+    "Gold":1.0,
+    "Crystal":null,
+    "Coin":1.0,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":335
+  },
+  {
+    "type":"Dragon",
+    "number":262,
+    "name":"Machiavelli's Dragon",
+    "ability":"Tuck up to 2 [DragonCard] from your hand under each SHY dragon in this cave.",
+    "abilityType":"Adventurer",
+    "VP":5.0,
+    "size":"Large",
+    "capacity":1.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":1.0,
+    "Crystal":2.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":336
+  },
+  {
+    "type":"Dragon",
+    "number":263,
+    "name":"Hirsute Horned Colossus",
+    "ability":"Gain +[VP-3] for each dragon on your player mat with [Coin] in its cost (max [VP-15]).",
+    "abilityType":"EndGame",
+    "VP":3.0,
+    "size":"Large",
+    "capacity":2.0,
+    "personality":"Aggressive",
+    "Meat":1.0,
+    "Gold":1.0,
+    "Crystal":1.0,
+    "Coin":1.0,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":337
+  },
+  {
+    "type":"Cave",
+    "number":76,
+    "name":null,
+    "ability":"Up to 2x, train any *fledgling* 1x for free.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":"Cave",
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":338
+  },
+  {
+    "type":"Cave",
+    "number":77,
+    "name":null,
+    "ability":"Up to 2x, train any *fledgling* 1x for free.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":"Cave",
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":339
+  },
+  {
+    "type":"Cave",
+    "number":78,
+    "name":null,
+    "ability":"Train any *fledgling* 1x for free, then gain the item covered by the training token.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":"Cave",
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":340
+  },
+  {
+    "type":"Cave",
+    "number":79,
+    "name":null,
+    "ability":"Train any *fledgling* 1x for free, then gain the item covered by the training token.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":"Cave",
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":341
+  },
+  {
+    "type":"Cave",
+    "number":80,
+    "name":null,
+    "ability":"Fully train any *fledgling* for free. All others may train any *fledgling* 1x for free.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":"Cave",
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":342
+  },
+  {
+    "type":"Cave",
+    "number":81,
+    "name":null,
+    "ability":"Draw 3 [DragonCard] from the deck. Keep 1, discard 1, and tuck 1 under any dragon.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":"Cave",
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":343
+  },
+  {
+    "type":"Cave",
+    "number":82,
+    "name":null,
+    "ability":"Gain [AnyResource][AnyResource]. Keep 1 and cache 1 onto any dragon.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":"Cave",
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":344
+  },
+  {
+    "type":"Cave",
+    "number":83,
+    "name":null,
+    "ability":"Activate the [Adventurer] ability on up to 2 dragons on your player mat.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":"Cave",
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":345
+  },
+  {
+    "type":"Cave",
+    "number":84,
+    "name":null,
+    "ability":"Activate 2 different [Adventurer] abilities printed on your player mat.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":"Cave",
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":346
+  },
+  {
+    "type":"Cave",
+    "number":85,
+    "name":null,
+    "ability":"Lay [Egg][Egg][Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":"Cave",
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":347
+  },
+  {
+    "type":"Cave",
+    "number":86,
+    "name":null,
+    "ability":"Gain [Meat][Milk].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":"Cave",
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":348
+  },
+  {
+    "type":"Cave",
+    "number":87,
+    "name":null,
+    "ability":"Gain [Meat][Crystal].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":"Cave",
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":349
+  },
+  {
+    "type":"Cave",
+    "number":88,
+    "name":null,
+    "ability":"Gain [Meat][Gold].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":"Cave",
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":350
+  },
+  {
+    "type":"Cave",
+    "number":89,
+    "name":null,
+    "ability":"Gain [Gold][Crystal].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":"Cave",
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":351
+  },
+  {
+    "type":"Cave",
+    "number":90,
+    "name":null,
+    "ability":"Gain [Gold][Crystal]. Lay [Egg]. All opponents lay [Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":"Cave",
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":352
+  },
+  {
+    "type":"Cave",
+    "number":91,
+    "name":null,
+    "ability":"Gain [Meat][Milk][DragonCard]. All opponents gain 1 of their choice.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":"Cave",
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":353
+  },
+  {
+    "type":"Cave",
+    "number":92,
+    "name":null,
+    "ability":"Gain [DragonGuild][DragonGuild]. All opponents lay [Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":"Cave",
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":354
+  },
+  {
+    "type":"Cave",
+    "number":93,
+    "name":null,
+    "ability":"Gain [DragonGuild][DragonGuild]. All opponents lay [Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":"Cave",
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":355
+  },
+  {
+    "type":"Cave",
+    "number":94,
+    "name":null,
+    "ability":"Pay [Coin] to gain [DragonCard][AnyResource][CaveCard] and lay [Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":"Cave",
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":356
+  },
+  {
+    "type":"Cave",
+    "number":95,
+    "name":null,
+    "ability":"Pay [Coin] to gain [DragonCard][AnyResource][CaveCard] and lay [Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":"Cave",
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":357
+  },
+  {
+    "type":"Cave",
+    "number":96,
+    "name":null,
+    "ability":"Pay [DragonCard][DragonCard], then excavate 1 space for free with [CaveCard] from your hand.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":"Cave",
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":358
+  },
+  {
+    "type":"Cave",
+    "number":97,
+    "name":null,
+    "ability":"Pay [AnyResource][AnyResource], then excavate 1 space for free with [CaveCard] from your hand.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":"Cave",
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":359
+  },
+  {
+    "type":"Cave",
+    "number":98,
+    "name":null,
+    "ability":"Pay [Egg][Egg], then excavate 1 space for free with [CaveCard] from your hand.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":"Cave",
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":360
+  },
+  {
+    "type":"Cave",
+    "number":99,
+    "name":null,
+    "ability":"Pay [AnyResource][AnyResource], then excavate 1 space for free with [CaveCard] from your hand.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":"Cave",
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":361
+  },
+  {
+    "type":"Cave",
+    "number":100,
+    "name":null,
+    "ability":"Pay [Coin][AnyResource], then play [DragonCard] from your hand for free.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":"Cave",
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"academy",
+    "id":362
   }
 ]

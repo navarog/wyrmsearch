@@ -1,5 +1,5 @@
 import "./DragonCard.css";
-import { renderText } from "./Card";
+import { renderText, renderFledglingAbility } from "./Card";
 import VP from "../assets/icons/VP.svg";
 import EggCapacity from "../assets/icons/EggCapacity.svg";
 
@@ -58,6 +58,9 @@ const DragonCard = ({ data }) => {
             <img src={VP} alt="VP" />
             <div className="VP-value">{data.VP}</div>
           </div>
+          {data.size === "Fledgling" && (
+            <div className="per-text">per</div>
+          )}
           <div className="size">{data.size.toUpperCase()}</div>
           <div className="eggs">
             {Array(Number(data.capacity))
@@ -104,6 +107,10 @@ const DragonCard = ({ data }) => {
                     )
                 )}
             </div>
+          ) : data.size === "Fledgling" ? (
+            <>
+              {renderFledglingAbility(data.ability, data.abilityType)}
+            </>
           ) : (
             <>
               <img

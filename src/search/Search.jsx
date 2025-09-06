@@ -40,6 +40,7 @@ const fields = [
   "Golden Grotto",
   "Amethyst Abyss",
   "personality",
+  "expansion",
 ];
 
 export function handleSearch(state, query) {
@@ -54,7 +55,9 @@ export function handleSearch(state, query) {
     : state.allCards.map((card) => card.id);
   const filteredIds = searchedIds.filter((id) => {
     const card = state.allCards[id];
-    return query.type[card.type] && (query.personality[card.personality] || card.type === "Cave");
+    return query.type[card.type] && 
+           (query.personality[card.personality] || card.type === "Cave") &&
+           query.expansion[card.expansion];
   });
 
   return { ...state, filteredCardIds: filteredIds.sort((a, b) => a - b) };
@@ -72,6 +75,10 @@ function Search({ cardState, triggerSearch }) {
       Playful: true,
       Helpful: true,
       Aggressive: true,
+    },
+    expansion: {
+      base: true,
+      academy: true,
     },
   };
   const [query, setQuery] = useState(defaultQuery);
@@ -228,6 +235,54 @@ function Search({ cardState, triggerSearch }) {
                   />
                 </div>
               </Tooltip>
+              <div className="row" style={{ marginTop: '10px' }}>
+                <label style={{ marginRight: '10px', fontSize: '14px' }}>Expansion:</label>
+                <button
+                  className={`expansion-filter ${query.expansion.base ? "" : "disabled"}`}
+                  onClick={() =>
+                    setQuery({
+                      ...query,
+                      expansion: {
+                        ...query.expansion,
+                        base: !query.expansion.base,
+                      },
+                    })
+                  }
+                  style={{
+                    marginRight: '8px',
+                    padding: '4px 8px',
+                    border: '1px solid #ccc',
+                    borderRadius: '4px',
+                    backgroundColor: query.expansion.base ? '#007bff' : '#f8f9fa',
+                    color: query.expansion.base ? 'white' : '#333',
+                    cursor: 'pointer',
+                  }}
+                >
+                  Base ({stats.expansion?.base || 0})
+                </button>
+                <button
+                  className={`expansion-filter ${query.expansion.academy ? "" : "disabled"}`}
+                  onClick={() =>
+                    setQuery({
+                      ...query,
+                      expansion: {
+                        ...query.expansion,
+                        academy: !query.expansion.academy,
+                      },
+                    })
+                  }
+                  style={{
+                    padding: '4px 8px',
+                    border: '1px solid #ccc',
+                    borderRadius: '4px',
+                    backgroundColor: query.expansion.academy ? '#28a745' : '#f8f9fa',
+                    color: query.expansion.academy ? 'white' : '#333',
+                    cursor: 'pointer',
+                  }}
+                >
+                  Academy ({stats.expansion?.academy || 0})
+                </button>
+              </div>
             </div>
           </AccordionDetails>
         </Accordion>
