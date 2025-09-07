@@ -11,7 +11,8 @@
   background-size: cover;
   width: 90%;
   padding: 5%;
-  
+  position: relative;
+  overflow: hidden;
 
   .text-icon {
     height: 1.2em;

@@ -1,5 +1,6 @@
 import "./CaveCard.css";
 import { renderText } from "./Card";
+import ExpansionIndicator from "./ExpansionIndicator";
 
 const CaveCard = ({ data }) => {
   return (
@@ -13,6 +14,7 @@ const CaveCard = ({ data }) => {
         />
         <div className="ability-text">{renderText(data.ability)}</div>
       </div>
+      <ExpansionIndicator expansion={data.expansion} variant="cave" />
     </div>
   );
 };

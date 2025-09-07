@@ -8,6 +8,8 @@
   background-color: white;
   background-size: cover;
   width: 100%;
+  position: relative;
+  overflow: hidden;
 
   .text-icon {
     height: 1.1em;
