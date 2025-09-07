@@ -2,6 +2,7 @@ import "./DragonCard.css";
 import { renderText, renderFledglingAbility } from "./Card";
 import VP from "../assets/icons/VP.svg";
 import EggCapacity from "../assets/icons/EggCapacity.svg";
+import BlueStar from "../assets/icons/BlueStar.svg";
 import ExpansionIndicator from "./ExpansionIndicator";
 import shyBackground from "../assets/card-backgrounds/dragon-card-background-shy.png";
 import playfulBackground from "../assets/card-backgrounds/dragon-card-background-playful.png";
@@ -26,7 +27,8 @@ function costToIcons(data) {
   if (finalCost.length === 0) {
     finalCost.push("NoResourceCost");
   }
-  return finalCost.map((part, index) => {
+  
+  const costIcons = finalCost.map((part, index) => {
     return (
       <img
         className="cost-icon"
@@ -36,6 +38,69 @@ function costToIcons(data) {
       />
     );
   });
+
+  // Add slash and BlueStar if ignoreCost is "x"
+  if (data.ignoreCost === "x") {
+    return (
+      <>
+        {costIcons}
+        <span className="cost-slash">/</span>
+        <img
+          className="cost-icon"
+          src={BlueStar}
+          alt="Ignore Cost"
+        />
+      </>
+    );
+  }
+
+  return costIcons;
+}
+
+function renderAbilityWithIgnoreCost(text, abilityType, ignoreCost) {
+  if (ignoreCost === "x") {
+    // Find the first sentence ending with a dot
+    const dotIndex = text.indexOf('.');
+    if (dotIndex !== -1) {
+      const firstSentence = text.substring(0, dotIndex + 1);
+      const remainingText = text.substring(dotIndex + 1).trim();
+      
+      return (
+        <div className="ability-ignore-cost">
+          <div className="ability-first-sentence">
+            <img
+              className="ability-star-icon"
+              src={BlueStar}
+              alt="Ignore Cost"
+            />
+            <div className="first-sentence-text">{renderText(firstSentence)}</div>
+          </div>
+          {remainingText && (
+            <div className="ability-remaining-text">
+              <img
+                className="ability-icon"
+                src={require(`../assets/icons/${abilityType}.svg`)}
+                alt={abilityType}
+              />
+              <div>{renderText(remainingText)}</div>
+            </div>
+          )}
+        </div>
+      );
+    }
+  }
+  
+  // Default rendering for non-ignore cost or text without dots
+  return (
+    <div className="ability-default">
+      <img
+        className="ability-icon"
+        src={require(`../assets/icons/${abilityType}.svg`)}
+        alt={abilityType}
+      />
+      <div>{renderText(text)}</div>
+    </div>
+  );
 }
 
 const DragonCard = ({ data }) => {
@@ -125,12 +190,7 @@ const DragonCard = ({ data }) => {
             </>
           ) : (
             <>
-              <img
-                className="ability-icon"
-                src={require(`../assets/icons/${data.abilityType}.svg`)}
-                alt={data.abilityType}
-              />
-              <div>{renderText(data.ability)}</div>
+              {renderAbilityWithIgnoreCost(data.ability, data.abilityType, data.ignoreCost)}
             </>
           )}
         </div>

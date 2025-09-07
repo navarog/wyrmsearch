@@ -47,6 +47,12 @@
       min-height: 50%;
       max-width: 8cqw;
     }
+
+    .cost-slash {
+      color: white;
+      font-size: 9cqw;
+      font-weight: bold;
+    }
   }
 
   .middle-container {
@@ -175,12 +181,48 @@
 
     .ability {
       display: flex;
+      flex-direction: column;
       font-family: "Acumin Pro Condensed", sans-serif;
       width: 100%;
       .ability-icon {
         width: 12cqw;
         height: 12cqw;
         margin-right: 2cqw;
+      }
+
+      .ability-star-icon {
+        width: 12cqw;
+        height: 12cqw;
+        margin-right: 2cqw;
+      }
+
+      .ability-first-sentence {
+        display: flex;
+        align-items: flex-start;
+        margin-bottom: 0.5em;
+      }
+
+      .first-sentence-text {
+        flex: 1;
+      }
+
+      .ability-remaining-text {
+        display: flex;
+        align-items: flex-start;
+        margin-top: 0.5em;
+      }
+
+      .ability-ignore-cost {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+      }
+
+      .ability-default {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        width: 100%;
       }
 
       .ability-hatchling {
