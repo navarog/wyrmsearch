@@ -19,7 +19,8 @@
     "Egg":1.0,
     "Milk":1.0,
     "expansion":"base",
-    "id":0
+    "id":0,
+    "sort_id":0
   },
   {
     "type":"Dragon",
@@ -41,7 +42,8 @@
     "Egg":1.0,
     "Milk":3.0,
     "expansion":"base",
-    "id":1
+    "id":1,
+    "sort_id":1
   },
   {
     "type":"Dragon",
@@ -63,7 +65,8 @@
     "Egg":1.0,
     "Milk":3.0,
     "expansion":"base",
-    "id":2
+    "id":2,
+    "sort_id":2
   },
   {
     "type":"Dragon",
@@ -85,7 +88,8 @@
     "Egg":1.0,
     "Milk":2.0,
     "expansion":"base",
-    "id":3
+    "id":3,
+    "sort_id":3
   },
   {
     "type":"Dragon",
@@ -107,7 +111,8 @@
     "Egg":1.0,
     "Milk":3.0,
     "expansion":"base",
-    "id":4
+    "id":4,
+    "sort_id":4
   },
   {
     "type":"Dragon",
@@ -129,7 +134,8 @@
     "Egg":1.0,
     "Milk":3.0,
     "expansion":"base",
-    "id":5
+    "id":5,
+    "sort_id":5
   },
   {
     "type":"Dragon",
@@ -151,7 +157,8 @@
     "Egg":1.0,
     "Milk":3.0,
     "expansion":"base",
-    "id":6
+    "id":6,
+    "sort_id":6
   },
   {
     "type":"Dragon",
@@ -173,7 +180,8 @@
     "Egg":1.0,
     "Milk":3.0,
     "expansion":"base",
-    "id":7
+    "id":7,
+    "sort_id":7
   },
   {
     "type":"Dragon",
@@ -195,7 +203,8 @@
     "Egg":1.0,
     "Milk":1.0,
     "expansion":"base",
-    "id":8
+    "id":8,
+    "sort_id":8
   },
   {
     "type":"Dragon",
@@ -217,7 +226,8 @@
     "Egg":1.0,
     "Milk":1.0,
     "expansion":"base",
-    "id":9
+    "id":9,
+    "sort_id":9
   },
   {
     "type":"Dragon",
@@ -239,7 +249,8 @@
     "Egg":1.0,
     "Milk":1.0,
     "expansion":"base",
-    "id":10
+    "id":10,
+    "sort_id":10
   },
   {
     "type":"Dragon",
@@ -261,7 +272,8 @@
     "Egg":1.0,
     "Milk":3.0,
     "expansion":"base",
-    "id":11
+    "id":11,
+    "sort_id":11
   },
   {
     "type":"Dragon",
@@ -283,7 +295,8 @@
     "Egg":1.0,
     "Milk":1.0,
     "expansion":"base",
-    "id":12
+    "id":12,
+    "sort_id":12
   },
   {
     "type":"Dragon",
@@ -305,7 +318,8 @@
     "Egg":1.0,
     "Milk":2.0,
     "expansion":"base",
-    "id":13
+    "id":13,
+    "sort_id":13
   },
   {
     "type":"Dragon",
@@ -327,7 +341,8 @@
     "Egg":1.0,
     "Milk":1.0,
     "expansion":"base",
-    "id":14
+    "id":14,
+    "sort_id":14
   },
   {
     "type":"Dragon",
@@ -349,7 +364,8 @@
     "Egg":1.0,
     "Milk":1.0,
     "expansion":"base",
-    "id":15
+    "id":15,
+    "sort_id":15
   },
   {
     "type":"Dragon",
@@ -371,7 +387,8 @@
     "Egg":1.0,
     "Milk":1.0,
     "expansion":"base",
-    "id":16
+    "id":16,
+    "sort_id":16
   },
   {
     "type":"Dragon",
@@ -393,7 +410,8 @@
     "Egg":1.0,
     "Milk":2.0,
     "expansion":"base",
-    "id":17
+    "id":17,
+    "sort_id":17
   },
   {
     "type":"Dragon",
@@ -415,7 +433,8 @@
     "Egg":1.0,
     "Milk":2.0,
     "expansion":"base",
-    "id":18
+    "id":18,
+    "sort_id":18
   },
   {
     "type":"Dragon",
@@ -437,7 +456,8 @@
     "Egg":1.0,
     "Milk":1.0,
     "expansion":"base",
-    "id":19
+    "id":19,
+    "sort_id":19
   },
   {
     "type":"Dragon",
@@ -459,7 +479,8 @@
     "Egg":1.0,
     "Milk":2.0,
     "expansion":"base",
-    "id":20
+    "id":20,
+    "sort_id":20
   },
   {
     "type":"Dragon",
@@ -481,7 +502,8 @@
     "Egg":1.0,
     "Milk":2.0,
     "expansion":"base",
-    "id":21
+    "id":21,
+    "sort_id":21
   },
   {
     "type":"Dragon",
@@ -503,7 +525,8 @@
     "Egg":1.0,
     "Milk":1.0,
     "expansion":"base",
-    "id":22
+    "id":22,
+    "sort_id":22
   },
   {
     "type":"Dragon",
@@ -525,7 +548,8 @@
     "Egg":1.0,
     "Milk":2.0,
     "expansion":"base",
-    "id":23
+    "id":23,
+    "sort_id":23
   },
   {
     "type":"Dragon",
@@ -547,7 +571,8 @@
     "Egg":1.0,
     "Milk":3.0,
     "expansion":"base",
-    "id":24
+    "id":24,
+    "sort_id":24
   },
   {
     "type":"Dragon",
@@ -569,7 +594,8 @@
     "Egg":1.0,
     "Milk":1.0,
     "expansion":"base",
-    "id":25
+    "id":25,
+    "sort_id":25
   },
   {
     "type":"Dragon",
@@ -591,7 +617,8 @@
     "Egg":1.0,
     "Milk":2.0,
     "expansion":"base",
-    "id":26
+    "id":26,
+    "sort_id":26
   },
   {
     "type":"Dragon",
@@ -613,7 +640,8 @@
     "Egg":1.0,
     "Milk":3.0,
     "expansion":"base",
-    "id":27
+    "id":27,
+    "sort_id":27
   },
   {
     "type":"Dragon",
@@ -635,7 +663,8 @@
     "Egg":1.0,
     "Milk":2.0,
     "expansion":"base",
-    "id":28
+    "id":28,
+    "sort_id":28
   },
   {
     "type":"Dragon",
@@ -657,7 +686,8 @@
     "Egg":1.0,
     "Milk":3.0,
     "expansion":"base",
-    "id":29
+    "id":29,
+    "sort_id":29
   },
   {
     "type":"Dragon",
@@ -679,7 +709,8 @@
     "Egg":1.0,
     "Milk":2.0,
     "expansion":"base",
-    "id":30
+    "id":30,
+    "sort_id":30
   },
   {
     "type":"Dragon",
@@ -701,7 +732,8 @@
     "Egg":1.0,
     "Milk":3.0,
     "expansion":"base",
-    "id":31
+    "id":31,
+    "sort_id":31
   },
   {
     "type":"Dragon",
@@ -723,7 +755,8 @@
     "Egg":1.0,
     "Milk":3.0,
     "expansion":"base",
-    "id":32
+    "id":32,
+    "sort_id":32
   },
   {
     "type":"Dragon",
@@ -745,7 +778,8 @@
     "Egg":1.0,
     "Milk":2.0,
     "expansion":"base",
-    "id":33
+    "id":33,
+    "sort_id":33
   },
   {
     "type":"Dragon",
@@ -767,7 +801,8 @@
     "Egg":1.0,
     "Milk":3.0,
     "expansion":"base",
-    "id":34
+    "id":34,
+    "sort_id":34
   },
   {
     "type":"Dragon",
@@ -789,7 +824,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":35
+    "id":35,
+    "sort_id":35
   },
   {
     "type":"Dragon",
@@ -811,7 +847,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":36
+    "id":36,
+    "sort_id":36
   },
   {
     "type":"Dragon",
@@ -833,7 +870,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":37
+    "id":37,
+    "sort_id":37
   },
   {
     "type":"Dragon",
@@ -855,7 +893,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":38
+    "id":38,
+    "sort_id":38
   },
   {
     "type":"Dragon",
@@ -877,7 +916,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":39
+    "id":39,
+    "sort_id":39
   },
   {
     "type":"Dragon",
@@ -899,7 +939,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":40
+    "id":40,
+    "sort_id":40
   },
   {
     "type":"Dragon",
@@ -921,7 +962,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":41
+    "id":41,
+    "sort_id":41
   },
   {
     "type":"Dragon",
@@ -943,7 +985,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":42
+    "id":42,
+    "sort_id":42
   },
   {
     "type":"Dragon",
@@ -965,7 +1008,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":43
+    "id":43,
+    "sort_id":43
   },
   {
     "type":"Dragon",
@@ -987,7 +1031,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":44
+    "id":44,
+    "sort_id":44
   },
   {
     "type":"Dragon",
@@ -1009,7 +1054,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":45
+    "id":45,
+    "sort_id":45
   },
   {
     "type":"Dragon",
@@ -1031,7 +1077,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":46
+    "id":46,
+    "sort_id":46
   },
   {
     "type":"Dragon",
@@ -1053,7 +1100,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":47
+    "id":47,
+    "sort_id":47
   },
   {
     "type":"Dragon",
@@ -1075,7 +1123,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":48
+    "id":48,
+    "sort_id":48
   },
   {
     "type":"Dragon",
@@ -1097,7 +1146,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":49
+    "id":49,
+    "sort_id":49
   },
   {
     "type":"Dragon",
@@ -1119,7 +1169,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":50
+    "id":50,
+    "sort_id":50
   },
   {
     "type":"Dragon",
@@ -1141,7 +1192,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":51
+    "id":51,
+    "sort_id":51
   },
   {
     "type":"Dragon",
@@ -1163,7 +1215,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":52
+    "id":52,
+    "sort_id":52
   },
   {
     "type":"Dragon",
@@ -1185,7 +1238,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":53
+    "id":53,
+    "sort_id":53
   },
   {
     "type":"Dragon",
@@ -1207,7 +1261,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":54
+    "id":54,
+    "sort_id":54
   },
   {
     "type":"Dragon",
@@ -1229,7 +1284,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":55
+    "id":55,
+    "sort_id":55
   },
   {
     "type":"Dragon",
@@ -1251,7 +1307,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":56
+    "id":56,
+    "sort_id":56
   },
   {
     "type":"Dragon",
@@ -1273,7 +1330,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":57
+    "id":57,
+    "sort_id":57
   },
   {
     "type":"Dragon",
@@ -1295,7 +1353,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":58
+    "id":58,
+    "sort_id":58
   },
   {
     "type":"Dragon",
@@ -1317,7 +1376,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":59
+    "id":59,
+    "sort_id":59
   },
   {
     "type":"Dragon",
@@ -1339,7 +1399,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":60
+    "id":60,
+    "sort_id":60
   },
   {
     "type":"Dragon",
@@ -1361,7 +1422,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":61
+    "id":61,
+    "sort_id":61
   },
   {
     "type":"Dragon",
@@ -1383,7 +1445,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":62
+    "id":62,
+    "sort_id":62
   },
   {
     "type":"Dragon",
@@ -1405,7 +1468,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":63
+    "id":63,
+    "sort_id":63
   },
   {
     "type":"Dragon",
@@ -1427,7 +1491,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":64
+    "id":64,
+    "sort_id":64
   },
   {
     "type":"Dragon",
@@ -1449,7 +1514,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":65
+    "id":65,
+    "sort_id":65
   },
   {
     "type":"Dragon",
@@ -1471,7 +1537,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":66
+    "id":66,
+    "sort_id":66
   },
   {
     "type":"Dragon",
@@ -1493,7 +1560,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":67
+    "id":67,
+    "sort_id":67
   },
   {
     "type":"Dragon",
@@ -1515,7 +1583,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":68
+    "id":68,
+    "sort_id":68
   },
   {
     "type":"Dragon",
@@ -1537,7 +1606,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":69
+    "id":69,
+    "sort_id":69
   },
   {
     "type":"Dragon",
@@ -1559,7 +1629,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":70
+    "id":70,
+    "sort_id":70
   },
   {
     "type":"Dragon",
@@ -1581,7 +1652,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":71
+    "id":71,
+    "sort_id":71
   },
   {
     "type":"Dragon",
@@ -1603,7 +1675,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":72
+    "id":72,
+    "sort_id":72
   },
   {
     "type":"Dragon",
@@ -1625,7 +1698,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":73
+    "id":73,
+    "sort_id":73
   },
   {
     "type":"Dragon",
@@ -1647,7 +1721,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":74
+    "id":74,
+    "sort_id":74
   },
   {
     "type":"Dragon",
@@ -1669,7 +1744,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":75
+    "id":75,
+    "sort_id":75
   },
   {
     "type":"Dragon",
@@ -1691,7 +1767,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":76
+    "id":76,
+    "sort_id":76
   },
   {
     "type":"Dragon",
@@ -1713,7 +1790,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":77
+    "id":77,
+    "sort_id":77
   },
   {
     "type":"Dragon",
@@ -1735,7 +1813,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":78
+    "id":78,
+    "sort_id":78
   },
   {
     "type":"Dragon",
@@ -1757,7 +1836,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":79
+    "id":79,
+    "sort_id":79
   },
   {
     "type":"Dragon",
@@ -1779,7 +1859,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":80
+    "id":80,
+    "sort_id":80
   },
   {
     "type":"Dragon",
@@ -1801,7 +1882,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":81
+    "id":81,
+    "sort_id":81
   },
   {
     "type":"Dragon",
@@ -1823,7 +1905,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":82
+    "id":82,
+    "sort_id":82
   },
   {
     "type":"Dragon",
@@ -1845,7 +1928,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":83
+    "id":83,
+    "sort_id":83
   },
   {
     "type":"Dragon",
@@ -1867,7 +1951,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":84
+    "id":84,
+    "sort_id":84
   },
   {
     "type":"Dragon",
@@ -1889,7 +1974,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":85
+    "id":85,
+    "sort_id":85
   },
   {
     "type":"Dragon",
@@ -1911,7 +1997,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":86
+    "id":86,
+    "sort_id":86
   },
   {
     "type":"Dragon",
@@ -1933,7 +2020,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":87
+    "id":87,
+    "sort_id":87
   },
   {
     "type":"Dragon",
@@ -1955,7 +2043,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":88
+    "id":88,
+    "sort_id":88
   },
   {
     "type":"Dragon",
@@ -1977,7 +2066,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":89
+    "id":89,
+    "sort_id":89
   },
   {
     "type":"Dragon",
@@ -1999,7 +2089,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":90
+    "id":90,
+    "sort_id":90
   },
   {
     "type":"Dragon",
@@ -2021,7 +2112,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":91
+    "id":91,
+    "sort_id":91
   },
   {
     "type":"Dragon",
@@ -2043,7 +2135,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":92
+    "id":92,
+    "sort_id":92
   },
   {
     "type":"Dragon",
@@ -2065,7 +2158,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":93
+    "id":93,
+    "sort_id":93
   },
   {
     "type":"Dragon",
@@ -2087,7 +2181,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":94
+    "id":94,
+    "sort_id":94
   },
   {
     "type":"Dragon",
@@ -2109,7 +2204,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":95
+    "id":95,
+    "sort_id":95
   },
   {
     "type":"Dragon",
@@ -2131,7 +2227,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":96
+    "id":96,
+    "sort_id":96
   },
   {
     "type":"Dragon",
@@ -2153,7 +2250,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":97
+    "id":97,
+    "sort_id":97
   },
   {
     "type":"Dragon",
@@ -2175,7 +2273,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":98
+    "id":98,
+    "sort_id":98
   },
   {
     "type":"Dragon",
@@ -2197,7 +2296,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":99
+    "id":99,
+    "sort_id":99
   },
   {
     "type":"Dragon",
@@ -2219,7 +2319,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":100
+    "id":100,
+    "sort_id":100
   },
   {
     "type":"Dragon",
@@ -2241,7 +2342,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":101
+    "id":101,
+    "sort_id":101
   },
   {
     "type":"Dragon",
@@ -2263,7 +2365,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":102
+    "id":102,
+    "sort_id":102
   },
   {
     "type":"Dragon",
@@ -2285,7 +2388,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":103
+    "id":103,
+    "sort_id":103
   },
   {
     "type":"Dragon",
@@ -2307,7 +2411,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":104
+    "id":104,
+    "sort_id":104
   },
   {
     "type":"Dragon",
@@ -2329,7 +2434,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":105
+    "id":105,
+    "sort_id":105
   },
   {
     "type":"Dragon",
@@ -2351,7 +2457,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":106
+    "id":106,
+    "sort_id":106
   },
   {
     "type":"Dragon",
@@ -2373,7 +2480,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":107
+    "id":107,
+    "sort_id":107
   },
   {
     "type":"Dragon",
@@ -2395,7 +2503,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":108
+    "id":108,
+    "sort_id":108
   },
   {
     "type":"Dragon",
@@ -2417,7 +2526,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":109
+    "id":109,
+    "sort_id":109
   },
   {
     "type":"Dragon",
@@ -2439,7 +2549,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":110
+    "id":110,
+    "sort_id":110
   },
   {
     "type":"Dragon",
@@ -2461,7 +2572,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":111
+    "id":111,
+    "sort_id":111
   },
   {
     "type":"Dragon",
@@ -2483,7 +2595,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":112
+    "id":112,
+    "sort_id":112
   },
   {
     "type":"Dragon",
@@ -2505,7 +2618,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":113
+    "id":113,
+    "sort_id":113
   },
   {
     "type":"Dragon",
@@ -2527,7 +2641,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":114
+    "id":114,
+    "sort_id":114
   },
   {
     "type":"Dragon",
@@ -2549,7 +2664,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":115
+    "id":115,
+    "sort_id":115
   },
   {
     "type":"Dragon",
@@ -2571,7 +2687,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":116
+    "id":116,
+    "sort_id":116
   },
   {
     "type":"Dragon",
@@ -2593,7 +2710,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":117
+    "id":117,
+    "sort_id":117
   },
   {
     "type":"Dragon",
@@ -2615,7 +2733,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":118
+    "id":118,
+    "sort_id":118
   },
   {
     "type":"Dragon",
@@ -2637,7 +2756,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":119
+    "id":119,
+    "sort_id":119
   },
   {
     "type":"Dragon",
@@ -2659,7 +2779,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":120
+    "id":120,
+    "sort_id":120
   },
   {
     "type":"Dragon",
@@ -2681,7 +2802,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":121
+    "id":121,
+    "sort_id":121
   },
   {
     "type":"Dragon",
@@ -2703,7 +2825,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":122
+    "id":122,
+    "sort_id":122
   },
   {
     "type":"Dragon",
@@ -2725,7 +2848,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":123
+    "id":123,
+    "sort_id":123
   },
   {
     "type":"Dragon",
@@ -2747,7 +2871,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":124
+    "id":124,
+    "sort_id":124
   },
   {
     "type":"Dragon",
@@ -2769,7 +2894,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":125
+    "id":125,
+    "sort_id":125
   },
   {
     "type":"Dragon",
@@ -2791,7 +2917,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":126
+    "id":126,
+    "sort_id":126
   },
   {
     "type":"Dragon",
@@ -2813,7 +2940,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":127
+    "id":127,
+    "sort_id":127
   },
   {
     "type":"Dragon",
@@ -2835,7 +2963,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":128
+    "id":128,
+    "sort_id":128
   },
   {
     "type":"Dragon",
@@ -2857,7 +2986,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":129
+    "id":129,
+    "sort_id":129
   },
   {
     "type":"Dragon",
@@ -2879,7 +3009,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":130
+    "id":130,
+    "sort_id":130
   },
   {
     "type":"Dragon",
@@ -2901,7 +3032,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":131
+    "id":131,
+    "sort_id":131
   },
   {
     "type":"Dragon",
@@ -2923,7 +3055,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":132
+    "id":132,
+    "sort_id":132
   },
   {
     "type":"Dragon",
@@ -2945,7 +3078,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":133
+    "id":133,
+    "sort_id":133
   },
   {
     "type":"Dragon",
@@ -2967,7 +3101,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":134
+    "id":134,
+    "sort_id":134
   },
   {
     "type":"Dragon",
@@ -2989,7 +3124,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":135
+    "id":135,
+    "sort_id":135
   },
   {
     "type":"Dragon",
@@ -3011,7 +3147,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":136
+    "id":136,
+    "sort_id":136
   },
   {
     "type":"Dragon",
@@ -3033,7 +3170,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":137
+    "id":137,
+    "sort_id":137
   },
   {
     "type":"Dragon",
@@ -3055,7 +3193,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":138
+    "id":138,
+    "sort_id":138
   },
   {
     "type":"Dragon",
@@ -3077,7 +3216,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":139
+    "id":139,
+    "sort_id":139
   },
   {
     "type":"Dragon",
@@ -3099,7 +3239,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":140
+    "id":140,
+    "sort_id":140
   },
   {
     "type":"Dragon",
@@ -3121,7 +3262,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":141
+    "id":141,
+    "sort_id":141
   },
   {
     "type":"Dragon",
@@ -3143,7 +3285,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":142
+    "id":142,
+    "sort_id":142
   },
   {
     "type":"Dragon",
@@ -3165,7 +3308,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":143
+    "id":143,
+    "sort_id":143
   },
   {
     "type":"Dragon",
@@ -3187,7 +3331,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":144
+    "id":144,
+    "sort_id":144
   },
   {
     "type":"Dragon",
@@ -3209,7 +3354,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":145
+    "id":145,
+    "sort_id":145
   },
   {
     "type":"Dragon",
@@ -3231,7 +3377,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":146
+    "id":146,
+    "sort_id":146
   },
   {
     "type":"Dragon",
@@ -3253,7 +3400,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":147
+    "id":147,
+    "sort_id":147
   },
   {
     "type":"Dragon",
@@ -3275,7 +3423,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":148
+    "id":148,
+    "sort_id":148
   },
   {
     "type":"Dragon",
@@ -3297,7 +3446,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":149
+    "id":149,
+    "sort_id":149
   },
   {
     "type":"Dragon",
@@ -3319,7 +3469,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":150
+    "id":150,
+    "sort_id":150
   },
   {
     "type":"Dragon",
@@ -3341,7 +3492,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":151
+    "id":151,
+    "sort_id":151
   },
   {
     "type":"Dragon",
@@ -3363,7 +3515,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":152
+    "id":152,
+    "sort_id":152
   },
   {
     "type":"Dragon",
@@ -3385,7 +3538,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":153
+    "id":153,
+    "sort_id":153
   },
   {
     "type":"Dragon",
@@ -3407,7 +3561,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":154
+    "id":154,
+    "sort_id":154
   },
   {
     "type":"Dragon",
@@ -3429,7 +3584,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":155
+    "id":155,
+    "sort_id":155
   },
   {
     "type":"Dragon",
@@ -3451,7 +3607,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":156
+    "id":156,
+    "sort_id":156
   },
   {
     "type":"Dragon",
@@ -3473,7 +3630,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":157
+    "id":157,
+    "sort_id":157
   },
   {
     "type":"Dragon",
@@ -3495,7 +3653,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":158
+    "id":158,
+    "sort_id":158
   },
   {
     "type":"Dragon",
@@ -3517,7 +3676,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":159
+    "id":159,
+    "sort_id":159
   },
   {
     "type":"Dragon",
@@ -3539,7 +3699,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":160
+    "id":160,
+    "sort_id":160
   },
   {
     "type":"Dragon",
@@ -3561,7 +3722,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":161
+    "id":161,
+    "sort_id":161
   },
   {
     "type":"Dragon",
@@ -3583,7 +3745,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":162
+    "id":162,
+    "sort_id":162
   },
   {
     "type":"Dragon",
@@ -3605,7 +3768,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":163
+    "id":163,
+    "sort_id":163
   },
   {
     "type":"Dragon",
@@ -3627,7 +3791,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":164
+    "id":164,
+    "sort_id":164
   },
   {
     "type":"Dragon",
@@ -3649,7 +3814,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":165
+    "id":165,
+    "sort_id":165
   },
   {
     "type":"Dragon",
@@ -3671,7 +3837,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":166
+    "id":166,
+    "sort_id":166
   },
   {
     "type":"Dragon",
@@ -3693,7 +3860,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":167
+    "id":167,
+    "sort_id":167
   },
   {
     "type":"Dragon",
@@ -3715,7 +3883,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":168
+    "id":168,
+    "sort_id":168
   },
   {
     "type":"Dragon",
@@ -3737,7 +3906,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":169
+    "id":169,
+    "sort_id":169
   },
   {
     "type":"Dragon",
@@ -3759,7 +3929,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":170
+    "id":170,
+    "sort_id":170
   },
   {
     "type":"Dragon",
@@ -3781,7 +3952,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":171
+    "id":171,
+    "sort_id":171
   },
   {
     "type":"Dragon",
@@ -3803,7 +3975,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":172
+    "id":172,
+    "sort_id":172
   },
   {
     "type":"Dragon",
@@ -3825,7 +3998,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":173
+    "id":173,
+    "sort_id":173
   },
   {
     "type":"Dragon",
@@ -3847,7 +4021,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":174
+    "id":174,
+    "sort_id":174
   },
   {
     "type":"Dragon",
@@ -3869,7 +4044,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":175
+    "id":175,
+    "sort_id":175
   },
   {
     "type":"Dragon",
@@ -3891,7 +4067,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":176
+    "id":176,
+    "sort_id":176
   },
   {
     "type":"Dragon",
@@ -3913,7 +4090,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":177
+    "id":177,
+    "sort_id":177
   },
   {
     "type":"Dragon",
@@ -3935,7 +4113,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":178
+    "id":178,
+    "sort_id":178
   },
   {
     "type":"Dragon",
@@ -3957,7 +4136,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":179
+    "id":179,
+    "sort_id":179
   },
   {
     "type":"Dragon",
@@ -3979,7 +4159,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":180
+    "id":180,
+    "sort_id":180
   },
   {
     "type":"Dragon",
@@ -4001,7 +4182,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":181
+    "id":181,
+    "sort_id":181
   },
   {
     "type":"Dragon",
@@ -4023,1657 +4205,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"base",
-    "id":182
-  },
-  {
-    "type":"Cave",
-    "number":1,
-    "name":null,
-    "ability":"Activate the [OncePerRound-v2] ability on any dragon on your player mat.",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":183
-  },
-  {
-    "type":"Cave",
-    "number":2,
-    "name":null,
-    "ability":"Activate the [WhenPlayed] ability on any dragon on your player mat.",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":184
-  },
-  {
-    "type":"Cave",
-    "number":3,
-    "name":null,
-    "ability":"Cache [AnyResource][AnyResource] from the general supply onto any dragon(s).",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":185
-  },
-  {
-    "type":"Cave",
-    "number":4,
-    "name":null,
-    "ability":"Cache [AnyResource][AnyResource] from the general supply onto any dragon(s).",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":186
-  },
-  {
-    "type":"Cave",
-    "number":5,
-    "name":null,
-    "ability":"Gain [AnyResource]. Lay [Egg].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":187
-  },
-  {
-    "type":"Cave",
-    "number":6,
-    "name":null,
-    "ability":"Gain [AnyResource]. Lay [Egg].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":188
-  },
-  {
-    "type":"Cave",
-    "number":7,
-    "name":null,
-    "ability":"Gain [CaveCard][AnyResource].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":189
-  },
-  {
-    "type":"Cave",
-    "number":8,
-    "name":null,
-    "ability":"Gain [CaveCard][DragonGuild].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":190
-  },
-  {
-    "type":"Cave",
-    "number":9,
-    "name":null,
-    "ability":"Gain [CaveCard][AnyResource].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":191
-  },
-  {
-    "type":"Cave",
-    "number":10,
-    "name":null,
-    "ability":"Gain [CaveCard]. Lay [Egg][Egg].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":192
-  },
-  {
-    "type":"Cave",
-    "number":11,
-    "name":null,
-    "ability":"Gain [CaveCard]. Lay [Egg][Egg].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":193
-  },
-  {
-    "type":"Cave",
-    "number":12,
-    "name":null,
-    "ability":"Gain [Coin].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":194
-  },
-  {
-    "type":"Cave",
-    "number":13,
-    "name":null,
-    "ability":"Gain [Coin].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":195
-  },
-  {
-    "type":"Cave",
-    "number":14,
-    "name":null,
-    "ability":"Gain [Coin].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":196
-  },
-  {
-    "type":"Cave",
-    "number":15,
-    "name":null,
-    "ability":"Gain [Crystal][DragonCard].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":197
-  },
-  {
-    "type":"Cave",
-    "number":16,
-    "name":null,
-    "ability":"Gain [Crystal][Crystal].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":198
-  },
-  {
-    "type":"Cave",
-    "number":17,
-    "name":null,
-    "ability":"Gain [Crystal][Milk].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":199
-  },
-  {
-    "type":"Cave",
-    "number":18,
-    "name":null,
-    "ability":"Gain [Crystal]. Lay [Egg].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":200
-  },
-  {
-    "type":"Cave",
-    "number":19,
-    "name":null,
-    "ability":"Gain [Crystal]. Lay [Egg].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":201
-  },
-  {
-    "type":"Cave",
-    "number":20,
-    "name":null,
-    "ability":"Gain [DragonCard][DragonCard].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":202
-  },
-  {
-    "type":"Cave",
-    "number":21,
-    "name":null,
-    "ability":"Gain [DragonCard][DragonCard].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":203
-  },
-  {
-    "type":"Cave",
-    "number":22,
-    "name":null,
-    "ability":"Gain [DragonCard][DragonGuild].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":204
-  },
-  {
-    "type":"Cave",
-    "number":23,
-    "name":null,
-    "ability":"Gain [DragonCard][DragonGuild].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":205
-  },
-  {
-    "type":"Cave",
-    "number":24,
-    "name":null,
-    "ability":"Gain [DragonCard][DragonGuild].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":206
-  },
-  {
-    "type":"Cave",
-    "number":25,
-    "name":null,
-    "ability":"Gain [DragonCard]. Lay [Egg].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":207
-  },
-  {
-    "type":"Cave",
-    "number":26,
-    "name":null,
-    "ability":"Gain [DragonCard]. Lay [Egg].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":208
-  },
-  {
-    "type":"Cave",
-    "number":27,
-    "name":null,
-    "ability":"Gain [DragonGuild][DragonGuild]. Each opponent gains [DragonGuild].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":209
-  },
-  {
-    "type":"Cave",
-    "number":28,
-    "name":null,
-    "ability":"Gain [DragonGuild][DragonGuild]. Each opponent gains [DragonGuild].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":210
-  },
-  {
-    "type":"Cave",
-    "number":29,
-    "name":null,
-    "ability":"Gain [DragonGuild]. Lay [Egg].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":211
-  },
-  {
-    "type":"Cave",
-    "number":30,
-    "name":null,
-    "ability":"Gain [DragonGuild]. Lay [Egg].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":212
-  },
-  {
-    "type":"Cave",
-    "number":31,
-    "name":null,
-    "ability":"Gain [DragonGuild]. Lay [Egg].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":213
-  },
-  {
-    "type":"Cave",
-    "number":32,
-    "name":null,
-    "ability":"Gain [Gold][DragonCard].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":214
-  },
-  {
-    "type":"Cave",
-    "number":33,
-    "name":null,
-    "ability":"Gain [Gold][Crystal].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":215
-  },
-  {
-    "type":"Cave",
-    "number":34,
-    "name":null,
-    "ability":"Gain [Gold][Gold].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":216
-  },
-  {
-    "type":"Cave",
-    "number":35,
-    "name":null,
-    "ability":"Gain [Gold][Milk].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":217
-  },
-  {
-    "type":"Cave",
-    "number":36,
-    "name":null,
-    "ability":"Gain [Gold]. Lay [Egg].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":218
-  },
-  {
-    "type":"Cave",
-    "number":37,
-    "name":null,
-    "ability":"Gain [Gold]. Lay [Egg].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":219
-  },
-  {
-    "type":"Cave",
-    "number":38,
-    "name":null,
-    "ability":"Gain [Meat][DragonCard].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":220
-  },
-  {
-    "type":"Cave",
-    "number":39,
-    "name":null,
-    "ability":"Gain [Meat][DragonCard].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":221
-  },
-  {
-    "type":"Cave",
-    "number":40,
-    "name":null,
-    "ability":"Gain [Meat][Crystal].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":222
-  },
-  {
-    "type":"Cave",
-    "number":41,
-    "name":null,
-    "ability":"Gain [Meat][Crystal].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":223
-  },
-  {
-    "type":"Cave",
-    "number":42,
-    "name":null,
-    "ability":"Gain [Meat][Gold].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":224
-  },
-  {
-    "type":"Cave",
-    "number":43,
-    "name":null,
-    "ability":"Gain [Meat][Gold].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":225
-  },
-  {
-    "type":"Cave",
-    "number":44,
-    "name":null,
-    "ability":"Gain [Meat][Meat].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":226
-  },
-  {
-    "type":"Cave",
-    "number":45,
-    "name":null,
-    "ability":"Gain [Meat][Meat].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":227
-  },
-  {
-    "type":"Cave",
-    "number":46,
-    "name":null,
-    "ability":"Gain [Meat][Milk].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":228
-  },
-  {
-    "type":"Cave",
-    "number":47,
-    "name":null,
-    "ability":"Gain [Meat]. Lay [Egg].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":229
-  },
-  {
-    "type":"Cave",
-    "number":48,
-    "name":null,
-    "ability":"Gain [Meat]. Lay [Egg].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":230
-  },
-  {
-    "type":"Cave",
-    "number":49,
-    "name":null,
-    "ability":"Gain [Milk][Milk].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":231
-  },
-  {
-    "type":"Cave",
-    "number":50,
-    "name":null,
-    "ability":"Gain 2 different benefits: [DragonCard]\/[CaveCard]\/[AnyResource]. Each opponent gains 1 benefit of their choice.",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":232
-  },
-  {
-    "type":"Cave",
-    "number":51,
-    "name":null,
-    "ability":"Gain 2 different benefits: [DragonCard]\/[CaveCard]\/[AnyResource]. Each opponent gains 1 benefit of their choice.",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":233
-  },
-  {
-    "type":"Cave",
-    "number":52,
-    "name":null,
-    "ability":"Immediately play [DragonCard] with a discount of 1 [Egg] or [AnyResource].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":234
-  },
-  {
-    "type":"Cave",
-    "number":53,
-    "name":null,
-    "ability":"Immediately play [DragonCard] with a discount of 1 [Egg] or [AnyResource].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":235
-  },
-  {
-    "type":"Cave",
-    "number":54,
-    "name":null,
-    "ability":"Immediately play [DragonCard] with a discount of 1 [Egg] or [AnyResource].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":236
-  },
-  {
-    "type":"Cave",
-    "number":55,
-    "name":null,
-    "ability":"Lay [Egg][Egg][Egg].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":237
-  },
-  {
-    "type":"Cave",
-    "number":56,
-    "name":null,
-    "ability":"Lay [Egg][Egg][Egg].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":238
-  },
-  {
-    "type":"Cave",
-    "number":57,
-    "name":null,
-    "ability":"Lay [Egg][Egg][Egg].",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":239
-  },
-  {
-    "type":"Cave",
-    "number":58,
-    "name":null,
-    "ability":"Pay [AnyResource][AnyResource], then draw [CaveCard] from the deck and immediately play it for free.",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":240
-  },
-  {
-    "type":"Cave",
-    "number":59,
-    "name":null,
-    "ability":"Pay [AnyResource][AnyResource], then gain [CaveCard] from the display and immediately play it for free.",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":241
-  },
-  {
-    "type":"Cave",
-    "number":60,
-    "name":null,
-    "ability":"Pay [CaveCard][CaveCard], then draw [CaveCard] from the deck and immediately play it for free.",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":242
-  },
-  {
-    "type":"Cave",
-    "number":61,
-    "name":null,
-    "ability":"Pay [CaveCard][CaveCard], then gain [CaveCard] from the display and immediately play it for free.",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":243
-  },
-  {
-    "type":"Cave",
-    "number":62,
-    "name":null,
-    "ability":"Pay [DragonCard][DragonCard], then draw [CaveCard] from the deck and immediately play it for free.",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":244
-  },
-  {
-    "type":"Cave",
-    "number":63,
-    "name":null,
-    "ability":"Pay [DragonCard][DragonCard], then gain [CaveCard] from the display and immediately play it for free.",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":245
-  },
-  {
-    "type":"Cave",
-    "number":64,
-    "name":null,
-    "ability":"Pay [Egg][Egg], then draw [CaveCard] from the deck and immediately play it for free.",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":246
-  },
-  {
-    "type":"Cave",
-    "number":65,
-    "name":null,
-    "ability":"Pay [Egg][Egg], then gain [CaveCard] from the display and immediately play it for free.",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":247
-  },
-  {
-    "type":"Cave",
-    "number":66,
-    "name":null,
-    "ability":"Swap the location of any 2 dragons on your player mat. Ignore normal cave preferences.",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":248
-  },
-  {
-    "type":"Cave",
-    "number":67,
-    "name":null,
-    "ability":"Tuck [DragonCard][DragonCard] from the deck behind any dragon(s).",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":249
-  },
-  {
-    "type":"Cave",
-    "number":68,
-    "name":null,
-    "ability":"Tuck [DragonCard][DragonCard] from the deck behind any dragon(s).",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":250
-  },
-  {
-    "type":"Cave",
-    "number":69,
-    "name":null,
-    "ability":"Up to 3x, pay [AnyResource] to gain [DragonGuild]. Each opponent may do this 1x.",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":251
-  },
-  {
-    "type":"Cave",
-    "number":70,
-    "name":null,
-    "ability":"Up to 3x, pay [AnyResource] to lay [Egg][Egg]. Each opponent may do this 1x.",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":252
-  },
-  {
-    "type":"Cave",
-    "number":71,
-    "name":null,
-    "ability":"Up to 3x, pay [CaveCard] to gain [DragonGuild]. Each opponent may do this 1x.",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":253
-  },
-  {
-    "type":"Cave",
-    "number":72,
-    "name":null,
-    "ability":"Up to 3x, pay [DragonCard] to gain [DragonGuild]. Each opponent may do this 1x.",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":254
-  },
-  {
-    "type":"Cave",
-    "number":73,
-    "name":null,
-    "ability":"Up to 3x, pay [DragonCard] to lay [Egg][Egg]. Each opponent may do this 1x.",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":255
-  },
-  {
-    "type":"Cave",
-    "number":74,
-    "name":null,
-    "ability":"Up to 3x, pay [Egg] to gain [AnyResource][AnyResource]. Each opponent may do this 1x.",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":256
-  },
-  {
-    "type":"Cave",
-    "number":75,
-    "name":null,
-    "ability":"Up to 3x, pay [Egg] to gain [DragonGuild]. Each opponent may do this 1x.",
-    "abilityType":"WhenPlayed",
-    "VP":null,
-    "size":null,
-    "capacity":null,
-    "personality":null,
-    "Meat":null,
-    "Gold":null,
-    "Crystal":null,
-    "Coin":null,
-    "Crimson Cavern":null,
-    "Golden Grotto":null,
-    "Amethyst Abyss":null,
-    "Egg":null,
-    "Milk":null,
-    "expansion":"base",
-    "id":257
+    "id":182,
+    "sort_id":182
   },
   {
     "type":"Dragon",
@@ -5695,7 +4228,8 @@
     "Egg":null,
     "Milk":1.0,
     "expansion":"academy",
-    "id":258
+    "id":258,
+    "sort_id":183
   },
   {
     "type":"Dragon",
@@ -5717,7 +4251,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":259
+    "id":259,
+    "sort_id":184
   },
   {
     "type":"Dragon",
@@ -5739,7 +4274,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":260
+    "id":260,
+    "sort_id":185
   },
   {
     "type":"Dragon",
@@ -5761,7 +4297,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":261
+    "id":261,
+    "sort_id":186
   },
   {
     "type":"Dragon",
@@ -5783,7 +4320,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":262
+    "id":262,
+    "sort_id":187
   },
   {
     "type":"Dragon",
@@ -5805,7 +4343,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":263
+    "id":263,
+    "sort_id":188
   },
   {
     "type":"Dragon",
@@ -5827,7 +4366,8 @@
     "Egg":1.0,
     "Milk":1.0,
     "expansion":"academy",
-    "id":264
+    "id":264,
+    "sort_id":189
   },
   {
     "type":"Dragon",
@@ -5849,7 +4389,8 @@
     "Egg":null,
     "Milk":1.0,
     "expansion":"academy",
-    "id":265
+    "id":265,
+    "sort_id":190
   },
   {
     "type":"Dragon",
@@ -5871,7 +4412,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":266
+    "id":266,
+    "sort_id":191
   },
   {
     "type":"Dragon",
@@ -5893,7 +4435,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":267
+    "id":267,
+    "sort_id":192
   },
   {
     "type":"Dragon",
@@ -5915,7 +4458,8 @@
     "Egg":null,
     "Milk":1.0,
     "expansion":"academy",
-    "id":268
+    "id":268,
+    "sort_id":193
   },
   {
     "type":"Dragon",
@@ -5937,7 +4481,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":269
+    "id":269,
+    "sort_id":194
   },
   {
     "type":"Dragon",
@@ -5959,7 +4504,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":270
+    "id":270,
+    "sort_id":195
   },
   {
     "type":"Dragon",
@@ -5981,7 +4527,8 @@
     "Egg":1.0,
     "Milk":1.0,
     "expansion":"academy",
-    "id":271
+    "id":271,
+    "sort_id":196
   },
   {
     "type":"Dragon",
@@ -6003,7 +4550,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":272
+    "id":272,
+    "sort_id":197
   },
   {
     "type":"Dragon",
@@ -6025,7 +4573,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":273
+    "id":273,
+    "sort_id":198
   },
   {
     "type":"Dragon",
@@ -6047,7 +4596,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":274
+    "id":274,
+    "sort_id":199
   },
   {
     "type":"Dragon",
@@ -6069,7 +4619,8 @@
     "Egg":1.0,
     "Milk":1.0,
     "expansion":"academy",
-    "id":275
+    "id":275,
+    "sort_id":200
   },
   {
     "type":"Dragon",
@@ -6091,7 +4642,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":276
+    "id":276,
+    "sort_id":201
   },
   {
     "type":"Dragon",
@@ -6113,7 +4665,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":277
+    "id":277,
+    "sort_id":202
   },
   {
     "type":"Dragon",
@@ -6135,7 +4688,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":278
+    "id":278,
+    "sort_id":203
   },
   {
     "type":"Dragon",
@@ -6157,7 +4711,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":279
+    "id":279,
+    "sort_id":204
   },
   {
     "type":"Dragon",
@@ -6179,7 +4734,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":280
+    "id":280,
+    "sort_id":205
   },
   {
     "type":"Dragon",
@@ -6201,7 +4757,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":281
+    "id":281,
+    "sort_id":206
   },
   {
     "type":"Dragon",
@@ -6223,7 +4780,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":282
+    "id":282,
+    "sort_id":207
   },
   {
     "type":"Dragon",
@@ -6245,7 +4803,8 @@
     "Egg":1.0,
     "Milk":2.0,
     "expansion":"academy",
-    "id":283
+    "id":283,
+    "sort_id":208
   },
   {
     "type":"Dragon",
@@ -6267,7 +4826,8 @@
     "Egg":1.0,
     "Milk":1.0,
     "expansion":"academy",
-    "id":284
+    "id":284,
+    "sort_id":209
   },
   {
     "type":"Dragon",
@@ -6289,7 +4849,8 @@
     "Egg":1.0,
     "Milk":1.0,
     "expansion":"academy",
-    "id":285
+    "id":285,
+    "sort_id":210
   },
   {
     "type":"Dragon",
@@ -6311,7 +4872,8 @@
     "Egg":1.0,
     "Milk":1.0,
     "expansion":"academy",
-    "id":286
+    "id":286,
+    "sort_id":211
   },
   {
     "type":"Dragon",
@@ -6333,7 +4895,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":287
+    "id":287,
+    "sort_id":212
   },
   {
     "type":"Dragon",
@@ -6355,7 +4918,8 @@
     "Egg":null,
     "Milk":2.0,
     "expansion":"academy",
-    "id":288
+    "id":288,
+    "sort_id":213
   },
   {
     "type":"Dragon",
@@ -6377,7 +4941,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":289
+    "id":289,
+    "sort_id":214
   },
   {
     "type":"Dragon",
@@ -6399,7 +4964,8 @@
     "Egg":null,
     "Milk":2.0,
     "expansion":"academy",
-    "id":290
+    "id":290,
+    "sort_id":215
   },
   {
     "type":"Dragon",
@@ -6421,7 +4987,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":291
+    "id":291,
+    "sort_id":216
   },
   {
     "type":"Dragon",
@@ -6443,7 +5010,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":292
+    "id":292,
+    "sort_id":217
   },
   {
     "type":"Dragon",
@@ -6465,7 +5033,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":293
+    "id":293,
+    "sort_id":218
   },
   {
     "type":"Dragon",
@@ -6487,7 +5056,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":294
+    "id":294,
+    "sort_id":219
   },
   {
     "type":"Dragon",
@@ -6509,7 +5079,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":295
+    "id":295,
+    "sort_id":220
   },
   {
     "type":"Dragon",
@@ -6531,7 +5102,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":296
+    "id":296,
+    "sort_id":221
   },
   {
     "type":"Dragon",
@@ -6553,7 +5125,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":297
+    "id":297,
+    "sort_id":222
   },
   {
     "type":"Dragon",
@@ -6575,7 +5148,8 @@
     "Egg":1.0,
     "Milk":3.0,
     "expansion":"academy",
-    "id":298
+    "id":298,
+    "sort_id":223
   },
   {
     "type":"Dragon",
@@ -6597,7 +5171,8 @@
     "Egg":1.0,
     "Milk":2.0,
     "expansion":"academy",
-    "id":299
+    "id":299,
+    "sort_id":224
   },
   {
     "type":"Dragon",
@@ -6619,7 +5194,8 @@
     "Egg":1.0,
     "Milk":1.0,
     "expansion":"academy",
-    "id":300
+    "id":300,
+    "sort_id":225
   },
   {
     "type":"Dragon",
@@ -6641,7 +5217,8 @@
     "Egg":1.0,
     "Milk":2.0,
     "expansion":"academy",
-    "id":301
+    "id":301,
+    "sort_id":226
   },
   {
     "type":"Dragon",
@@ -6663,7 +5240,8 @@
     "Egg":1.0,
     "Milk":3.0,
     "expansion":"academy",
-    "id":302
+    "id":302,
+    "sort_id":227
   },
   {
     "type":"Dragon",
@@ -6685,7 +5263,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":303
+    "id":303,
+    "sort_id":228
   },
   {
     "type":"Dragon",
@@ -6707,7 +5286,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":304
+    "id":304,
+    "sort_id":229
   },
   {
     "type":"Dragon",
@@ -6729,7 +5309,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":305
+    "id":305,
+    "sort_id":230
   },
   {
     "type":"Dragon",
@@ -6751,7 +5332,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":306
+    "id":306,
+    "sort_id":231
   },
   {
     "type":"Dragon",
@@ -6773,7 +5355,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":307
+    "id":307,
+    "sort_id":232
   },
   {
     "type":"Dragon",
@@ -6795,7 +5378,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":308
+    "id":308,
+    "sort_id":233
   },
   {
     "type":"Dragon",
@@ -6817,7 +5401,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":309
+    "id":309,
+    "sort_id":234
   },
   {
     "type":"Dragon",
@@ -6839,7 +5424,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":310
+    "id":310,
+    "sort_id":235
   },
   {
     "type":"Dragon",
@@ -6861,7 +5447,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":311
+    "id":311,
+    "sort_id":236
   },
   {
     "type":"Dragon",
@@ -6883,7 +5470,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":312
+    "id":312,
+    "sort_id":237
   },
   {
     "type":"Dragon",
@@ -6905,7 +5493,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":313
+    "id":313,
+    "sort_id":238
   },
   {
     "type":"Dragon",
@@ -6927,7 +5516,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":314
+    "id":314,
+    "sort_id":239
   },
   {
     "type":"Dragon",
@@ -6949,7 +5539,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":315
+    "id":315,
+    "sort_id":240
   },
   {
     "type":"Dragon",
@@ -6971,7 +5562,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":316
+    "id":316,
+    "sort_id":241
   },
   {
     "type":"Dragon",
@@ -6993,7 +5585,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":317
+    "id":317,
+    "sort_id":242
   },
   {
     "type":"Dragon",
@@ -7015,7 +5608,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":318
+    "id":318,
+    "sort_id":243
   },
   {
     "type":"Dragon",
@@ -7037,7 +5631,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":319
+    "id":319,
+    "sort_id":244
   },
   {
     "type":"Dragon",
@@ -7059,7 +5654,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":320
+    "id":320,
+    "sort_id":245
   },
   {
     "type":"Dragon",
@@ -7081,7 +5677,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":321
+    "id":321,
+    "sort_id":246
   },
   {
     "type":"Dragon",
@@ -7103,7 +5700,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":322
+    "id":322,
+    "sort_id":247
   },
   {
     "type":"Dragon",
@@ -7125,7 +5723,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":323
+    "id":323,
+    "sort_id":248
   },
   {
     "type":"Dragon",
@@ -7147,7 +5746,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":324
+    "id":324,
+    "sort_id":249
   },
   {
     "type":"Dragon",
@@ -7169,7 +5769,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":325
+    "id":325,
+    "sort_id":250
   },
   {
     "type":"Dragon",
@@ -7191,7 +5792,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":326
+    "id":326,
+    "sort_id":251
   },
   {
     "type":"Dragon",
@@ -7213,7 +5815,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":327
+    "id":327,
+    "sort_id":252
   },
   {
     "type":"Dragon",
@@ -7235,7 +5838,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":328
+    "id":328,
+    "sort_id":253
   },
   {
     "type":"Dragon",
@@ -7257,7 +5861,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":329
+    "id":329,
+    "sort_id":254
   },
   {
     "type":"Dragon",
@@ -7279,7 +5884,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":330
+    "id":330,
+    "sort_id":255
   },
   {
     "type":"Dragon",
@@ -7301,7 +5907,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":331
+    "id":331,
+    "sort_id":256
   },
   {
     "type":"Dragon",
@@ -7323,7 +5930,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":332
+    "id":332,
+    "sort_id":257
   },
   {
     "type":"Dragon",
@@ -7345,7 +5953,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":333
+    "id":333,
+    "sort_id":258
   },
   {
     "type":"Dragon",
@@ -7367,7 +5976,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":334
+    "id":334,
+    "sort_id":259
   },
   {
     "type":"Dragon",
@@ -7389,7 +5999,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":335
+    "id":335,
+    "sort_id":260
   },
   {
     "type":"Dragon",
@@ -7411,7 +6022,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":336
+    "id":336,
+    "sort_id":261
   },
   {
     "type":"Dragon",
@@ -7433,7 +6045,1733 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":337
+    "id":337,
+    "sort_id":262
+  },
+  {
+    "type":"Cave",
+    "number":1,
+    "name":null,
+    "ability":"Activate the [OncePerRound-v2] ability on any dragon on your player mat.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":183,
+    "sort_id":263
+  },
+  {
+    "type":"Cave",
+    "number":2,
+    "name":null,
+    "ability":"Activate the [WhenPlayed] ability on any dragon on your player mat.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":184,
+    "sort_id":264
+  },
+  {
+    "type":"Cave",
+    "number":3,
+    "name":null,
+    "ability":"Cache [AnyResource][AnyResource] from the general supply onto any dragon(s).",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":185,
+    "sort_id":265
+  },
+  {
+    "type":"Cave",
+    "number":4,
+    "name":null,
+    "ability":"Cache [AnyResource][AnyResource] from the general supply onto any dragon(s).",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":186,
+    "sort_id":266
+  },
+  {
+    "type":"Cave",
+    "number":5,
+    "name":null,
+    "ability":"Gain [AnyResource]. Lay [Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":187,
+    "sort_id":267
+  },
+  {
+    "type":"Cave",
+    "number":6,
+    "name":null,
+    "ability":"Gain [AnyResource]. Lay [Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":188,
+    "sort_id":268
+  },
+  {
+    "type":"Cave",
+    "number":7,
+    "name":null,
+    "ability":"Gain [CaveCard][AnyResource].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":189,
+    "sort_id":269
+  },
+  {
+    "type":"Cave",
+    "number":8,
+    "name":null,
+    "ability":"Gain [CaveCard][DragonGuild].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":190,
+    "sort_id":270
+  },
+  {
+    "type":"Cave",
+    "number":9,
+    "name":null,
+    "ability":"Gain [CaveCard][AnyResource].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":191,
+    "sort_id":271
+  },
+  {
+    "type":"Cave",
+    "number":10,
+    "name":null,
+    "ability":"Gain [CaveCard]. Lay [Egg][Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":192,
+    "sort_id":272
+  },
+  {
+    "type":"Cave",
+    "number":11,
+    "name":null,
+    "ability":"Gain [CaveCard]. Lay [Egg][Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":193,
+    "sort_id":273
+  },
+  {
+    "type":"Cave",
+    "number":12,
+    "name":null,
+    "ability":"Gain [Coin].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":194,
+    "sort_id":274
+  },
+  {
+    "type":"Cave",
+    "number":13,
+    "name":null,
+    "ability":"Gain [Coin].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":195,
+    "sort_id":275
+  },
+  {
+    "type":"Cave",
+    "number":14,
+    "name":null,
+    "ability":"Gain [Coin].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":196,
+    "sort_id":276
+  },
+  {
+    "type":"Cave",
+    "number":15,
+    "name":null,
+    "ability":"Gain [Crystal][DragonCard].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":197,
+    "sort_id":277
+  },
+  {
+    "type":"Cave",
+    "number":16,
+    "name":null,
+    "ability":"Gain [Crystal][Crystal].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":198,
+    "sort_id":278
+  },
+  {
+    "type":"Cave",
+    "number":17,
+    "name":null,
+    "ability":"Gain [Crystal][Milk].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":199,
+    "sort_id":279
+  },
+  {
+    "type":"Cave",
+    "number":18,
+    "name":null,
+    "ability":"Gain [Crystal]. Lay [Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":200,
+    "sort_id":280
+  },
+  {
+    "type":"Cave",
+    "number":19,
+    "name":null,
+    "ability":"Gain [Crystal]. Lay [Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":201,
+    "sort_id":281
+  },
+  {
+    "type":"Cave",
+    "number":20,
+    "name":null,
+    "ability":"Gain [DragonCard][DragonCard].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":202,
+    "sort_id":282
+  },
+  {
+    "type":"Cave",
+    "number":21,
+    "name":null,
+    "ability":"Gain [DragonCard][DragonCard].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":203,
+    "sort_id":283
+  },
+  {
+    "type":"Cave",
+    "number":22,
+    "name":null,
+    "ability":"Gain [DragonCard][DragonGuild].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":204,
+    "sort_id":284
+  },
+  {
+    "type":"Cave",
+    "number":23,
+    "name":null,
+    "ability":"Gain [DragonCard][DragonGuild].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":205,
+    "sort_id":285
+  },
+  {
+    "type":"Cave",
+    "number":24,
+    "name":null,
+    "ability":"Gain [DragonCard][DragonGuild].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":206,
+    "sort_id":286
+  },
+  {
+    "type":"Cave",
+    "number":25,
+    "name":null,
+    "ability":"Gain [DragonCard]. Lay [Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":207,
+    "sort_id":287
+  },
+  {
+    "type":"Cave",
+    "number":26,
+    "name":null,
+    "ability":"Gain [DragonCard]. Lay [Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":208,
+    "sort_id":288
+  },
+  {
+    "type":"Cave",
+    "number":27,
+    "name":null,
+    "ability":"Gain [DragonGuild][DragonGuild]. Each opponent gains [DragonGuild].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":209,
+    "sort_id":289
+  },
+  {
+    "type":"Cave",
+    "number":28,
+    "name":null,
+    "ability":"Gain [DragonGuild][DragonGuild]. Each opponent gains [DragonGuild].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":210,
+    "sort_id":290
+  },
+  {
+    "type":"Cave",
+    "number":29,
+    "name":null,
+    "ability":"Gain [DragonGuild]. Lay [Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":211,
+    "sort_id":291
+  },
+  {
+    "type":"Cave",
+    "number":30,
+    "name":null,
+    "ability":"Gain [DragonGuild]. Lay [Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":212,
+    "sort_id":292
+  },
+  {
+    "type":"Cave",
+    "number":31,
+    "name":null,
+    "ability":"Gain [DragonGuild]. Lay [Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":213,
+    "sort_id":293
+  },
+  {
+    "type":"Cave",
+    "number":32,
+    "name":null,
+    "ability":"Gain [Gold][DragonCard].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":214,
+    "sort_id":294
+  },
+  {
+    "type":"Cave",
+    "number":33,
+    "name":null,
+    "ability":"Gain [Gold][Crystal].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":215,
+    "sort_id":295
+  },
+  {
+    "type":"Cave",
+    "number":34,
+    "name":null,
+    "ability":"Gain [Gold][Gold].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":216,
+    "sort_id":296
+  },
+  {
+    "type":"Cave",
+    "number":35,
+    "name":null,
+    "ability":"Gain [Gold][Milk].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":217,
+    "sort_id":297
+  },
+  {
+    "type":"Cave",
+    "number":36,
+    "name":null,
+    "ability":"Gain [Gold]. Lay [Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":218,
+    "sort_id":298
+  },
+  {
+    "type":"Cave",
+    "number":37,
+    "name":null,
+    "ability":"Gain [Gold]. Lay [Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":219,
+    "sort_id":299
+  },
+  {
+    "type":"Cave",
+    "number":38,
+    "name":null,
+    "ability":"Gain [Meat][DragonCard].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":220,
+    "sort_id":300
+  },
+  {
+    "type":"Cave",
+    "number":39,
+    "name":null,
+    "ability":"Gain [Meat][DragonCard].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":221,
+    "sort_id":301
+  },
+  {
+    "type":"Cave",
+    "number":40,
+    "name":null,
+    "ability":"Gain [Meat][Crystal].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":222,
+    "sort_id":302
+  },
+  {
+    "type":"Cave",
+    "number":41,
+    "name":null,
+    "ability":"Gain [Meat][Crystal].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":223,
+    "sort_id":303
+  },
+  {
+    "type":"Cave",
+    "number":42,
+    "name":null,
+    "ability":"Gain [Meat][Gold].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":224,
+    "sort_id":304
+  },
+  {
+    "type":"Cave",
+    "number":43,
+    "name":null,
+    "ability":"Gain [Meat][Gold].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":225,
+    "sort_id":305
+  },
+  {
+    "type":"Cave",
+    "number":44,
+    "name":null,
+    "ability":"Gain [Meat][Meat].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":226,
+    "sort_id":306
+  },
+  {
+    "type":"Cave",
+    "number":45,
+    "name":null,
+    "ability":"Gain [Meat][Meat].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":227,
+    "sort_id":307
+  },
+  {
+    "type":"Cave",
+    "number":46,
+    "name":null,
+    "ability":"Gain [Meat][Milk].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":228,
+    "sort_id":308
+  },
+  {
+    "type":"Cave",
+    "number":47,
+    "name":null,
+    "ability":"Gain [Meat]. Lay [Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":229,
+    "sort_id":309
+  },
+  {
+    "type":"Cave",
+    "number":48,
+    "name":null,
+    "ability":"Gain [Meat]. Lay [Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":230,
+    "sort_id":310
+  },
+  {
+    "type":"Cave",
+    "number":49,
+    "name":null,
+    "ability":"Gain [Milk][Milk].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":231,
+    "sort_id":311
+  },
+  {
+    "type":"Cave",
+    "number":50,
+    "name":null,
+    "ability":"Gain 2 different benefits: [DragonCard]\/[CaveCard]\/[AnyResource]. Each opponent gains 1 benefit of their choice.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":232,
+    "sort_id":312
+  },
+  {
+    "type":"Cave",
+    "number":51,
+    "name":null,
+    "ability":"Gain 2 different benefits: [DragonCard]\/[CaveCard]\/[AnyResource]. Each opponent gains 1 benefit of their choice.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":233,
+    "sort_id":313
+  },
+  {
+    "type":"Cave",
+    "number":52,
+    "name":null,
+    "ability":"Immediately play [DragonCard] with a discount of 1 [Egg] or [AnyResource].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":234,
+    "sort_id":314
+  },
+  {
+    "type":"Cave",
+    "number":53,
+    "name":null,
+    "ability":"Immediately play [DragonCard] with a discount of 1 [Egg] or [AnyResource].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":235,
+    "sort_id":315
+  },
+  {
+    "type":"Cave",
+    "number":54,
+    "name":null,
+    "ability":"Immediately play [DragonCard] with a discount of 1 [Egg] or [AnyResource].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":236,
+    "sort_id":316
+  },
+  {
+    "type":"Cave",
+    "number":55,
+    "name":null,
+    "ability":"Lay [Egg][Egg][Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":237,
+    "sort_id":317
+  },
+  {
+    "type":"Cave",
+    "number":56,
+    "name":null,
+    "ability":"Lay [Egg][Egg][Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":238,
+    "sort_id":318
+  },
+  {
+    "type":"Cave",
+    "number":57,
+    "name":null,
+    "ability":"Lay [Egg][Egg][Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":239,
+    "sort_id":319
+  },
+  {
+    "type":"Cave",
+    "number":58,
+    "name":null,
+    "ability":"Pay [AnyResource][AnyResource], then draw [CaveCard] from the deck and immediately play it for free.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":240,
+    "sort_id":320
+  },
+  {
+    "type":"Cave",
+    "number":59,
+    "name":null,
+    "ability":"Pay [AnyResource][AnyResource], then gain [CaveCard] from the display and immediately play it for free.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":241,
+    "sort_id":321
+  },
+  {
+    "type":"Cave",
+    "number":60,
+    "name":null,
+    "ability":"Pay [CaveCard][CaveCard], then draw [CaveCard] from the deck and immediately play it for free.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":242,
+    "sort_id":322
+  },
+  {
+    "type":"Cave",
+    "number":61,
+    "name":null,
+    "ability":"Pay [CaveCard][CaveCard], then gain [CaveCard] from the display and immediately play it for free.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":243,
+    "sort_id":323
+  },
+  {
+    "type":"Cave",
+    "number":62,
+    "name":null,
+    "ability":"Pay [DragonCard][DragonCard], then draw [CaveCard] from the deck and immediately play it for free.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":244,
+    "sort_id":324
+  },
+  {
+    "type":"Cave",
+    "number":63,
+    "name":null,
+    "ability":"Pay [DragonCard][DragonCard], then gain [CaveCard] from the display and immediately play it for free.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":245,
+    "sort_id":325
+  },
+  {
+    "type":"Cave",
+    "number":64,
+    "name":null,
+    "ability":"Pay [Egg][Egg], then draw [CaveCard] from the deck and immediately play it for free.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":246,
+    "sort_id":326
+  },
+  {
+    "type":"Cave",
+    "number":65,
+    "name":null,
+    "ability":"Pay [Egg][Egg], then gain [CaveCard] from the display and immediately play it for free.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":247,
+    "sort_id":327
+  },
+  {
+    "type":"Cave",
+    "number":66,
+    "name":null,
+    "ability":"Swap the location of any 2 dragons on your player mat. Ignore normal cave preferences.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":248,
+    "sort_id":328
+  },
+  {
+    "type":"Cave",
+    "number":67,
+    "name":null,
+    "ability":"Tuck [DragonCard][DragonCard] from the deck behind any dragon(s).",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":249,
+    "sort_id":329
+  },
+  {
+    "type":"Cave",
+    "number":68,
+    "name":null,
+    "ability":"Tuck [DragonCard][DragonCard] from the deck behind any dragon(s).",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":250,
+    "sort_id":330
+  },
+  {
+    "type":"Cave",
+    "number":69,
+    "name":null,
+    "ability":"Up to 3x, pay [AnyResource] to gain [DragonGuild]. Each opponent may do this 1x.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":251,
+    "sort_id":331
+  },
+  {
+    "type":"Cave",
+    "number":70,
+    "name":null,
+    "ability":"Up to 3x, pay [AnyResource] to lay [Egg][Egg]. Each opponent may do this 1x.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":252,
+    "sort_id":332
+  },
+  {
+    "type":"Cave",
+    "number":71,
+    "name":null,
+    "ability":"Up to 3x, pay [CaveCard] to gain [DragonGuild]. Each opponent may do this 1x.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":253,
+    "sort_id":333
+  },
+  {
+    "type":"Cave",
+    "number":72,
+    "name":null,
+    "ability":"Up to 3x, pay [DragonCard] to gain [DragonGuild]. Each opponent may do this 1x.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":254,
+    "sort_id":334
+  },
+  {
+    "type":"Cave",
+    "number":73,
+    "name":null,
+    "ability":"Up to 3x, pay [DragonCard] to lay [Egg][Egg]. Each opponent may do this 1x.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":255,
+    "sort_id":335
+  },
+  {
+    "type":"Cave",
+    "number":74,
+    "name":null,
+    "ability":"Up to 3x, pay [Egg] to gain [AnyResource][AnyResource]. Each opponent may do this 1x.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":256,
+    "sort_id":336
+  },
+  {
+    "type":"Cave",
+    "number":75,
+    "name":null,
+    "ability":"Up to 3x, pay [Egg] to gain [DragonGuild]. Each opponent may do this 1x.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "expansion":"base",
+    "id":257,
+    "sort_id":337
   },
   {
     "type":"Cave",
@@ -7455,7 +7793,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":338
+    "id":338,
+    "sort_id":338
   },
   {
     "type":"Cave",
@@ -7477,7 +7816,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":339
+    "id":339,
+    "sort_id":339
   },
   {
     "type":"Cave",
@@ -7499,7 +7839,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":340
+    "id":340,
+    "sort_id":340
   },
   {
     "type":"Cave",
@@ -7521,7 +7862,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":341
+    "id":341,
+    "sort_id":341
   },
   {
     "type":"Cave",
@@ -7543,7 +7885,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":342
+    "id":342,
+    "sort_id":342
   },
   {
     "type":"Cave",
@@ -7565,7 +7908,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":343
+    "id":343,
+    "sort_id":343
   },
   {
     "type":"Cave",
@@ -7587,7 +7931,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":344
+    "id":344,
+    "sort_id":344
   },
   {
     "type":"Cave",
@@ -7609,7 +7954,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":345
+    "id":345,
+    "sort_id":345
   },
   {
     "type":"Cave",
@@ -7631,7 +7977,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":346
+    "id":346,
+    "sort_id":346
   },
   {
     "type":"Cave",
@@ -7653,7 +8000,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":347
+    "id":347,
+    "sort_id":347
   },
   {
     "type":"Cave",
@@ -7675,7 +8023,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":348
+    "id":348,
+    "sort_id":348
   },
   {
     "type":"Cave",
@@ -7697,7 +8046,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":349
+    "id":349,
+    "sort_id":349
   },
   {
     "type":"Cave",
@@ -7719,7 +8069,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":350
+    "id":350,
+    "sort_id":350
   },
   {
     "type":"Cave",
@@ -7741,7 +8092,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":351
+    "id":351,
+    "sort_id":351
   },
   {
     "type":"Cave",
@@ -7763,7 +8115,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":352
+    "id":352,
+    "sort_id":352
   },
   {
     "type":"Cave",
@@ -7785,7 +8138,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":353
+    "id":353,
+    "sort_id":353
   },
   {
     "type":"Cave",
@@ -7807,7 +8161,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":354
+    "id":354,
+    "sort_id":354
   },
   {
     "type":"Cave",
@@ -7829,7 +8184,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":355
+    "id":355,
+    "sort_id":355
   },
   {
     "type":"Cave",
@@ -7851,7 +8207,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":356
+    "id":356,
+    "sort_id":356
   },
   {
     "type":"Cave",
@@ -7873,7 +8230,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":357
+    "id":357,
+    "sort_id":357
   },
   {
     "type":"Cave",
@@ -7895,7 +8253,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":358
+    "id":358,
+    "sort_id":358
   },
   {
     "type":"Cave",
@@ -7917,7 +8276,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":359
+    "id":359,
+    "sort_id":359
   },
   {
     "type":"Cave",
@@ -7939,7 +8299,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":360
+    "id":360,
+    "sort_id":360
   },
   {
     "type":"Cave",
@@ -7961,7 +8322,8 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":361
+    "id":361,
+    "sort_id":361
   },
   {
     "type":"Cave",
@@ -7983,6 +8345,7 @@
     "Egg":null,
     "Milk":null,
     "expansion":"academy",
-    "id":362
+    "id":362,
+    "sort_id":362
   }
 ]
