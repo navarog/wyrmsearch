@@ -242,7 +242,7 @@ function Search({ cardState, triggerSearch }) {
               <div className="row" style={{ marginTop: '10px' }}>
                 <label style={{ marginRight: '10px', fontSize: '14px' }}>Expansion:</label>
                 <button
-                  className={`expansion-filter ${query.expansion.base ? "" : "disabled"}`}
+                  className={`expansion-filter ${query.expansion.base ? "active" : ""}`}
                   onClick={() =>
                     setQuery({
                       ...query,
@@ -252,20 +252,11 @@ function Search({ cardState, triggerSearch }) {
                       },
                     })
                   }
-                  style={{
-                    marginRight: '8px',
-                    padding: '4px 8px',
-                    border: '1px solid #ccc',
-                    borderRadius: '4px',
-                    backgroundColor: query.expansion.base ? '#007bff' : '#f8f9fa',
-                    color: query.expansion.base ? 'white' : '#333',
-                    cursor: 'pointer',
-                  }}
                 >
-                  Base ({stats.expansion?.base || 0})
+                  Base Game ({stats.expansion?.base || 0})
                 </button>
                 <button
-                  className={`expansion-filter ${query.expansion.academy ? "" : "disabled"}`}
+                  className={`expansion-filter ${query.expansion.academy ? "active" : ""}`}
                   onClick={() =>
                     setQuery({
                       ...query,
@@ -275,16 +266,8 @@ function Search({ cardState, triggerSearch }) {
                       },
                     })
                   }
-                  style={{
-                    padding: '4px 8px',
-                    border: '1px solid #ccc',
-                    borderRadius: '4px',
-                    backgroundColor: query.expansion.academy ? '#28a745' : '#f8f9fa',
-                    color: query.expansion.academy ? 'white' : '#333',
-                    cursor: 'pointer',
-                  }}
                 >
-                  Academy ({stats.expansion?.academy || 0})
+                  Dragon Academy ({stats.expansion?.academy || 0})
                 </button>
               </div>
             </div>
