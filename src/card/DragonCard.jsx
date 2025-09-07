@@ -3,6 +3,17 @@ import { renderText, renderFledglingAbility } from "./Card";
 import VP from "../assets/icons/VP.svg";
 import EggCapacity from "../assets/icons/EggCapacity.svg";
 import ExpansionIndicator from "./ExpansionIndicator";
+import shyBackground from "../assets/card-backgrounds/dragon-card-background-shy.png";
+import playfulBackground from "../assets/card-backgrounds/dragon-card-background-playful.png";
+import helpfulBackground from "../assets/card-backgrounds/dragon-card-background-helpful.png";
+import aggressiveBackground from "../assets/card-backgrounds/dragon-card-background-aggressive.png";
+
+const backgroundMap = {
+  shy: shyBackground,
+  playful: playfulBackground,
+  helpful: helpfulBackground,
+  aggressive: aggressiveBackground
+};
 
 function costToIcons(data) {
   const costFields = ["Coin", "Meat", "Gold", "Crystal", "Egg", "Milk"];
@@ -28,7 +39,7 @@ function costToIcons(data) {
 }
 
 const DragonCard = ({ data }) => {
-  const backgroundImage = require(`../assets/card-backgrounds/dragon-card-background-${data.personality.toLowerCase()}.png`);
+  const backgroundImage = backgroundMap[data.personality.toLowerCase()];
   return (
     <div className="dragon-card" style={{ backgroundImage: `url("${backgroundImage}")` }}>
       <div className="upper-container">{data.name.toUpperCase()}</div>
