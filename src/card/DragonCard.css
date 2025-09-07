@@ -161,6 +161,11 @@
     }
   }
 
+  .lower-container.fledgling {
+    background: linear-gradient(0deg, rgba(147, 112, 219, 0.4) 10%, rgba(147, 112, 219, 0.05) 75%, transparent);
+    border-radius: 0.5cqw;
+  }
+
   .lower-container {
     flex: 0.295;
     font-size: 6.1cqw;

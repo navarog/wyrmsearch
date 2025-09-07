@@ -88,7 +88,7 @@ const DragonCard = ({ data }) => {
           </div>
         </div>
       </div>
-      <div className="lower-container">
+      <div className={data.size === "Fledgling" ? "lower-container fledgling" : "lower-container"}>
         <div className="ability">
           {data.size === "Hatchling" ? (
             <div>
