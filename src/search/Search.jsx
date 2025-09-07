@@ -28,7 +28,7 @@ const cardIndex = FlexSearch.Document({
 
 import("../assets/cards.json").then((cards) => {
   cards.default
-    .sort((a, b) => a.id - b.id)
+    .sort((a, b) => a.sort_id - b.sort_id)
     .forEach((card) => cardIndex.add(card));
 });
 
@@ -60,7 +60,11 @@ export function handleSearch(state, query) {
            query.expansion[card.expansion];
   });
 
-  return { ...state, filteredCardIds: filteredIds.sort((a, b) => a - b) };
+  return { ...state, filteredCardIds: filteredIds.sort((a, b) => {
+    const cardA = state.allCards[a];
+    const cardB = state.allCards[b];
+    return cardA.sort_id - cardB.sort_id;
+  }) };
 }
 
 function Search({ cardState, triggerSearch }) {
