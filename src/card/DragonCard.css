@@ -8,6 +8,8 @@
   background-color: white;
   background-size: cover;
   width: 100%;
+  position: relative;
+  overflow: hidden;
 
   .text-icon {
     height: 1.1em;
@@ -44,6 +46,12 @@
       max-height: 70%;
       min-height: 50%;
       max-width: 8cqw;
+    }
+
+    .cost-slash {
+      color: white;
+      font-size: 9cqw;
+      font-weight: bold;
     }
   }
 
@@ -123,6 +131,16 @@
         }
       }
 
+      .per-text {
+        text-align: center;
+        font-size: 4cqw;
+        font-family: "Acumin Pro Condensed", sans-serif;
+        font-weight: normal;
+        font-style: italic;
+        margin-top: -1cqw;
+        margin-bottom: 1cqw;
+      }
+
       .size {
         font-size: 6cqw;
         font-weight: 600;
@@ -149,6 +167,11 @@
     }
   }
 
+  .lower-container.fledgling {
+    background: linear-gradient(0deg, rgba(147, 112, 219, 0.4) 10%, rgba(147, 112, 219, 0.05) 75%, transparent);
+    border-radius: 0.5cqw;
+  }
+
   .lower-container {
     flex: 0.295;
     font-size: 6.1cqw;
@@ -158,11 +181,48 @@
 
     .ability {
       display: flex;
+      flex-direction: column;
       font-family: "Acumin Pro Condensed", sans-serif;
+      width: 100%;
       .ability-icon {
         width: 12cqw;
         height: 12cqw;
         margin-right: 2cqw;
+      }
+
+      .ability-star-icon {
+        width: 12cqw;
+        height: 12cqw;
+        margin-right: 2cqw;
+      }
+
+      .ability-first-sentence {
+        display: flex;
+        align-items: flex-start;
+        margin-bottom: 0.5em;
+      }
+
+      .first-sentence-text {
+        flex: 1;
+      }
+
+      .ability-remaining-text {
+        display: flex;
+        align-items: flex-start;
+        margin-top: 0.5em;
+      }
+
+      .ability-ignore-cost {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+      }
+
+      .ability-default {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        width: 100%;
       }
 
       .ability-hatchling {
@@ -234,20 +294,107 @@
       }
 
       .vp-span {
-        position: relative;
         font-weight: 600;
         padding-left: 0.4em;
         padding-right: 0.3em;
+        white-space: nowrap;
+        position: relative;
       }
 
       .vp-span .text-icon {
+        width: 1.35em;
+        height: 1.35em;
         position: absolute;
-        bottom: 0em;
-        right: -0.1em;
-        width: 1.2em;
-        height: 1.2em;
-        margin-bottom: 0em;
-        z-index: -1;
+        top: 42%;
+        left: 48%;
+        transform: translate(-45%, -50%);
+      }
+
+      .fledgling-ability {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+      }
+
+      .fledgling-resource-line {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 0.5em;
+        padding-bottom: 0.3em;
+        border-bottom: solid 0.01em;
+
+        .adventurer-icon {
+          margin-right: 0.2em;
+          flex-shrink: 0;
+          height: 1.6em;
+          max-width: 1.5em;
+          max-height: 1.6em;
+        }
+
+        .right-aligned-icons {
+          display: flex;
+          align-items: center;
+          gap: 0.2em;
+          flex: 1;
+          justify-content: flex-end;
+          position: relative;
+          font-size: 1.3em;
+
+          .resource-chain {
+            display: flex;
+            align-items: center;
+            gap: 0.2em;
+            position: relative;
+
+            .resource-item {
+              background: #46342f;
+              border: 1px solid black;
+              border-radius: 0.2em;
+              padding: 0.2em;
+              width: 1em;
+              height: 1em;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              position: relative;
+              z-index: 2;
+              .text-icon {
+                max-height: 1em;
+                max-width: 1em;
+              }
+            }
+          }
+
+          .fletching-arrow {
+            width: 1em;
+            height: 1em;
+            position: relative;
+            z-index: 3;
+            margin-left: -0.35em;
+            margin-right: -0.5em;
+          }
+        }
+      }
+
+      .fledgling-effect-line {
+        flex: 1;
+        display: flex;
+        align-items: flex-start;
+        gap: 0.3em;
+
+        .ability-type-icon {
+          margin-right: 0.2em;
+          flex-shrink: 0;
+          height: 1.6em;
+          max-width: 1.5em;
+          max-height: 1.6em;
+        }
+
+        .effect-text {
+          flex: 1;
+          display: inline;
+        }
       }
     }
   }

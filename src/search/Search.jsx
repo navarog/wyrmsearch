@@ -28,7 +28,7 @@ const cardIndex = FlexSearch.Document({
 
 import("../assets/cards.json").then((cards) => {
   cards.default
-    .sort((a, b) => a.id - b.id)
+    .sort((a, b) => a.sort_id - b.sort_id)
     .forEach((card) => cardIndex.add(card));
 });
 
@@ -40,6 +40,7 @@ const fields = [
   "Golden Grotto",
   "Amethyst Abyss",
   "personality",
+  "expansion",
 ];
 
 export function handleSearch(state, query) {
@@ -54,10 +55,16 @@ export function handleSearch(state, query) {
     : state.allCards.map((card) => card.id);
   const filteredIds = searchedIds.filter((id) => {
     const card = state.allCards[id];
-    return query.type[card.type] && (query.personality[card.personality] || card.type === "Cave");
+    return query.type[card.type] && 
+           (query.personality[card.personality] || card.type === "Cave") &&
+           query.expansion[card.expansion];
   });
 
-  return { ...state, filteredCardIds: filteredIds.sort((a, b) => a - b) };
+  return { ...state, filteredCardIds: filteredIds.sort((a, b) => {
+    const cardA = state.allCards[a];
+    const cardB = state.allCards[b];
+    return cardA.sort_id - cardB.sort_id;
+  }) };
 }
 
 function Search({ cardState, triggerSearch }) {
@@ -72,6 +79,10 @@ function Search({ cardState, triggerSearch }) {
       Playful: true,
       Helpful: true,
       Aggressive: true,
+    },
+    expansion: {
+      base: true,
+      academy: true,
     },
   };
   const [query, setQuery] = useState(defaultQuery);
@@ -228,6 +239,37 @@ function Search({ cardState, triggerSearch }) {
                   />
                 </div>
               </Tooltip>
+              <div className="row" style={{ marginTop: '10px' }}>
+                <label style={{ marginRight: '10px', fontSize: '14px' }}>Expansion:</label>
+                <button
+                  className={`expansion-filter ${query.expansion.base ? "active" : ""}`}
+                  onClick={() =>
+                    setQuery({
+                      ...query,
+                      expansion: {
+                        ...query.expansion,
+                        base: !query.expansion.base,
+                      },
+                    })
+                  }
+                >
+                  Base Game ({stats.expansion?.base || 0})
+                </button>
+                <button
+                  className={`expansion-filter ${query.expansion.academy ? "active" : ""}`}
+                  onClick={() =>
+                    setQuery({
+                      ...query,
+                      expansion: {
+                        ...query.expansion,
+                        academy: !query.expansion.academy,
+                      },
+                    })
+                  }
+                >
+                  Dragon Academy ({stats.expansion?.academy || 0})
+                </button>
+              </div>
             </div>
           </AccordionDetails>
         </Accordion>

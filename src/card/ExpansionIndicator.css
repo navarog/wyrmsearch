@@ -1,0 +1,20 @@
+.expansion-indicator {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-size: 0.3em;
+  font-weight: 600;
+  padding: 0.5cqw 0.5cqw 4cqw 4cqw;
+  border-top-right-radius: 2cqw;
+  z-index: 10;
+}
+
+.expansion-indicator.dragon {
+  background-color: #443c38;
+  color: white;
+}
+
+.expansion-indicator.cave {
+  color: white;
+  background: none;
+}

@@ -18,7 +18,10 @@
     "Amethyst Abyss":null,
     "Egg":1.0,
     "Milk":1.0,
-    "id":0
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":0,
+    "sort_id":0
   },
   {
     "type":"Dragon",
@@ -39,7 +42,10 @@
     "Amethyst Abyss":null,
     "Egg":1.0,
     "Milk":3.0,
-    "id":1
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":1,
+    "sort_id":1
   },
   {
     "type":"Dragon",
@@ -60,7 +66,10 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":3.0,
-    "id":2
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":2,
+    "sort_id":2
   },
   {
     "type":"Dragon",
@@ -81,7 +90,10 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":2.0,
-    "id":3
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":3,
+    "sort_id":3
   },
   {
     "type":"Dragon",
@@ -102,7 +114,10 @@
     "Amethyst Abyss":null,
     "Egg":1.0,
     "Milk":3.0,
-    "id":4
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":4,
+    "sort_id":4
   },
   {
     "type":"Dragon",
@@ -123,7 +138,10 @@
     "Amethyst Abyss":null,
     "Egg":1.0,
     "Milk":3.0,
-    "id":5
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":5,
+    "sort_id":5
   },
   {
     "type":"Dragon",
@@ -144,7 +162,10 @@
     "Amethyst Abyss":null,
     "Egg":1.0,
     "Milk":3.0,
-    "id":6
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":6,
+    "sort_id":6
   },
   {
     "type":"Dragon",
@@ -165,7 +186,10 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":3.0,
-    "id":7
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":7,
+    "sort_id":7
   },
   {
     "type":"Dragon",
@@ -186,7 +210,10 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":1.0,
-    "id":8
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":8,
+    "sort_id":8
   },
   {
     "type":"Dragon",
@@ -207,7 +234,10 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":1.0,
-    "id":9
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":9,
+    "sort_id":9
   },
   {
     "type":"Dragon",
@@ -228,7 +258,10 @@
     "Amethyst Abyss":null,
     "Egg":1.0,
     "Milk":1.0,
-    "id":10
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":10,
+    "sort_id":10
   },
   {
     "type":"Dragon",
@@ -249,7 +282,10 @@
     "Amethyst Abyss":null,
     "Egg":1.0,
     "Milk":3.0,
-    "id":11
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":11,
+    "sort_id":11
   },
   {
     "type":"Dragon",
@@ -270,7 +306,10 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":1.0,
-    "id":12
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":12,
+    "sort_id":12
   },
   {
     "type":"Dragon",
@@ -291,7 +330,10 @@
     "Amethyst Abyss":null,
     "Egg":1.0,
     "Milk":2.0,
-    "id":13
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":13,
+    "sort_id":13
   },
   {
     "type":"Dragon",
@@ -312,7 +354,10 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":1.0,
-    "id":14
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":14,
+    "sort_id":14
   },
   {
     "type":"Dragon",
@@ -333,13 +378,16 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":1.0,
-    "id":15
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":15,
+    "sort_id":15
   },
   {
     "type":"Dragon",
     "number":17,
     "name":"Common Grass Lindworm",
-    "ability":"Cache [Milk] from your supply here. Each [Milk] on this dragon is worth + [VP-1] at game end. When the 3rd [Milk] is cached, also gain [DragonCard][DragonCard].",
+    "ability":"Cache [Milk] from your supply here. Each [Milk] on this dragon is worth [VP-1] at game end. When the 3rd [Milk] is cached, also gain [DragonCard][DragonCard].",
     "abilityType":"Adventurer, EndGame",
     "VP":1.0,
     "size":"Hatchling",
@@ -354,7 +402,10 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":1.0,
-    "id":16
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":16,
+    "sort_id":16
   },
   {
     "type":"Dragon",
@@ -375,7 +426,10 @@
     "Amethyst Abyss":null,
     "Egg":1.0,
     "Milk":2.0,
-    "id":17
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":17,
+    "sort_id":17
   },
   {
     "type":"Dragon",
@@ -396,7 +450,10 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":2.0,
-    "id":18
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":18,
+    "sort_id":18
   },
   {
     "type":"Dragon",
@@ -417,7 +474,10 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":1.0,
-    "id":19
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":19,
+    "sort_id":19
   },
   {
     "type":"Dragon",
@@ -438,7 +498,10 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":2.0,
-    "id":20
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":20,
+    "sort_id":20
   },
   {
     "type":"Dragon",
@@ -459,7 +522,10 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":2.0,
-    "id":21
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":21,
+    "sort_id":21
   },
   {
     "type":"Dragon",
@@ -480,7 +546,10 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":1.0,
-    "id":22
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":22,
+    "sort_id":22
   },
   {
     "type":"Dragon",
@@ -501,7 +570,10 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":2.0,
-    "id":23
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":23,
+    "sort_id":23
   },
   {
     "type":"Dragon",
@@ -522,7 +594,10 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":3.0,
-    "id":24
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":24,
+    "sort_id":24
   },
   {
     "type":"Dragon",
@@ -543,7 +618,10 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":1.0,
-    "id":25
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":25,
+    "sort_id":25
   },
   {
     "type":"Dragon",
@@ -564,7 +642,10 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":2.0,
-    "id":26
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":26,
+    "sort_id":26
   },
   {
     "type":"Dragon",
@@ -585,13 +666,16 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":3.0,
-    "id":27
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":27,
+    "sort_id":27
   },
   {
     "type":"Dragon",
     "number":29,
     "name":"Singeing Remora",
-    "ability":"Cache [Meat] from your supply here. Each [Meat] on this dragon is worth + [VP-1] at game end. When the 3rd [Meat] is cached, also gain [Coin].",
+    "ability":"Cache [Meat] from your supply here. Each [Meat] on this dragon is worth [VP-1] at game end. When the 3rd [Meat] is cached, also gain [Coin].",
     "abilityType":"Adventurer, EndGame",
     "VP":2.0,
     "size":"Hatchling",
@@ -606,7 +690,10 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":2.0,
-    "id":28
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":28,
+    "sort_id":28
   },
   {
     "type":"Dragon",
@@ -627,7 +714,10 @@
     "Amethyst Abyss":null,
     "Egg":1.0,
     "Milk":3.0,
-    "id":29
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":29,
+    "sort_id":29
   },
   {
     "type":"Dragon",
@@ -648,7 +738,10 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":2.0,
-    "id":30
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":30,
+    "sort_id":30
   },
   {
     "type":"Dragon",
@@ -669,7 +762,10 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":3.0,
-    "id":31
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":31,
+    "sort_id":31
   },
   {
     "type":"Dragon",
@@ -690,7 +786,10 @@
     "Amethyst Abyss":null,
     "Egg":1.0,
     "Milk":3.0,
-    "id":32
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":32,
+    "sort_id":32
   },
   {
     "type":"Dragon",
@@ -711,7 +810,10 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":2.0,
-    "id":33
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":33,
+    "sort_id":33
   },
   {
     "type":"Dragon",
@@ -732,7 +834,10 @@
     "Amethyst Abyss":"x",
     "Egg":1.0,
     "Milk":3.0,
-    "id":34
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":34,
+    "sort_id":34
   },
   {
     "type":"Dragon",
@@ -753,7 +858,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":35
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":35,
+    "sort_id":35
   },
   {
     "type":"Dragon",
@@ -774,7 +882,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":36
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":36,
+    "sort_id":36
   },
   {
     "type":"Dragon",
@@ -795,7 +906,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":37
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":37,
+    "sort_id":37
   },
   {
     "type":"Dragon",
@@ -816,7 +930,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":38
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":38,
+    "sort_id":38
   },
   {
     "type":"Dragon",
@@ -837,7 +954,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":39
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":39,
+    "sort_id":39
   },
   {
     "type":"Dragon",
@@ -858,7 +978,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":40
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":40,
+    "sort_id":40
   },
   {
     "type":"Dragon",
@@ -879,7 +1002,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":41
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":41,
+    "sort_id":41
   },
   {
     "type":"Dragon",
@@ -900,7 +1026,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":42
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":42,
+    "sort_id":42
   },
   {
     "type":"Dragon",
@@ -921,7 +1050,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":43
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":43,
+    "sort_id":43
   },
   {
     "type":"Dragon",
@@ -942,7 +1074,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":44
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":44,
+    "sort_id":44
   },
   {
     "type":"Dragon",
@@ -963,7 +1098,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":45
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":45,
+    "sort_id":45
   },
   {
     "type":"Dragon",
@@ -984,7 +1122,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":46
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":46,
+    "sort_id":46
   },
   {
     "type":"Dragon",
@@ -1005,7 +1146,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":47
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":47,
+    "sort_id":47
   },
   {
     "type":"Dragon",
@@ -1026,7 +1170,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":48
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":48,
+    "sort_id":48
   },
   {
     "type":"Dragon",
@@ -1047,7 +1194,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":49
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":49,
+    "sort_id":49
   },
   {
     "type":"Dragon",
@@ -1068,7 +1218,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":50
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":50,
+    "sort_id":50
   },
   {
     "type":"Dragon",
@@ -1089,7 +1242,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":51
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":51,
+    "sort_id":51
   },
   {
     "type":"Dragon",
@@ -1110,7 +1266,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":52
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":52,
+    "sort_id":52
   },
   {
     "type":"Dragon",
@@ -1131,7 +1290,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":53
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":53,
+    "sort_id":53
   },
   {
     "type":"Dragon",
@@ -1152,7 +1314,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":54
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":54,
+    "sort_id":54
   },
   {
     "type":"Dragon",
@@ -1173,7 +1338,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":55
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":55,
+    "sort_id":55
   },
   {
     "type":"Dragon",
@@ -1194,7 +1362,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":56
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":56,
+    "sort_id":56
   },
   {
     "type":"Dragon",
@@ -1215,7 +1386,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":57
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":57,
+    "sort_id":57
   },
   {
     "type":"Dragon",
@@ -1236,7 +1410,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":58
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":58,
+    "sort_id":58
   },
   {
     "type":"Dragon",
@@ -1257,7 +1434,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":59
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":59,
+    "sort_id":59
   },
   {
     "type":"Dragon",
@@ -1278,7 +1458,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":60
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":60,
+    "sort_id":60
   },
   {
     "type":"Dragon",
@@ -1299,7 +1482,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":61
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":61,
+    "sort_id":61
   },
   {
     "type":"Dragon",
@@ -1320,7 +1506,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":62
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":62,
+    "sort_id":62
   },
   {
     "type":"Dragon",
@@ -1341,7 +1530,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":63
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":63,
+    "sort_id":63
   },
   {
     "type":"Dragon",
@@ -1362,7 +1554,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":64
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":64,
+    "sort_id":64
   },
   {
     "type":"Dragon",
@@ -1383,7 +1578,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":65
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":65,
+    "sort_id":65
   },
   {
     "type":"Dragon",
@@ -1404,7 +1602,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":66
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":66,
+    "sort_id":66
   },
   {
     "type":"Dragon",
@@ -1425,7 +1626,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":67
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":67,
+    "sort_id":67
   },
   {
     "type":"Dragon",
@@ -1446,7 +1650,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":68
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":68,
+    "sort_id":68
   },
   {
     "type":"Dragon",
@@ -1467,7 +1674,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":69
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":69,
+    "sort_id":69
   },
   {
     "type":"Dragon",
@@ -1488,7 +1698,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":70
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":70,
+    "sort_id":70
   },
   {
     "type":"Dragon",
@@ -1509,7 +1722,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":71
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":71,
+    "sort_id":71
   },
   {
     "type":"Dragon",
@@ -1530,7 +1746,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":72
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":72,
+    "sort_id":72
   },
   {
     "type":"Dragon",
@@ -1551,7 +1770,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":73
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":73,
+    "sort_id":73
   },
   {
     "type":"Dragon",
@@ -1572,7 +1794,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":74
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":74,
+    "sort_id":74
   },
   {
     "type":"Dragon",
@@ -1593,7 +1818,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":75
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":75,
+    "sort_id":75
   },
   {
     "type":"Dragon",
@@ -1614,7 +1842,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":76
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":76,
+    "sort_id":76
   },
   {
     "type":"Dragon",
@@ -1635,7 +1866,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":77
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":77,
+    "sort_id":77
   },
   {
     "type":"Dragon",
@@ -1656,7 +1890,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":78
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":78,
+    "sort_id":78
   },
   {
     "type":"Dragon",
@@ -1677,7 +1914,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":79
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":79,
+    "sort_id":79
   },
   {
     "type":"Dragon",
@@ -1698,7 +1938,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":80
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":80,
+    "sort_id":80
   },
   {
     "type":"Dragon",
@@ -1719,7 +1962,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":81
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":81,
+    "sort_id":81
   },
   {
     "type":"Dragon",
@@ -1740,7 +1986,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":82
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":82,
+    "sort_id":82
   },
   {
     "type":"Dragon",
@@ -1761,7 +2010,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":83
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":83,
+    "sort_id":83
   },
   {
     "type":"Dragon",
@@ -1782,7 +2034,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":84
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":84,
+    "sort_id":84
   },
   {
     "type":"Dragon",
@@ -1803,7 +2058,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":85
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":85,
+    "sort_id":85
   },
   {
     "type":"Dragon",
@@ -1824,7 +2082,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":86
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":86,
+    "sort_id":86
   },
   {
     "type":"Dragon",
@@ -1845,7 +2106,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":87
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":87,
+    "sort_id":87
   },
   {
     "type":"Dragon",
@@ -1866,7 +2130,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":88
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":88,
+    "sort_id":88
   },
   {
     "type":"Dragon",
@@ -1887,7 +2154,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":89
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":89,
+    "sort_id":89
   },
   {
     "type":"Dragon",
@@ -1908,7 +2178,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":90
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":90,
+    "sort_id":90
   },
   {
     "type":"Dragon",
@@ -1929,7 +2202,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":91
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":91,
+    "sort_id":91
   },
   {
     "type":"Dragon",
@@ -1950,7 +2226,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":92
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":92,
+    "sort_id":92
   },
   {
     "type":"Dragon",
@@ -1971,7 +2250,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":93
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":93,
+    "sort_id":93
   },
   {
     "type":"Dragon",
@@ -1992,7 +2274,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":94
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":94,
+    "sort_id":94
   },
   {
     "type":"Dragon",
@@ -2013,7 +2298,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":95
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":95,
+    "sort_id":95
   },
   {
     "type":"Dragon",
@@ -2034,7 +2322,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":96
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":96,
+    "sort_id":96
   },
   {
     "type":"Dragon",
@@ -2055,7 +2346,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":97
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":97,
+    "sort_id":97
   },
   {
     "type":"Dragon",
@@ -2076,7 +2370,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":98
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":98,
+    "sort_id":98
   },
   {
     "type":"Dragon",
@@ -2097,7 +2394,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":99
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":99,
+    "sort_id":99
   },
   {
     "type":"Dragon",
@@ -2118,7 +2418,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":100
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":100,
+    "sort_id":100
   },
   {
     "type":"Dragon",
@@ -2139,7 +2442,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":101
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":101,
+    "sort_id":101
   },
   {
     "type":"Dragon",
@@ -2160,7 +2466,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":102
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":102,
+    "sort_id":102
   },
   {
     "type":"Dragon",
@@ -2181,7 +2490,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":103
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":103,
+    "sort_id":103
   },
   {
     "type":"Dragon",
@@ -2202,7 +2514,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":104
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":104,
+    "sort_id":104
   },
   {
     "type":"Dragon",
@@ -2223,7 +2538,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":105
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":105,
+    "sort_id":105
   },
   {
     "type":"Dragon",
@@ -2244,7 +2562,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":106
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":106,
+    "sort_id":106
   },
   {
     "type":"Dragon",
@@ -2265,7 +2586,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":107
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":107,
+    "sort_id":107
   },
   {
     "type":"Dragon",
@@ -2286,7 +2610,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":108
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":108,
+    "sort_id":108
   },
   {
     "type":"Dragon",
@@ -2307,7 +2634,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":109
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":109,
+    "sort_id":109
   },
   {
     "type":"Dragon",
@@ -2328,7 +2658,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":110
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":110,
+    "sort_id":110
   },
   {
     "type":"Dragon",
@@ -2349,7 +2682,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":111
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":111,
+    "sort_id":111
   },
   {
     "type":"Dragon",
@@ -2370,7 +2706,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":112
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":112,
+    "sort_id":112
   },
   {
     "type":"Dragon",
@@ -2391,7 +2730,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":113
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":113,
+    "sort_id":113
   },
   {
     "type":"Dragon",
@@ -2412,7 +2754,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":114
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":114,
+    "sort_id":114
   },
   {
     "type":"Dragon",
@@ -2433,7 +2778,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":115
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":115,
+    "sort_id":115
   },
   {
     "type":"Dragon",
@@ -2454,7 +2802,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":116
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":116,
+    "sort_id":116
   },
   {
     "type":"Dragon",
@@ -2475,13 +2826,16 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":117
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":117,
+    "sort_id":117
   },
   {
     "type":"Dragon",
     "number":119,
     "name":"Chameleon Coatl",
-    "ability":"Gain [VP-2] for each *medium* dragon on your player mat (max [VP-8]).",
+    "ability":"Gain + [VP-3] for each *medium* dragon on your player mat (max [VP-12]).",
     "abilityType":"EndGame",
     "VP":6.0,
     "size":"Medium",
@@ -2496,7 +2850,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":118
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":118,
+    "sort_id":118
   },
   {
     "type":"Dragon",
@@ -2517,7 +2874,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":119
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":119,
+    "sort_id":119
   },
   {
     "type":"Dragon",
@@ -2538,7 +2898,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":120
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":120,
+    "sort_id":120
   },
   {
     "type":"Dragon",
@@ -2559,7 +2922,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":121
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":121,
+    "sort_id":121
   },
   {
     "type":"Dragon",
@@ -2580,13 +2946,16 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":122
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":122,
+    "sort_id":122
   },
   {
     "type":"Dragon",
     "number":124,
     "name":"Mosaic Guardian",
-    "ability":"Gain [VP-2] for each *large* dragon on your player mat (max [VP-8]).",
+    "ability":"Gain [VP-3] for each *large* dragon on your player mat (max [VP-12]).",
     "abilityType":"EndGame",
     "VP":6.0,
     "size":"Large",
@@ -2601,7 +2970,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":123
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":123,
+    "sort_id":123
   },
   {
     "type":"Dragon",
@@ -2622,7 +2994,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":124
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":124,
+    "sort_id":124
   },
   {
     "type":"Dragon",
@@ -2643,7 +3018,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":125
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":125,
+    "sort_id":125
   },
   {
     "type":"Dragon",
@@ -2664,7 +3042,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":126
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":126,
+    "sort_id":126
   },
   {
     "type":"Dragon",
@@ -2685,13 +3066,16 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":127
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":127,
+    "sort_id":127
   },
   {
     "type":"Dragon",
     "number":129,
     "name":"Red-Crested Gryphdragon",
-    "ability":"Gain [VP-3] for each PLAYFUL dragon in an orthogonally adjacent space.",
+    "ability":"Gain +[VP-3] for each PLAYFUL dragon in an orthogonally adjacent space.",
     "abilityType":"EndGame",
     "VP":6.0,
     "size":"Medium",
@@ -2706,7 +3090,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":128
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":128,
+    "sort_id":128
   },
   {
     "type":"Dragon",
@@ -2727,13 +3114,16 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":129
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":129,
+    "sort_id":129
   },
   {
     "type":"Dragon",
     "number":131,
     "name":"Titanic Coatl",
-    "ability":"Gain [VP-4] for each *set* of dragon sizes on your player mat (1 *set*=1 of each: *hatchling*, *small*, *medium*, *large*).",
+    "ability":"Gain [VP-6] for each *set* of dragon sizes on your player mat (1 *set*=1 of each: *hatchling*, *small*, *medium*, *large*).",
     "abilityType":"EndGame",
     "VP":7.0,
     "size":"Large",
@@ -2748,13 +3138,16 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":130
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":130,
+    "sort_id":130
   },
   {
     "type":"Dragon",
     "number":132,
     "name":"Lilliputian Fae",
-    "ability":"Gain [VP-2] for each small dragon on your player mat (max [VP-8]).",
+    "ability":"Gain +[VP-3] for each small dragon on your player mat (max [VP-12]).",
     "abilityType":"EndGame",
     "VP":6.0,
     "size":"Small",
@@ -2769,7 +3162,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":131
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":131,
+    "sort_id":131
   },
   {
     "type":"Dragon",
@@ -2790,13 +3186,16 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":132
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":132,
+    "sort_id":132
   },
   {
     "type":"Dragon",
     "number":134,
     "name":"Customary Grazer",
-    "ability":"Gain [VP-3] for each *hatchling* on your player mat (max [VP-9]).",
+    "ability":"Gain +[VP-4] for each *hatchling* on your player mat (max [VP-12]).",
     "abilityType":"EndGame",
     "VP":6.0,
     "size":"Large",
@@ -2811,7 +3210,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":133
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":133,
+    "sort_id":133
   },
   {
     "type":"Dragon",
@@ -2832,7 +3234,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":134
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":134,
+    "sort_id":134
   },
   {
     "type":"Dragon",
@@ -2853,7 +3258,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":135
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":135,
+    "sort_id":135
   },
   {
     "type":"Dragon",
@@ -2874,7 +3282,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":136
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":136,
+    "sort_id":136
   },
   {
     "type":"Dragon",
@@ -2895,7 +3306,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":137
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":137,
+    "sort_id":137
   },
   {
     "type":"Dragon",
@@ -2916,7 +3330,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":138
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":138,
+    "sort_id":138
   },
   {
     "type":"Dragon",
@@ -2937,7 +3354,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":139
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":139,
+    "sort_id":139
   },
   {
     "type":"Dragon",
@@ -2958,7 +3378,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":140
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":140,
+    "sort_id":140
   },
   {
     "type":"Dragon",
@@ -2979,7 +3402,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":141
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":141,
+    "sort_id":141
   },
   {
     "type":"Dragon",
@@ -3000,7 +3426,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":142
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":142,
+    "sort_id":142
   },
   {
     "type":"Dragon",
@@ -3021,7 +3450,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":143
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":143,
+    "sort_id":143
   },
   {
     "type":"Dragon",
@@ -3042,7 +3474,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":144
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":144,
+    "sort_id":144
   },
   {
     "type":"Dragon",
@@ -3063,7 +3498,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":145
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":145,
+    "sort_id":145
   },
   {
     "type":"Dragon",
@@ -3084,7 +3522,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":146
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":146,
+    "sort_id":146
   },
   {
     "type":"Dragon",
@@ -3105,7 +3546,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":147
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":147,
+    "sort_id":147
   },
   {
     "type":"Dragon",
@@ -3126,7 +3570,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":148
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":148,
+    "sort_id":148
   },
   {
     "type":"Dragon",
@@ -3147,7 +3594,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":149
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":149,
+    "sort_id":149
   },
   {
     "type":"Dragon",
@@ -3168,7 +3618,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":150
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":150,
+    "sort_id":150
   },
   {
     "type":"Dragon",
@@ -3189,7 +3642,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":151
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":151,
+    "sort_id":151
   },
   {
     "type":"Dragon",
@@ -3210,7 +3666,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":152
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":152,
+    "sort_id":152
   },
   {
     "type":"Dragon",
@@ -3231,7 +3690,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":153
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":153,
+    "sort_id":153
   },
   {
     "type":"Dragon",
@@ -3252,7 +3714,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":154
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":154,
+    "sort_id":154
   },
   {
     "type":"Dragon",
@@ -3273,7 +3738,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":155
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":155,
+    "sort_id":155
   },
   {
     "type":"Dragon",
@@ -3294,7 +3762,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":156
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":156,
+    "sort_id":156
   },
   {
     "type":"Dragon",
@@ -3315,7 +3786,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":157
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":157,
+    "sort_id":157
   },
   {
     "type":"Dragon",
@@ -3336,7 +3810,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":158
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":158,
+    "sort_id":158
   },
   {
     "type":"Dragon",
@@ -3357,7 +3834,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":159
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":159,
+    "sort_id":159
   },
   {
     "type":"Dragon",
@@ -3378,7 +3858,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":160
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":160,
+    "sort_id":160
   },
   {
     "type":"Dragon",
@@ -3399,7 +3882,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":161
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":161,
+    "sort_id":161
   },
   {
     "type":"Dragon",
@@ -3420,7 +3906,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":162
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":162,
+    "sort_id":162
   },
   {
     "type":"Dragon",
@@ -3441,7 +3930,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":163
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":163,
+    "sort_id":163
   },
   {
     "type":"Dragon",
@@ -3462,7 +3954,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":164
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":164,
+    "sort_id":164
   },
   {
     "type":"Dragon",
@@ -3483,7 +3978,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":165
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":165,
+    "sort_id":165
   },
   {
     "type":"Dragon",
@@ -3504,7 +4002,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":166
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":166,
+    "sort_id":166
   },
   {
     "type":"Dragon",
@@ -3525,7 +4026,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":167
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":167,
+    "sort_id":167
   },
   {
     "type":"Dragon",
@@ -3546,7 +4050,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":168
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":168,
+    "sort_id":168
   },
   {
     "type":"Dragon",
@@ -3567,7 +4074,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":169
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":169,
+    "sort_id":169
   },
   {
     "type":"Dragon",
@@ -3588,7 +4098,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":170
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":170,
+    "sort_id":170
   },
   {
     "type":"Dragon",
@@ -3609,7 +4122,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":171
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":171,
+    "sort_id":171
   },
   {
     "type":"Dragon",
@@ -3630,7 +4146,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":172
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":172,
+    "sort_id":172
   },
   {
     "type":"Dragon",
@@ -3651,7 +4170,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":173
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":173,
+    "sort_id":173
   },
   {
     "type":"Dragon",
@@ -3672,7 +4194,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":174
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":174,
+    "sort_id":174
   },
   {
     "type":"Dragon",
@@ -3693,7 +4218,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":175
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":175,
+    "sort_id":175
   },
   {
     "type":"Dragon",
@@ -3714,7 +4242,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":176
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":176,
+    "sort_id":176
   },
   {
     "type":"Dragon",
@@ -3735,7 +4266,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":177
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":177,
+    "sort_id":177
   },
   {
     "type":"Dragon",
@@ -3756,7 +4290,10 @@
     "Amethyst Abyss":"x",
     "Egg":null,
     "Milk":null,
-    "id":178
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":178,
+    "sort_id":178
   },
   {
     "type":"Dragon",
@@ -3777,7 +4314,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":179
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":179,
+    "sort_id":179
   },
   {
     "type":"Dragon",
@@ -3798,7 +4338,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":180
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":180,
+    "sort_id":180
   },
   {
     "type":"Dragon",
@@ -3819,7 +4362,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":181
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":181,
+    "sort_id":181
   },
   {
     "type":"Dragon",
@@ -3840,7 +4386,1930 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":182
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":182,
+    "sort_id":182
+  },
+  {
+    "type":"Dragon",
+    "number":184,
+    "name":"Curious Feline Dragonette",
+    "ability":"[Milk][Meat]<br>Cache [AnyResource][AnyResource] from the general supply onto any dragon.",
+    "abilityType":"Adventurer",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Playful",
+    "Meat":2.0,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":1.0,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":258,
+    "sort_id":183
+  },
+  {
+    "type":"Dragon",
+    "number":185,
+    "name":"Angelic Ridgedragon",
+    "ability":"[Meat][DragonCard]<br>Gain [Crystal][Milk].",
+    "abilityType":"Adventurer",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":1.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":259,
+    "sort_id":184
+  },
+  {
+    "type":"Dragon",
+    "number":186,
+    "name":"Pugnacious Amphiptere",
+    "ability":"[DragonCard]<br>Gain [DragonCard]. You may tuck it here or under an orthogonally adjacent dragon.",
+    "abilityType":"WhenPlayed",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Aggressive",
+    "Meat":1.0,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":260,
+    "sort_id":185
+  },
+  {
+    "type":"Dragon",
+    "number":187,
+    "name":"Sagacious Spitter",
+    "ability":"[Gold]<br>Gain [DragonGuild].",
+    "abilityType":"WhenPlayed",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Helpful",
+    "Meat":null,
+    "Gold":1.0,
+    "Crystal":1.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":261,
+    "sort_id":186
+  },
+  {
+    "type":"Dragon",
+    "number":188,
+    "name":"Speckled Manta",
+    "ability":"[Egg][Milk]<br>Gain [Meat][Gold].",
+    "abilityType":"Adventurer",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Playful",
+    "Meat":null,
+    "Gold":1.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":262,
+    "sort_id":187
+  },
+  {
+    "type":"Dragon",
+    "number":189,
+    "name":"Ambidextrous Falsekoi",
+    "ability":"[Milk][CaveCard]<br>Lay [Egg][Egg] here.",
+    "abilityType":"Adventurer",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":4.0,
+    "personality":"Helpful",
+    "Meat":1.0,
+    "Gold":null,
+    "Crystal":1.0,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":263,
+    "sort_id":188
+  },
+  {
+    "type":"Dragon",
+    "number":190,
+    "name":"Jocular Wyvern",
+    "ability":"[CaveCard][DragonCard]<br>Lay [Egg][Egg] anywhere in this cave.",
+    "abilityType":"Adventurer",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":3.0,
+    "personality":"Playful",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":1.0,
+    "Milk":1.0,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":264,
+    "sort_id":189
+  },
+  {
+    "type":"Dragon",
+    "number":191,
+    "name":"Agile Gryphdragon",
+    "ability":"[Milk][CaveCard]<br>Train any *fledgling* on your player mat up to 2x for free.",
+    "abilityType":"Adventurer",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":3.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":1.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":1.0,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":265,
+    "sort_id":190
+  },
+  {
+    "type":"Dragon",
+    "number":192,
+    "name":"Northern Pane Dragon",
+    "ability":"[CaveCard][DragonCard]<br>Draw [DragonCard][CaveCard] from the deck.",
+    "abilityType":"Adventurer",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":3.0,
+    "personality":"Helpful",
+    "Meat":1.0,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":266,
+    "sort_id":191
+  },
+  {
+    "type":"Dragon",
+    "number":193,
+    "name":"Gaudy Serpent",
+    "ability":"[DragonCard][Gold]<br>Tuck [DragonCard] from the deck under any dragon. If you tuck it here, gain [Gold].",
+    "abilityType":"Adventurer",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":2.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":1.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":267,
+    "sort_id":192
+  },
+  {
+    "type":"Dragon",
+    "number":194,
+    "name":"Verdant Wisp",
+    "ability":"[Gold][DragonCard]<br>Discard [DragonCard] from your hand to gain [DragonGuild][DragonGuild].",
+    "abilityType":"Adventurer",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":2.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":2.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":1.0,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":268,
+    "sort_id":193
+  },
+  {
+    "type":"Dragon",
+    "number":195,
+    "name":"Bullish Gryphdragon",
+    "ability":"[DragonCard]<br>Draw [DragonCard][DragonCard] from the deck. You may tuck 1 or both here.",
+    "abilityType":"Adventurer",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":2.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":269,
+    "sort_id":194
+  },
+  {
+    "type":"Dragon",
+    "number":196,
+    "name":"Northwestern Auric Dragon",
+    "ability":"[Gold][Meat]<br>Gain [Coin].",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Playful",
+    "Meat":1.0,
+    "Gold":1.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":270,
+    "sort_id":195
+  },
+  {
+    "type":"Dragon",
+    "number":197,
+    "name":"Acrobatic Horndragon",
+    "ability":"[CaveCard][DragonCard][Gold]<br>Either lay [Egg][Egg][Egg] or excavate 1 space for free with [CaveCard] from your hand.",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":1.0,
+    "Milk":1.0,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":271,
+    "sort_id":196
+  },
+  {
+    "type":"Dragon",
+    "number":198,
+    "name":"Galvanic Wyrm",
+    "ability":"[Crystal][Meat]<br>Play [DragonCard] from your hand. Pay its printed costs.",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":2.0,
+    "personality":"Aggressive",
+    "Meat":1.0,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":272,
+    "sort_id":197
+  },
+  {
+    "type":"Dragon",
+    "number":199,
+    "name":"Bitter Darkscale Wyrm",
+    "ability":"[DragonCard][Gold]<br>Gain [DragonCard][DragonCard][DragonCard]. Tuck up to 2 of them under any dragon.",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":1.0,
+    "Crystal":1.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":273,
+    "sort_id":198
+  },
+  {
+    "type":"Dragon",
+    "number":200,
+    "name":"Directing Violet Lung Dragon",
+    "ability":"[Meat]<br>Gain [AnyResource][AnyResource]. Cache up to 2 of them onto any dragon.",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Playful",
+    "Meat":1.0,
+    "Gold":2.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":274,
+    "sort_id":199
+  },
+  {
+    "type":"Dragon",
+    "number":201,
+    "name":"Ingenuous Spotted Dragonette",
+    "ability":"[Meat][Gold]<br>Gain [AnyResource] then cache up to 3 [AnyResource] from your supply onto any dragon.",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":1.0,
+    "Milk":1.0,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":275,
+    "sort_id":200
+  },
+  {
+    "type":"Dragon",
+    "number":202,
+    "name":"Fawlcora",
+    "ability":"[Gold][DragonCard]<br>Gain [DragonGuild][DragonGuild].",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Helpful",
+    "Meat":null,
+    "Gold":1.0,
+    "Crystal":1.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":276,
+    "sort_id":201
+  },
+  {
+    "type":"Dragon",
+    "number":203,
+    "name":"Enlightened Feydragon",
+    "ability":"[Crystal][CaveCard]<br>Pay [AnyResource] to gain [DragonGuild][DragonGuild][DragonGuild].",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Helpful",
+    "Meat":null,
+    "Gold":1.0,
+    "Crystal":null,
+    "Coin":1.0,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":277,
+    "sort_id":202
+  },
+  {
+    "type":"Dragon",
+    "number":204,
+    "name":"Radiant Boreal Dragonette",
+    "ability":"[Crystal][Milk]<br>Gain [Meat][Milk][DragonCard]. You may cache\/tuck any or all of them here.",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Helpful",
+    "Meat":1.0,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":278,
+    "sort_id":203
+  },
+  {
+    "type":"Dragon",
+    "number":205,
+    "name":"Capable Dragonette",
+    "ability":"[Coin]<br>Lay [Egg][Egg][Egg] here.",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":3.0,
+    "personality":"Helpful",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":2.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":279,
+    "sort_id":204
+  },
+  {
+    "type":"Dragon",
+    "number":206,
+    "name":"Adroit Salientian Dragon",
+    "ability":"[Meat][Milk]<br>Lay [Egg][Egg].",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":4.0,
+    "personality":"Shy",
+    "Meat":1.0,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":280,
+    "sort_id":205
+  },
+  {
+    "type":"Dragon",
+    "number":207,
+    "name":"Naryoon Marsh Dragon",
+    "ability":"[Egg][Crystal]<br>Lay [Egg] on each dragon in this column or each dragon in this row.",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":2.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":2.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":281,
+    "sort_id":206
+  },
+  {
+    "type":"Dragon",
+    "number":208,
+    "name":"Zestful Feydragon",
+    "ability":"[Crystal][Gold][Milk]<br>Play [DragonCard] from your hand for free.",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":3.0,
+    "personality":"Playful",
+    "Meat":null,
+    "Gold":1.0,
+    "Crystal":null,
+    "Coin":1.0,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":282,
+    "sort_id":207
+  },
+  {
+    "type":"Dragon",
+    "number":209,
+    "name":"Petite Crimson Gryphdragon",
+    "ability":"[Meat][Milk]<br>Gain +[VP-2] for each resource cached here (max [VP-12]).",
+    "abilityType":"EndGame",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":2.0,
+    "personality":"Helpful",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":1.0,
+    "Milk":2.0,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":283,
+    "sort_id":208
+  },
+  {
+    "type":"Dragon",
+    "number":210,
+    "name":"Iridescent Lindworm",
+    "ability":"[DragonCard][CaveCard][Gold]<br>Gain +[VP-2] for each tucked card here (max [VP-12]).",
+    "abilityType":"EndGame",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":1.0,
+    "Milk":1.0,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":284,
+    "sort_id":209
+  },
+  {
+    "type":"Dragon",
+    "number":211,
+    "name":"Amaranth Feathered Fae",
+    "ability":"[Crystal][Crystal]<br>Gain +[VP-1] for each [Egg] in this dragon's column.",
+    "abilityType":"EndGame",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":2.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":1.0,
+    "Milk":1.0,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":285,
+    "sort_id":210
+  },
+  {
+    "type":"Dragon",
+    "number":212,
+    "name":"Kaleidoscopic Dragonette",
+    "ability":"[Milk][CaveCard][Milk]<br>Gain +[VP-1] for each [Egg] in this dragon's row.",
+    "abilityType":"EndGame",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":1.0,
+    "Milk":1.0,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":286,
+    "sort_id":211
+  },
+  {
+    "type":"Dragon",
+    "number":213,
+    "name":"Hovering Polychromatic Stripling",
+    "ability":"[Meat][Crystal][DragonCard][Coin]<br>Gain +[VP-3] for each dragon on your player mat that costs at least 1 [Meat] (max [VP-15]).",
+    "abilityType":"EndGame",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":287,
+    "sort_id":212
+  },
+  {
+    "type":"Dragon",
+    "number":214,
+    "name":"Barb-Scaled Beetlesmasher",
+    "ability":"[Meat][DragonCard][CaveCard]<br>Gain +[VP-2] for each AGGRESSIVE dragon on your player mat.",
+    "abilityType":"EndGame",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":3.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":2.0,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":288,
+    "sort_id":213
+  },
+  {
+    "type":"Dragon",
+    "number":215,
+    "name":"Guileless Dragonette",
+    "ability":"[CaveCard][DragonCard][CaveCard]<br>Gain +[VP-2] for each HELPFUL dragon on your player mat.",
+    "abilityType":"EndGame",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":3.0,
+    "personality":"Helpful",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":2.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":289,
+    "sort_id":214
+  },
+  {
+    "type":"Dragon",
+    "number":216,
+    "name":"Jejune Firedragon",
+    "ability":"[DragonCard][Gold]<br>Gain +[VP-2] for each PLAYFUL dragon on your player mat.",
+    "abilityType":"EndGame",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":2.0,
+    "personality":"Playful",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":2.0,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":290,
+    "sort_id":215
+  },
+  {
+    "type":"Dragon",
+    "number":217,
+    "name":"Pygmy Feydragon",
+    "ability":"[Crystal][CaveCard][Crystal][CaveCard]<br>Gain +[VP-2] for each SHY dragon on your player mat.",
+    "abilityType":"EndGame",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":291,
+    "sort_id":216
+  },
+  {
+    "type":"Dragon",
+    "number":218,
+    "name":"Precocious Amphiptere",
+    "ability":"[CaveCard][Crystal][Milk][Egg]<br>Gain +[VP-3] for each dragon on your player mat that costs an [Egg] (max [VP-15]).",
+    "abilityType":"EndGame",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":292,
+    "sort_id":217
+  },
+  {
+    "type":"Dragon",
+    "number":219,
+    "name":"Blooming Sharpclaw",
+    "ability":"[Milk][Egg][DragonCard][Coin]<br>Gain +[VP-4] for each dragon on your player mat that costs at least 1 [Milk] (max [VP-16]).",
+    "abilityType":"EndGame",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":293,
+    "sort_id":218
+  },
+  {
+    "type":"Dragon",
+    "number":220,
+    "name":"Prime Flighty Ridgedragon",
+    "ability":"[DragonCard][Milk][CaveCard]<br>Gain +[VP-3] for each *fledgling* on your player mat.",
+    "abilityType":"EndGame",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Playful",
+    "Meat":1.0,
+    "Gold":null,
+    "Crystal":1.0,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":294,
+    "sort_id":219
+  },
+  {
+    "type":"Dragon",
+    "number":221,
+    "name":"Effervescent Gryphdragon",
+    "ability":"[DragonCard][CaveCard][Gold][Crystal]<br>Gain +[VP-3] for each adult dragon (small, medium, or large) in an orthogonally adjacent space.",
+    "abilityType":"EndGame",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Playful",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":295,
+    "sort_id":220
+  },
+  {
+    "type":"Dragon",
+    "number":222,
+    "name":"Punk Dragonette",
+    "ability":"[Crystal][CaveCard][DragonCard][Coin]<br>Gain +[VP-3] for each dragon on your player mat that costs at least 1 [Crystal] (max [VP-15]).",
+    "abilityType":"EndGame",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Playful",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":296,
+    "sort_id":221
+  },
+  {
+    "type":"Dragon",
+    "number":223,
+    "name":"Leopard Cobrette",
+    "ability":"[Gold][DragonCard][DragonCard][Coin]<br>Gain +[VP-3] for each dragon on your player mat that costs at least 1 [Gold] (max [VP-15]).",
+    "abilityType":"EndGame",
+    "VP":1.0,
+    "size":"Fledgling",
+    "capacity":1.0,
+    "personality":"Helpful",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":297,
+    "sort_id":222
+  },
+  {
+    "type":"Dragon",
+    "number":224,
+    "name":"Voracious Omnigobbler",
+    "ability":"Cache [Meat] from your supply here. Any time you cache [Meat] here, gain [DragonCard]. When the 3rd [Meat] is cached, cache 2 [AnyResource] from the general supply onto any dragon.",
+    "abilityType":"Adventurer",
+    "VP":7.0,
+    "size":"Hatchling",
+    "capacity":1.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":1.0,
+    "Milk":3.0,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":298,
+    "sort_id":223
+  },
+  {
+    "type":"Dragon",
+    "number":225,
+    "name":"Famished Fae Dragonette",
+    "ability":"Cache [Meat] from your supply here. Any time you cache [Meat] here, train any *fledgling* 1x for free. When the 3rd [Meat] is cached, also gain [Coin].",
+    "abilityType":"Adventurer",
+    "VP":3.0,
+    "size":"Hatchling",
+    "capacity":1.0,
+    "personality":"Playful",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":1.0,
+    "Milk":2.0,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":299,
+    "sort_id":224
+  },
+  {
+    "type":"Dragon",
+    "number":226,
+    "name":"Euphonious Fae",
+    "ability":"Tuck [DragonCard] from your hand here. Any time you tuck [DragonCard] here, gain [Milk] or [Meat]. When the 3rd [DragonCard] is tucked, also tuck 2 [Coin] from the deck under any dragon.",
+    "abilityType":"Adventurer",
+    "VP":2.0,
+    "size":"Hatchling",
+    "capacity":1.0,
+    "personality":"Helpful",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":1.0,
+    "Milk":1.0,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":300,
+    "sort_id":225
+  },
+  {
+    "type":"Dragon",
+    "number":227,
+    "name":"Glassy-Eyed Shrubmuncher",
+    "ability":"Cache [Milk] from your supply here. Any time you cache [Milk] here, train any *fledgling* 1x for free. When the 3rd [Milk] is cached, also gain [Coin].",
+    "abilityType":"Adventurer",
+    "VP":3.0,
+    "size":"Hatchling",
+    "capacity":1.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":1.0,
+    "Milk":2.0,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":301,
+    "sort_id":226
+  },
+  {
+    "type":"Dragon",
+    "number":228,
+    "name":"Clangorous Feydragon",
+    "ability":"Tuck [DragonCard] from your hand here. Any time you tuck [DragonCard] here, train any *fledgling* 1x for free. When the 3rd [DragonCard] is tucked, also gain [Coin].",
+    "abilityType":"Adventurer",
+    "VP":3.0,
+    "size":"Hatchling",
+    "capacity":1.0,
+    "personality":"Helpful",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":1.0,
+    "Milk":3.0,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":302,
+    "sort_id":227
+  },
+  {
+    "type":"Dragon",
+    "number":229,
+    "name":"Charitable False Licheneater",
+    "ability":"Ignore this dragon's cost if it will be the 3rd or 4th dragon in its cave. Gain [Meat][Gold][Crystal]. All opponents gain 1 of their choice.",
+    "abilityType":"WhenPlayed",
+    "VP":3.0,
+    "size":"Small",
+    "capacity":1.0,
+    "personality":"Helpful",
+    "Meat":2.0,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":"x",
+    "expansion":"academy",
+    "id":303,
+    "sort_id":228
+  },
+  {
+    "type":"Dragon",
+    "number":230,
+    "name":"Imperious Wyvern",
+    "ability":"Discard [CaveCard] from your hand to gain its [WhenPlayed]benefit.",
+    "abilityType":"OncePerRound",
+    "VP":2.0,
+    "size":"Small",
+    "capacity":2.0,
+    "personality":"Helpful",
+    "Meat":1.0,
+    "Gold":1.0,
+    "Crystal":1.0,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":304,
+    "sort_id":229
+  },
+  {
+    "type":"Dragon",
+    "number":231,
+    "name":"Crimson Tufted Lung Dragon",
+    "ability":"Fully train any *fledgling*. Do not pay any costs.",
+    "abilityType":"WhenPlayed",
+    "VP":5.0,
+    "size":"Small",
+    "capacity":1.0,
+    "personality":"Shy",
+    "Meat":2.0,
+    "Gold":1.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":305,
+    "sort_id":230
+  },
+  {
+    "type":"Dragon",
+    "number":232,
+    "name":"Wandering Protean Dragon",
+    "ability":"Train all orthogonally adjacent *fledgling*s 1x for free.",
+    "abilityType":"WhenPlayed",
+    "VP":5.0,
+    "size":"Small",
+    "capacity":2.0,
+    "personality":"Playful",
+    "Meat":null,
+    "Gold":2.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":306,
+    "sort_id":231
+  },
+  {
+    "type":"Dragon",
+    "number":233,
+    "name":"Gilded Whiskered Serpent",
+    "ability":"Ignore this dragon's cost if it is played orthogonally adjacent to a *fledgling*. Train any *fledgling* up to 2x for free.",
+    "abilityType":"WhenPlayed",
+    "VP":1.0,
+    "size":"Small",
+    "capacity":3.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":1.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":"x",
+    "expansion":"academy",
+    "id":307,
+    "sort_id":232
+  },
+  {
+    "type":"Dragon",
+    "number":234,
+    "name":"Relentless Spine Drake",
+    "ability":"Pay [CaveCard][CaveCard] to play a dragon from your hand or the display for free.",
+    "abilityType":"WhenPlayed",
+    "VP":2.0,
+    "size":"Small",
+    "capacity":2.0,
+    "personality":"Playful",
+    "Meat":null,
+    "Gold":2.0,
+    "Crystal":1.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":308,
+    "sort_id":233
+  },
+  {
+    "type":"Dragon",
+    "number":235,
+    "name":"Diminutive Pegasus Dragon",
+    "ability":"Gain +[VP-8] if there are at least 2 *hatchlings*D312 on your player mat.",
+    "abilityType":"EndGame",
+    "VP":5.0,
+    "size":"Small",
+    "capacity":3.0,
+    "personality":"Playful",
+    "Meat":1.0,
+    "Gold":1.0,
+    "Crystal":1.0,
+    "Coin":1.0,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":309,
+    "sort_id":234
+  },
+  {
+    "type":"Dragon",
+    "number":236,
+    "name":"Obstinate Plumed Coatl",
+    "ability":"Ignore this dragon's cost if you have played at least 2 hatchlings. Gain [Milk][Milk]. All opponents gain [Milk].",
+    "abilityType":"WhenPlayed",
+    "VP":4.0,
+    "size":"Small",
+    "capacity":2.0,
+    "personality":"Helpful",
+    "Meat":1.0,
+    "Gold":null,
+    "Crystal":1.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":"x",
+    "expansion":"academy",
+    "id":310,
+    "sort_id":235
+  },
+  {
+    "type":"Dragon",
+    "number":237,
+    "name":"Merciful Sea Serpent",
+    "ability":"Either train any *fledgling* 1x for free, or lay 1 [Egg] for each fully trained *fledgling*.",
+    "abilityType":"OncePerRound",
+    "VP":5.0,
+    "size":"Small",
+    "capacity":1.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":3.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":311,
+    "sort_id":236
+  },
+  {
+    "type":"Dragon",
+    "number":238,
+    "name":"Andean Coatl",
+    "ability":"Ignore this dragon's cost if it will be the 3rd or 4th dragon in its cave. Activate the [Adventurer] abilities on all orthogonally adjacent dragons.",
+    "abilityType":"WhenPlayed",
+    "VP":1.0,
+    "size":"Small",
+    "capacity":3.0,
+    "personality":"Playful",
+    "Meat":1.0,
+    "Gold":1.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":"x",
+    "expansion":"academy",
+    "id":312,
+    "sort_id":237
+  },
+  {
+    "type":"Dragon",
+    "number":239,
+    "name":"Southern Cavalier Wyvern",
+    "ability":"Cache up to 2 [AnyResource] from the general supply onto any orthogonally adjacent dragon.",
+    "abilityType":"OncePerRound",
+    "VP":0.0,
+    "size":"Small",
+    "capacity":2.0,
+    "personality":"Playful",
+    "Meat":2.0,
+    "Gold":null,
+    "Crystal":1.0,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":313,
+    "sort_id":238
+  },
+  {
+    "type":"Dragon",
+    "number":240,
+    "name":"Phlegmatic Firedragon",
+    "ability":"Ignore this dragon's cost if you have played at least 2 *fledglings*. Train any *fledgling* 1x for free.",
+    "abilityType":"Adventurer",
+    "VP":1.0,
+    "size":"Small",
+    "capacity":1.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":1.0,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":"x",
+    "expansion":"academy",
+    "id":314,
+    "sort_id":239
+  },
+  {
+    "type":"Dragon",
+    "number":241,
+    "name":"Ancient Kasei Wyvern",
+    "ability":"Gain [DragonGuild] for each fully trained *fledgling* on your player mat.",
+    "abilityType":"OncePerRound",
+    "VP":2.0,
+    "size":"Medium",
+    "capacity":2.0,
+    "personality":"Playful",
+    "Meat":1.0,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":1.0,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":315,
+    "sort_id":240
+  },
+  {
+    "type":"Dragon",
+    "number":242,
+    "name":"Pliant Floral Rex",
+    "ability":"Pay [AnyResource] to train any *fledgling* 1x for free, then gain the item covered by the training token.",
+    "abilityType":"Adventurer",
+    "VP":3.0,
+    "size":"Medium",
+    "capacity":3.0,
+    "personality":"Shy",
+    "Meat":1.0,
+    "Gold":null,
+    "Crystal":2.0,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":316,
+    "sort_id":241
+  },
+  {
+    "type":"Dragon",
+    "number":243,
+    "name":"Eastern Lupine Serpent",
+    "ability":"Activate any 2 [OncePerRound] abilities on dragons on your player mat.",
+    "abilityType":"WhenPlayed",
+    "VP":3.0,
+    "size":"Medium",
+    "capacity":1.0,
+    "personality":"Aggressive",
+    "Meat":2.0,
+    "Gold":null,
+    "Crystal":1.0,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":317,
+    "sort_id":242
+  },
+  {
+    "type":"Dragon",
+    "number":244,
+    "name":"Rancorous Lindworm",
+    "ability":"Draw 3 [DragonCard] from the deck. You may tuck any or all of them here.",
+    "abilityType":"Adventurer",
+    "VP":5.0,
+    "size":"Medium",
+    "capacity":2.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":1.0,
+    "Crystal":2.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":318,
+    "sort_id":243
+  },
+  {
+    "type":"Dragon",
+    "number":245,
+    "name":"Merciful Anteldragon",
+    "ability":"Reveal [DragonCard] from the deck. If it is a *fledgling*, tuck it here. Otherwise, discard it and lay [Egg] here.",
+    "abilityType":"Adventurer",
+    "VP":3.0,
+    "size":"Medium",
+    "capacity":4.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":2.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":319,
+    "sort_id":244
+  },
+  {
+    "type":"Dragon",
+    "number":246,
+    "name":"Decimating Drakeeater",
+    "ability":"Pay [AnyResource][AnyResource] to draw 5 [DragonCard] from the deck. Keep 1 and tuck the other 4 here.",
+    "abilityType":"OncePerRound",
+    "VP":0.0,
+    "size":"Medium",
+    "capacity":2.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":1.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":320,
+    "sort_id":245
+  },
+  {
+    "type":"Dragon",
+    "number":247,
+    "name":"Lively Tusked Lung Dragon",
+    "ability":"Draw 3 [DragonCard] from the deck. Play 1 for free and discard the other 2.",
+    "abilityType":"WhenPlayed",
+    "VP":6.0,
+    "size":"Medium",
+    "capacity":1.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":1.0,
+    "Crystal":2.0,
+    "Coin":1.0,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":321,
+    "sort_id":246
+  },
+  {
+    "type":"Dragon",
+    "number":248,
+    "name":"Vivacious Amphiptere",
+    "ability":"Pay [Coin] to draw 3 [CaveCard] from the deck. Play 1 for free and keep the other 2.",
+    "abilityType":"WhenPlayed",
+    "VP":6.0,
+    "size":"Medium",
+    "capacity":2.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":3.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":322,
+    "sort_id":247
+  },
+  {
+    "type":"Dragon",
+    "number":249,
+    "name":"Quarrelsome Firevern",
+    "ability":"Ignore this dragon's cost if you have played at least 2 other AGGRESSIVE dragons. Draw [DragonCard] from the deck for each AGGRESSIVE dragon in this cave. You may tuck up to 2 of them here.",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Medium",
+    "capacity":3.0,
+    "personality":"Aggressive",
+    "Meat":1.0,
+    "Gold":2.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":"x",
+    "expansion":"academy",
+    "id":323,
+    "sort_id":248
+  },
+  {
+    "type":"Dragon",
+    "number":250,
+    "name":"Archaic Striated Serpent",
+    "ability":"Gain +[VP-1] for each [FledglingArrow] on all of your *fledgling*s.",
+    "abilityType":"EndGame",
+    "VP":5.0,
+    "size":"Medium",
+    "capacity":1.0,
+    "personality":"Helpful",
+    "Meat":1.0,
+    "Gold":1.0,
+    "Crystal":1.0,
+    "Coin":1.0,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":324,
+    "sort_id":249
+  },
+  {
+    "type":"Dragon",
+    "number":251,
+    "name":"Possessive Pseudodrake",
+    "ability":"Tuck 1 [DragonCard] from the deck here for each *fledgling* on your player mat.",
+    "abilityType":"OncePerRound",
+    "VP":4.0,
+    "size":"Medium",
+    "capacity":2.0,
+    "personality":"Helpful",
+    "Meat":null,
+    "Gold":1.0,
+    "Crystal":2.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":325,
+    "sort_id":250
+  },
+  {
+    "type":"Dragon",
+    "number":252,
+    "name":"Solicitous Coatl",
+    "ability":"Ignore this dragon's cost if you have played at least 2 other HELPFUL dragons. Cache [AnyResource] from the general supply onto each HELPFUL dragon in this cave.",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Medium",
+    "capacity":2.0,
+    "personality":"Helpful",
+    "Meat":1.0,
+    "Gold":null,
+    "Crystal":2.0,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":"x",
+    "expansion":"academy",
+    "id":326,
+    "sort_id":251
+  },
+  {
+    "type":"Dragon",
+    "number":253,
+    "name":"Seraphic Celestialwing Coatl",
+    "ability":"Pay [AnyResource] to train any *fledgling* up to 2x for free.",
+    "abilityType":"WhenPlayed",
+    "VP":4.0,
+    "size":"Large",
+    "capacity":1.0,
+    "personality":"Helpful",
+    "Meat":1.0,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":327,
+    "sort_id":252
+  },
+  {
+    "type":"Dragon",
+    "number":254,
+    "name":"Trixie Wyvern",
+    "ability":"Fully train any *fledgling* for free. If you do, also lay [Egg][Egg].",
+    "abilityType":"OncePerRound",
+    "VP":0.0,
+    "size":"Large",
+    "capacity":2.0,
+    "personality":"Playful",
+    "Meat":3.0,
+    "Gold":1.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":328,
+    "sort_id":253
+  },
+  {
+    "type":"Dragon",
+    "number":255,
+    "name":"Serene Anteldragon",
+    "ability":"Lay [Egg] on each *fledgling* on your player mat.",
+    "abilityType":"OncePerRound",
+    "VP":3.0,
+    "size":"Large",
+    "capacity":2.0,
+    "personality":"Shy",
+    "Meat":1.0,
+    "Gold":1.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":"x",
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":329,
+    "sort_id":254
+  },
+  {
+    "type":"Dragon",
+    "number":256,
+    "name":"Cyclopean Basilisk",
+    "ability":"Tuck up to 2 [DragonCard] from the deck under any orthogonally adjacent dragon.",
+    "abilityType":"OncePerRound",
+    "VP":1.0,
+    "size":"Large",
+    "capacity":3.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":2.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":330,
+    "sort_id":255
+  },
+  {
+    "type":"Dragon",
+    "number":257,
+    "name":"Nettlesome Greatwyrm",
+    "ability":"Ignore this dragon's cost if it will be the 3rd or 4th dragon in its cave. Reveal [DragonCard] from the deck. If it is a *fledgling*, keep it and lay 1 [Egg] here. Otherwise, tuck it here.",
+    "abilityType":"Adventurer",
+    "VP":2.0,
+    "size":"Large",
+    "capacity":3.0,
+    "personality":"Aggressive",
+    "Meat":null,
+    "Gold":2.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":"x",
+    "expansion":"academy",
+    "id":331,
+    "sort_id":256
+  },
+  {
+    "type":"Dragon",
+    "number":258,
+    "name":"Mild Arboreal Wyvern",
+    "ability":"Train any *fledgling* 1x for free, then either gain the item covered by the training token or lay [Egg].",
+    "abilityType":"OncePerRound",
+    "VP":2.0,
+    "size":"Large",
+    "capacity":1.0,
+    "personality":"Helpful",
+    "Meat":null,
+    "Gold":2.0,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":332,
+    "sort_id":257
+  },
+  {
+    "type":"Dragon",
+    "number":259,
+    "name":"Cacophonic Lung Dragon",
+    "ability":"Pay [CaveCard] to train any *fledgling* up to 2x for free.",
+    "abilityType":"WhenPlayed",
+    "VP":5.0,
+    "size":"Large",
+    "capacity":2.0,
+    "personality":"Playful",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":2.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":333,
+    "sort_id":258
+  },
+  {
+    "type":"Dragon",
+    "number":260,
+    "name":"Regal Ice Dragon",
+    "ability":"Ignore this dragon's cost if it will complete a column or row of dragons. Gain [DragonGuild] if this dragon's column is full, and gain [DragonGuild] if this dragon's row is full.",
+    "abilityType":"OncePerRound",
+    "VP":0.0,
+    "size":"Large",
+    "capacity":1.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":null,
+    "Crystal":2.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":"x",
+    "expansion":"academy",
+    "id":334,
+    "sort_id":259
+  },
+  {
+    "type":"Dragon",
+    "number":261,
+    "name":"Affable Glowtail",
+    "ability":"Lay [Egg][Egg] on each PLAYFUL dragon in this cave.",
+    "abilityType":"OncePerRound",
+    "VP":3.0,
+    "size":"Large",
+    "capacity":2.0,
+    "personality":"Playful",
+    "Meat":1.0,
+    "Gold":1.0,
+    "Crystal":null,
+    "Coin":1.0,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":335,
+    "sort_id":260
+  },
+  {
+    "type":"Dragon",
+    "number":262,
+    "name":"Machiavelli's Dragon",
+    "ability":"Tuck up to 2 [DragonCard] from your hand under each SHY dragon in this cave.",
+    "abilityType":"Adventurer",
+    "VP":5.0,
+    "size":"Large",
+    "capacity":1.0,
+    "personality":"Shy",
+    "Meat":null,
+    "Gold":1.0,
+    "Crystal":2.0,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":336,
+    "sort_id":261
+  },
+  {
+    "type":"Dragon",
+    "number":263,
+    "name":"Hirsute Horned Colossus",
+    "ability":"Gain +[VP-3] for each dragon on your player mat with [Coin] in its cost (max [VP-15]).",
+    "abilityType":"EndGame",
+    "VP":3.0,
+    "size":"Large",
+    "capacity":2.0,
+    "personality":"Aggressive",
+    "Meat":1.0,
+    "Gold":1.0,
+    "Crystal":1.0,
+    "Coin":1.0,
+    "Crimson Cavern":"x",
+    "Golden Grotto":"x",
+    "Amethyst Abyss":"x",
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":337,
+    "sort_id":262
   },
   {
     "type":"Cave",
@@ -3861,7 +6330,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":183
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":183,
+    "sort_id":263
   },
   {
     "type":"Cave",
@@ -3882,7 +6354,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":184
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":184,
+    "sort_id":264
   },
   {
     "type":"Cave",
@@ -3903,7 +6378,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":185
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":185,
+    "sort_id":265
   },
   {
     "type":"Cave",
@@ -3924,7 +6402,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":186
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":186,
+    "sort_id":266
   },
   {
     "type":"Cave",
@@ -3945,7 +6426,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":187
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":187,
+    "sort_id":267
   },
   {
     "type":"Cave",
@@ -3966,7 +6450,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":188
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":188,
+    "sort_id":268
   },
   {
     "type":"Cave",
@@ -3987,7 +6474,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":189
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":189,
+    "sort_id":269
   },
   {
     "type":"Cave",
@@ -4008,7 +6498,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":190
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":190,
+    "sort_id":270
   },
   {
     "type":"Cave",
@@ -4029,7 +6522,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":191
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":191,
+    "sort_id":271
   },
   {
     "type":"Cave",
@@ -4050,7 +6546,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":192
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":192,
+    "sort_id":272
   },
   {
     "type":"Cave",
@@ -4071,7 +6570,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":193
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":193,
+    "sort_id":273
   },
   {
     "type":"Cave",
@@ -4092,7 +6594,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":194
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":194,
+    "sort_id":274
   },
   {
     "type":"Cave",
@@ -4113,7 +6618,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":195
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":195,
+    "sort_id":275
   },
   {
     "type":"Cave",
@@ -4134,7 +6642,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":196
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":196,
+    "sort_id":276
   },
   {
     "type":"Cave",
@@ -4155,7 +6666,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":197
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":197,
+    "sort_id":277
   },
   {
     "type":"Cave",
@@ -4176,7 +6690,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":198
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":198,
+    "sort_id":278
   },
   {
     "type":"Cave",
@@ -4197,7 +6714,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":199
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":199,
+    "sort_id":279
   },
   {
     "type":"Cave",
@@ -4218,7 +6738,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":200
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":200,
+    "sort_id":280
   },
   {
     "type":"Cave",
@@ -4239,7 +6762,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":201
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":201,
+    "sort_id":281
   },
   {
     "type":"Cave",
@@ -4260,7 +6786,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":202
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":202,
+    "sort_id":282
   },
   {
     "type":"Cave",
@@ -4281,7 +6810,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":203
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":203,
+    "sort_id":283
   },
   {
     "type":"Cave",
@@ -4302,7 +6834,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":204
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":204,
+    "sort_id":284
   },
   {
     "type":"Cave",
@@ -4323,7 +6858,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":205
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":205,
+    "sort_id":285
   },
   {
     "type":"Cave",
@@ -4344,7 +6882,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":206
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":206,
+    "sort_id":286
   },
   {
     "type":"Cave",
@@ -4365,7 +6906,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":207
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":207,
+    "sort_id":287
   },
   {
     "type":"Cave",
@@ -4386,7 +6930,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":208
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":208,
+    "sort_id":288
   },
   {
     "type":"Cave",
@@ -4407,7 +6954,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":209
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":209,
+    "sort_id":289
   },
   {
     "type":"Cave",
@@ -4428,7 +6978,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":210
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":210,
+    "sort_id":290
   },
   {
     "type":"Cave",
@@ -4449,7 +7002,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":211
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":211,
+    "sort_id":291
   },
   {
     "type":"Cave",
@@ -4470,7 +7026,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":212
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":212,
+    "sort_id":292
   },
   {
     "type":"Cave",
@@ -4491,7 +7050,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":213
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":213,
+    "sort_id":293
   },
   {
     "type":"Cave",
@@ -4512,7 +7074,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":214
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":214,
+    "sort_id":294
   },
   {
     "type":"Cave",
@@ -4533,7 +7098,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":215
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":215,
+    "sort_id":295
   },
   {
     "type":"Cave",
@@ -4554,7 +7122,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":216
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":216,
+    "sort_id":296
   },
   {
     "type":"Cave",
@@ -4575,7 +7146,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":217
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":217,
+    "sort_id":297
   },
   {
     "type":"Cave",
@@ -4596,7 +7170,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":218
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":218,
+    "sort_id":298
   },
   {
     "type":"Cave",
@@ -4617,7 +7194,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":219
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":219,
+    "sort_id":299
   },
   {
     "type":"Cave",
@@ -4638,7 +7218,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":220
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":220,
+    "sort_id":300
   },
   {
     "type":"Cave",
@@ -4659,7 +7242,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":221
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":221,
+    "sort_id":301
   },
   {
     "type":"Cave",
@@ -4680,7 +7266,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":222
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":222,
+    "sort_id":302
   },
   {
     "type":"Cave",
@@ -4701,7 +7290,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":223
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":223,
+    "sort_id":303
   },
   {
     "type":"Cave",
@@ -4722,7 +7314,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":224
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":224,
+    "sort_id":304
   },
   {
     "type":"Cave",
@@ -4743,7 +7338,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":225
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":225,
+    "sort_id":305
   },
   {
     "type":"Cave",
@@ -4764,7 +7362,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":226
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":226,
+    "sort_id":306
   },
   {
     "type":"Cave",
@@ -4785,7 +7386,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":227
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":227,
+    "sort_id":307
   },
   {
     "type":"Cave",
@@ -4806,7 +7410,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":228
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":228,
+    "sort_id":308
   },
   {
     "type":"Cave",
@@ -4827,7 +7434,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":229
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":229,
+    "sort_id":309
   },
   {
     "type":"Cave",
@@ -4848,7 +7458,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":230
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":230,
+    "sort_id":310
   },
   {
     "type":"Cave",
@@ -4869,13 +7482,16 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":231
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":231,
+    "sort_id":311
   },
   {
     "type":"Cave",
     "number":50,
     "name":null,
-    "ability":"Gain 2 different benefits: [DragonCard]\/[DragonGuild]\/[CaveCard]\/[AnyResource]. Each opponent gains 1 benefit of their choice.",
+    "ability":"Gain 2 different benefits: [DragonCard]\/[CaveCard]\/[AnyResource]. Each opponent gains 1 benefit of their choice.",
     "abilityType":"WhenPlayed",
     "VP":null,
     "size":null,
@@ -4890,13 +7506,16 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":232
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":232,
+    "sort_id":312
   },
   {
     "type":"Cave",
     "number":51,
     "name":null,
-    "ability":"Gain 2 different benefits: [DragonCard]\/[DragonGuild]\/[CaveCard]\/[AnyResource]. Each opponent gains 1 benefit of their choice.",
+    "ability":"Gain 2 different benefits: [DragonCard]\/[CaveCard]\/[AnyResource]. Each opponent gains 1 benefit of their choice.",
     "abilityType":"WhenPlayed",
     "VP":null,
     "size":null,
@@ -4911,7 +7530,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":233
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":233,
+    "sort_id":313
   },
   {
     "type":"Cave",
@@ -4932,7 +7554,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":234
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":234,
+    "sort_id":314
   },
   {
     "type":"Cave",
@@ -4953,7 +7578,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":235
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":235,
+    "sort_id":315
   },
   {
     "type":"Cave",
@@ -4974,7 +7602,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":236
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":236,
+    "sort_id":316
   },
   {
     "type":"Cave",
@@ -4995,7 +7626,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":237
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":237,
+    "sort_id":317
   },
   {
     "type":"Cave",
@@ -5016,7 +7650,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":238
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":238,
+    "sort_id":318
   },
   {
     "type":"Cave",
@@ -5037,7 +7674,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":239
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":239,
+    "sort_id":319
   },
   {
     "type":"Cave",
@@ -5058,7 +7698,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":240
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":240,
+    "sort_id":320
   },
   {
     "type":"Cave",
@@ -5079,7 +7722,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":241
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":241,
+    "sort_id":321
   },
   {
     "type":"Cave",
@@ -5100,7 +7746,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":242
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":242,
+    "sort_id":322
   },
   {
     "type":"Cave",
@@ -5121,7 +7770,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":243
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":243,
+    "sort_id":323
   },
   {
     "type":"Cave",
@@ -5142,7 +7794,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":244
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":244,
+    "sort_id":324
   },
   {
     "type":"Cave",
@@ -5163,7 +7818,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":245
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":245,
+    "sort_id":325
   },
   {
     "type":"Cave",
@@ -5184,7 +7842,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":246
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":246,
+    "sort_id":326
   },
   {
     "type":"Cave",
@@ -5205,7 +7866,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":247
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":247,
+    "sort_id":327
   },
   {
     "type":"Cave",
@@ -5226,7 +7890,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":248
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":248,
+    "sort_id":328
   },
   {
     "type":"Cave",
@@ -5247,7 +7914,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":249
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":249,
+    "sort_id":329
   },
   {
     "type":"Cave",
@@ -5268,7 +7938,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":250
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":250,
+    "sort_id":330
   },
   {
     "type":"Cave",
@@ -5289,7 +7962,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":251
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":251,
+    "sort_id":331
   },
   {
     "type":"Cave",
@@ -5310,7 +7986,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":252
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":252,
+    "sort_id":332
   },
   {
     "type":"Cave",
@@ -5331,7 +8010,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":253
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":253,
+    "sort_id":333
   },
   {
     "type":"Cave",
@@ -5352,7 +8034,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":254
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":254,
+    "sort_id":334
   },
   {
     "type":"Cave",
@@ -5373,7 +8058,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":255
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":255,
+    "sort_id":335
   },
   {
     "type":"Cave",
@@ -5394,7 +8082,10 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":256
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":256,
+    "sort_id":336
   },
   {
     "type":"Cave",
@@ -5415,6 +8106,609 @@
     "Amethyst Abyss":null,
     "Egg":null,
     "Milk":null,
-    "id":257
+    "ignoreCost":null,
+    "expansion":"base",
+    "id":257,
+    "sort_id":337
+  },
+  {
+    "type":"Cave",
+    "number":76,
+    "name":null,
+    "ability":"Up to 2x, train any *fledgling* 1x for free.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":338,
+    "sort_id":338
+  },
+  {
+    "type":"Cave",
+    "number":77,
+    "name":null,
+    "ability":"Up to 2x, train any *fledgling* 1x for free.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":339,
+    "sort_id":339
+  },
+  {
+    "type":"Cave",
+    "number":78,
+    "name":null,
+    "ability":"Train any *fledgling* 1x for free, then gain the item covered by the training token.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":340,
+    "sort_id":340
+  },
+  {
+    "type":"Cave",
+    "number":79,
+    "name":null,
+    "ability":"Train any *fledgling* 1x for free, then gain the item covered by the training token.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":341,
+    "sort_id":341
+  },
+  {
+    "type":"Cave",
+    "number":80,
+    "name":null,
+    "ability":"Fully train any *fledgling* for free. All others may train any *fledgling* 1x for free.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":342,
+    "sort_id":342
+  },
+  {
+    "type":"Cave",
+    "number":81,
+    "name":null,
+    "ability":"Draw 3 [DragonCard] from the deck. Keep 1, discard 1, and tuck 1 under any dragon.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":343,
+    "sort_id":343
+  },
+  {
+    "type":"Cave",
+    "number":82,
+    "name":null,
+    "ability":"Gain [AnyResource][AnyResource]. Keep 1 and cache 1 onto any dragon.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":344,
+    "sort_id":344
+  },
+  {
+    "type":"Cave",
+    "number":83,
+    "name":null,
+    "ability":"Activate the [Adventurer] ability on up to 2 dragons on your player mat.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":345,
+    "sort_id":345
+  },
+  {
+    "type":"Cave",
+    "number":84,
+    "name":null,
+    "ability":"Activate 2 different [Adventurer] abilities printed on your player mat.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":346,
+    "sort_id":346
+  },
+  {
+    "type":"Cave",
+    "number":85,
+    "name":null,
+    "ability":"Lay [Egg][Egg][Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":347,
+    "sort_id":347
+  },
+  {
+    "type":"Cave",
+    "number":86,
+    "name":null,
+    "ability":"Gain [Meat][Milk].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":348,
+    "sort_id":348
+  },
+  {
+    "type":"Cave",
+    "number":87,
+    "name":null,
+    "ability":"Gain [Meat][Crystal].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":349,
+    "sort_id":349
+  },
+  {
+    "type":"Cave",
+    "number":88,
+    "name":null,
+    "ability":"Gain [Meat][Gold].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":350,
+    "sort_id":350
+  },
+  {
+    "type":"Cave",
+    "number":89,
+    "name":null,
+    "ability":"Gain [Gold][Crystal].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":351,
+    "sort_id":351
+  },
+  {
+    "type":"Cave",
+    "number":90,
+    "name":null,
+    "ability":"Gain [Gold][Crystal]. Lay [Egg]. All opponents lay [Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":352,
+    "sort_id":352
+  },
+  {
+    "type":"Cave",
+    "number":91,
+    "name":null,
+    "ability":"Gain [Meat][Milk][DragonCard]. All opponents gain 1 of their choice.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":353,
+    "sort_id":353
+  },
+  {
+    "type":"Cave",
+    "number":92,
+    "name":null,
+    "ability":"Gain [DragonGuild][DragonGuild]. All opponents lay [Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":354,
+    "sort_id":354
+  },
+  {
+    "type":"Cave",
+    "number":93,
+    "name":null,
+    "ability":"Gain [DragonGuild][DragonGuild]. All opponents lay [Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":355,
+    "sort_id":355
+  },
+  {
+    "type":"Cave",
+    "number":94,
+    "name":null,
+    "ability":"Pay [Coin] to gain [DragonCard][AnyResource][CaveCard] and lay [Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":356,
+    "sort_id":356
+  },
+  {
+    "type":"Cave",
+    "number":95,
+    "name":null,
+    "ability":"Pay [Coin] to gain [DragonCard][AnyResource][CaveCard] and lay [Egg].",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":357,
+    "sort_id":357
+  },
+  {
+    "type":"Cave",
+    "number":96,
+    "name":null,
+    "ability":"Pay [DragonCard][DragonCard], then excavate 1 space for free with [CaveCard] from your hand.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":358,
+    "sort_id":358
+  },
+  {
+    "type":"Cave",
+    "number":97,
+    "name":null,
+    "ability":"Pay [AnyResource][AnyResource], then excavate 1 space for free with [CaveCard] from your hand.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":359,
+    "sort_id":359
+  },
+  {
+    "type":"Cave",
+    "number":98,
+    "name":null,
+    "ability":"Pay [Egg][Egg], then excavate 1 space for free with [CaveCard] from your hand.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":360,
+    "sort_id":360
+  },
+  {
+    "type":"Cave",
+    "number":99,
+    "name":null,
+    "ability":"Pay [AnyResource][Egg], then excavate 1 space for free with [CaveCard] from your hand.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":361,
+    "sort_id":361
+  },
+  {
+    "type":"Cave",
+    "number":100,
+    "name":null,
+    "ability":"Pay [Coin][AnyResource], then play [DragonCard] from your hand for free.",
+    "abilityType":"WhenPlayed",
+    "VP":null,
+    "size":null,
+    "capacity":null,
+    "personality":null,
+    "Meat":null,
+    "Gold":null,
+    "Crystal":null,
+    "Coin":null,
+    "Crimson Cavern":null,
+    "Golden Grotto":null,
+    "Amethyst Abyss":null,
+    "Egg":null,
+    "Milk":null,
+    "ignoreCost":null,
+    "expansion":"academy",
+    "id":362,
+    "sort_id":362
   }
 ]
