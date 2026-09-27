@@ -50,6 +50,8 @@
   .row {
     display: flex;
     align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
 
     img {
       max-height: 35px;
@@ -65,6 +67,305 @@
   }
 }
 
+.filter-controls {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.filter-section {
+  margin-bottom: 15px;
+}
+
+.filter-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.filter-header .filter-label {
+  margin: 0;
+  display: inline;
+}
+
+.filter-select-all,
+.filter-clear-all {
+  font-size: 11px;
+  padding: 4px 8px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  font-family: 'Acumin Pro Condensed', sans-serif;
+  margin-left: auto;
+}
+
+.filter-select-all {
+  background-color: #2c3e50;
+  color: #ecf0f1;
+}
+
+.filter-select-all:hover:not(:disabled) {
+  background-color: #1a252f;
+}
+
+.filter-select-all:disabled {
+  background-color: #bdc3c7;
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+.filter-clear-all {
+  background-color: #e67e22;
+  color: white;
+}
+
+.filter-clear-all:hover:not(:disabled) {
+  background-color: #d35400;
+}
+
+.filter-clear-all:disabled {
+  background-color: #bdc3c7;
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+.filter-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.filter-header .filter-label {
+  margin: 0;
+  display: inline;
+}
+
+.filter-header-buttons {
+  display: flex;
+  gap: 6px;
+}
+
+.filter-select-all,
+.filter-clear-all {
+  font-size: 11px;
+  padding: 4px 8px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  font-family: 'Acumin Pro Condensed', sans-serif;
+  white-space: nowrap;
+}
+
+.filter-select-all {
+  background-color: #2c3e50;
+  color: #ecf0f1;
+}
+
+.filter-select-all:hover:not(:disabled) {
+  background-color: #1a252f;
+}
+
+.filter-select-all:disabled {
+  background-color: #bdc3c7;
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+.filter-clear-all {
+  background-color: #e67e22;
+  color: white;
+}
+
+.filter-clear-all:hover:not(:disabled) {
+  background-color: #d35400;
+}
+
+.filter-clear-all:disabled {
+  background-color: #bdc3c7;
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+.type-filter {
+  padding: 6px 12px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  font-family: 'Acumin Pro Condensed', sans-serif;
+  background-color: transparent;
+  color: #7f8c8d;
+  outline: 1px solid #bdc3c7;
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+
+.type-filter.active {
+  background-color: #2c3e50;
+  color: #ecf0f1;
+  outline: none;
+}
+
+.sort-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.filter-label {
+  display: inline;
+}
+
+.sort-order-toggle {
+  padding: 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  transition: transform 0.3s ease;
+  font-family: 'Acumin Pro Condensed', sans-serif;
+  background-color: transparent;
+  color: #7f8c8d;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  outline: none;
+  line-height: 1;
+  margin-top: -8px;
+}
+
+.sort-order-toggle svg {
+  transform-origin: center;
+}
+
+.sort-order-toggle.active svg {
+  transform: scaleX(1) scaleY(-1);
+}
+
+.search-details .ignore-cost-text {
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.search-details .resource-icons, 
+.search-details .ability-icons, 
+.search-details .cave-icons {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.search-details .resource-icon, 
+.search-details .ability-icon, 
+.search-details .cave-icon {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.2s ease;
+  background-color: #ecf0f1;
+  border: 2px solid #bdc3c7;
+  font-family: 'Acumin Pro Condensed', sans-serif;
+  font-weight: 500;
+}
+
+.search-details .resource-icon.active,
+.search-details .ability-icon.active {
+  background-color: #2c3e50;
+  border-color: #2c3e50;
+  color: #ecf0f1;
+}
+
+.search-details .ability-icon {
+  background-color: #ecf0f1;
+  border: 2px solid #bdc3c7;
+  padding: 8px 12px;
+}
+
+.search-details .ability-icon.active {
+  background-color: #2c3e50;
+  border-color: #2c3e50;
+  color: #ecf0f1;
+}
+
+.search-details .ability-icon .ability-svg {
+  background-color: white;
+  border-radius: 50%;
+  padding: 2px;
+  display: block;
+}
+
+.search-details .ability-icon:hover, 
+.search-details .cave-icon:hover {
+  transform: scale(1.05);
+}
+
+.search-details .resource-svg, 
+.search-details .ability-svg {
+  height: 20px;
+  width: 20px;
+  object-fit: contain;
+}
+
+.search-details .ability-text {
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.search-details .cave-icon {
+  border: none;
+  color: white;
+  font-weight: 600;
+  padding: 10px 16px;
+}
+
+.search-details .cave-icon.crimson {
+  background-color: #b25552;
+}
+
+.search-details .cave-icon.golden {
+  background-color: #f1c64a;
+}
+
+.search-details .cave-icon.amethyst {
+  background-color: #a57d9f;
+}
+
+.search-details .cave-icon.active.crimson {
+  background-color: #b25552;
+  box-shadow: 0 2px 8px rgba(178, 85, 82, 0.5);
+}
+
+.search-details .cave-icon.active.golden {
+  background-color: #f1c64a;
+  box-shadow: 0 2px 8px rgba(241, 198, 74, 0.5);
+}
+
+.search-details .cave-icon.active.amethyst {
+  background-color: #a57d9f;
+  box-shadow: 0 2px 8px rgba(165, 125, 159, 0.5);
+}
+
+.search-details .cave-icon:not(.active) {
+  opacity: 0.5;
+}
+
 .expansion-filter {
   padding: 6px 12px;
   border: none;
@@ -77,16 +378,14 @@
   background-color: transparent;
   color: #7f8c8d;
   outline: 1px solid #bdc3c7;
+  margin-right: 8px;
+  margin-bottom: 8px;
 }
 
 .expansion-filter.active {
   background-color: #2c3e50;
   color: #ecf0f1;
   outline: none;
-}
-
-.expansion-filter:first-of-type {
-  margin-right: 12px;
 }
 
 @media (min-width: 700px) {

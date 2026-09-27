@@ -1,4 +1,5 @@
 const CssMinimizerPlugin = require("css-minimizer-webpack-plugin");
+const path = require("path");
 
 module.exports = {
   webpack: {
@@ -10,7 +11,10 @@ module.exports = {
             (plugin) => !(plugin instanceof CssMinimizerPlugin)
           );
       }
+      // Add path alias
+      webpackConfig.resolve.alias["@"] = path.resolve(__dirname, "src/");
       return webpackConfig;
     },
   },
 };
+
